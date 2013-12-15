@@ -1,1 +1,1 @@
-#Arc90 READS ALL THE THINGS.
+Related to this [meetup](http://www.meetup.com/papers-we-love/)
