@@ -8,6 +8,7 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ## Other Good Places to Find Papers
 
+* [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
 * [Microsoft](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Vijay D'Silva](http://www.eecs.berkeley.edu/~vijayd/#papers)
