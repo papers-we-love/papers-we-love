@@ -22,3 +22,10 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [How to read an academic article] (http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers] (http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper] (http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+
+## Contributing Guidelines
+
+We have a few guidelines in place to keep the repo clean and easy to navigate. Follow these conventions in your pull-request for a speedy merge.
+
+* Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
+* Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
