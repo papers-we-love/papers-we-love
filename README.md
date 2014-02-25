@@ -1,6 +1,11 @@
 ##Papers We Love
 
-* Repository Related to this [Meetup](http://www.meetup.com/papers-we-love/)
+Repository related to the following meetups:
+
+* [NYC - Papers We Love](http://www.meetup.com/papers-we-love/)
+* [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
+
+Let us know if you are interested in starting a chapter!
 
 ##Info
 
