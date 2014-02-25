@@ -14,6 +14,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Microsoft](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Vijay D'Silva](http://www.eecs.berkeley.edu/~vijayd/#papers)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
+* [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
 
 ## How To Read a Paper
 
