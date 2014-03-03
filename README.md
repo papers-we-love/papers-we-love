@@ -1,4 +1,4 @@
-##Papers We Love
+## Papers We Love
 
 Repository related to the following meetups:
 
@@ -7,7 +7,7 @@ Repository related to the following meetups:
 
 Let us know if you are interested in starting a chapter!
 
-##Info
+## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 
@@ -35,3 +35,8 @@ We have a few guidelines in place to keep the repo clean and easy to navigate. F
 
 * Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
 * Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
+
+## Papers We Love Presentations
+
+* Check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
+* [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
