@@ -22,6 +22,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
 * [arXiv Paper Repository](http://arxiv.org/)
+* [SciRate](https://scirate.com/)
 
 ## How To Read a Paper
 
