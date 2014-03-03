@@ -4,6 +4,7 @@ Repository related to the following meetups:
 
 * [NYC - Papers We Love](http://www.meetup.com/papers-we-love/)
 * [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
+* [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
 
 Let us know if you are interested in starting a chapter!
 
@@ -20,6 +21,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Vijay D'Silva](http://www.eecs.berkeley.edu/~vijayd/#papers)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
+* [arXiv Paper Repository](http://arxiv.org/)
 
 ## How To Read a Paper
 
