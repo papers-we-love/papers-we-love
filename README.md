@@ -34,7 +34,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## Contributing Guidelines
 
-We have a few guidelines in place to keep the repo clean and easy to navigate. Follow these conventions in your pull-request for a speedy merge.
+We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge.
 
 * Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
 * Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
