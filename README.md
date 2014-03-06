@@ -8,11 +8,16 @@ Repository related to the following meetups:
 
 Let us know if you are interested in starting a chapter!
 
+### Past presentations
+
+* Check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
+* [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 
-## Other Good Places to Find Papers
+### Other Good Places to Find Papers
 
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
@@ -24,7 +29,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [arXiv Paper Repository](http://arxiv.org/)
 * [SciRate](https://scirate.com/)
 
-## How To Read a Paper
+### How To Read a Paper
 
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
@@ -34,12 +39,16 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## Contributing Guidelines
 
-We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge.
+We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge. Note that every pull request we receive must have Two-Thumbs-Up minimum from PWL organizers/collaborators to be merged.
 
-* Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
-* Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
+### Follow the group's ethos
 
-## Papers We Love Presentations
+We want to help bring academic research closer to practitioners. Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
 
-* Check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
-* [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+### Respect content licenses
+
+**We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example license 1 from the ACM digital library.
+
+### Follow our naming convention
+* Directory names are undercased and separated by underscores (example: artificial_intelligence)
+* Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
