@@ -50,5 +50,5 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## Other Good Sources of Reading Material
 
-Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-for-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
+Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
