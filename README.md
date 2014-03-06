@@ -23,6 +23,17 @@ We're looking for pull requests related to papers we should add, better organiza
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
 * [arXiv Paper Repository](http://arxiv.org/)
 * [SciRate](https://scirate.com/)
+* [cat-v.org](http://doc.cat-v.org/)
+* [y-archive](http://yarchive.net/comp/index.html)
+* [Bell System Technical Journal](http://www3.alcatel-lucent.com/bstj/)
+* [netlib](http://www.netlib.org/)
+
+## Contributing Guidelines
+
+We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge.
+
+* Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
+* Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
 
 ## How To Read a Paper
 
@@ -32,14 +43,12 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [Advice on reading academic papers] (http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper] (http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
-## Contributing Guidelines
-
-We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge.
-
-* Directory names are undercased and separated by underscores (example: `artificial_intelligence`)
-* Paper names are undercased and separated by dashes (example: `out-of-the-tar-pit.pdf`). Use the full title when possible.
-
 ## Papers We Love Presentations
 
 * Check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
 * [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+
+## Other Good Sources of Reading Material
+
+Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-for-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
+
