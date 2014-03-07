@@ -5,6 +5,7 @@ Repository related to the following meetups:
 * [NYC - Papers We Love](http://www.meetup.com/papers-we-love/)
 * [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
 * [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
+* [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 
 Let us know if you are interested in starting a chapter!
 
