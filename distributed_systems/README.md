@@ -67,7 +67,3 @@
 * [viewstamped-replication](http://www.pmg.csail.mit.edu/papers/vr.pdf)
 
 * [vl2-a-scalable-and-flexible-data-center-network](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf)
-
-
-
-
