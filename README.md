@@ -48,8 +48,9 @@ We want to help bring academic research closer to practitioners. Books, blogpost
 
 ### Respect content licenses
 
-**We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example license 1 from the ACM digital library.
+**We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
 
 ### Follow our naming convention
+
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
