@@ -7,7 +7,7 @@ Repository related to the following meetups:
 * [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
 * [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 
-Let us know if you are interested in starting a chapter!
+Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
 ### Past presentations
 
@@ -29,6 +29,12 @@ We're looking for pull requests related to papers we should add, better organiza
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
 * [arXiv Paper Repository](http://arxiv.org/)
 * [SciRate](https://scirate.com/)
+* [cat-v.org](http://doc.cat-v.org/)
+* [y-archive](http://yarchive.net/comp/index.html)
+* [Bell System Technical Journal](http://www3.alcatel-lucent.com/bstj/)
+* [netlib](http://www.netlib.org/)
+
+Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
 ### How To Read a Paper
 
