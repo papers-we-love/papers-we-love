@@ -9,10 +9,11 @@ Repository related to the following meetups:
 
 Let us know if you are interested in starting a chapter!
 
-### Past presentations
+### Past Presentations
 
-* Check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
-* [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+* Our latest presentation was led by [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
+
+See the complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
 
 ## Info
 
