@@ -2,7 +2,7 @@
 
 * [a-simple-totally-ordered-broadcast-protocol](http://labs.yahoo.com/files/ladis08.pdf)
 
-* [cassandra-a-decentralized-structured-storage-system](/Users/zeeshanlakhani/Downloads/Cassandra_A_Decentralized_Structured_Storage_System.pdf)
+* [cassandra-a-decentralized-structured-storage-system](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
 
 * [chord-algorithm](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 
