@@ -51,7 +51,9 @@ We have a few guidelines in place to keep the repo clean and easy to navigate. W
 
 ### Follow the group's ethos
 
-We want to help bring academic research closer to practitioners. Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
+We want to help bring academic research closer to practitioners and we strive to:
+* **Keep the quality of papers listed high:** Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
+* **Help people understand why a paper is important:** We ask that you include with your commit an update to the directory README with a short justification of why you love this paper (for example: A paper might be interesting because it spawned a new domain, it was exceptionally well-written, or perhaps it was completely wrong about something.)
 
 ### Respect content licenses
 
