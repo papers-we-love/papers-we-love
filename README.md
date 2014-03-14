@@ -41,9 +41,9 @@ Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-lov
 
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
-* [How to read an academic article] (http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-* [Advice on reading academic papers] (http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
-* [How to read and understand a scientific paper] (http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+* [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 ## Contributing Guidelines
 
@@ -57,7 +57,8 @@ We want to help bring academic research closer to practitioners and we strive to
 
 ### Respect content licenses
 
-**We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
+* **We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
+* We encourage papers that do not allow digital distribution to be added to a README in the appropriate subject's folder. For example, [the distributed systems README](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/README.md).
 
 ### Follow our naming convention
 
