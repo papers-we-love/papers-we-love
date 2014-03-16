@@ -1,1 +1,1 @@
-* [purely-functional-lazy-non-deterministic-programming](http://www.cs.rutgers.edu/~ccshan/rational/lazy-nondet.pdf)
+* [Purely Functional Lazy Non-deterministic Programming](http://www.cs.rutgers.edu/~ccshan/rational/lazy-nondet.pdf)
