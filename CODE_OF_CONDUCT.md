@@ -1,6 +1,6 @@
 Papers We Love meet-ups are gatherings for the programming communities in their respective areas to discuss academic research in a fun, engaging and respectful environment. 
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events, whether officially sponsored by the organization or not.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events.
 
 To make clear what is expected, all attendees, speakers, exhibitors, organizers and volunteers at any Papers We Love event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
