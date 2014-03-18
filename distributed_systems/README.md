@@ -1,3 +1,7 @@
+# Distributed Systems
+
+## External Papers
+
 * [A simple totally ordered broadcast protocol](http://labs.yahoo.com/files/ladis08.pdf)
 
 * [Cassandra - A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
@@ -67,3 +71,9 @@
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.pmg.csail.mit.edu/papers/vr.pdf)
 
 * [VL2: A Scalable and Flexible Data Center Network](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf)
+
+## Related Works
+
+### [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../historical/physics/on-the-electrodynamics-of-moving-bodies.pdf)
+
+By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication. 
