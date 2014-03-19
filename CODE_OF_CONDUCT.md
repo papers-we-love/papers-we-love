@@ -1,4 +1,4 @@
-Papers We Love meet-ups are gatherings for the programming communities in their respective areas to discuss academic research in a fun, engaging and respectful environment. 
+Papers We Love meet-ups are for anyone insterested in Computer Science and its origins to discuss academic research in a fun, engaging and respectful environment. 
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events.
 
@@ -48,7 +48,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please contact any of these individuals:
 
-- Foo Bar at +1 (555) 555-5555
+- Zeeshan Lakhani zeeshan.lakhani@gmail.com
+- Clint Newsom hcnewsom@gmail.com
 
 
 License
