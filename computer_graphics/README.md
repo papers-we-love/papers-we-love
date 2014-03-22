@@ -6,3 +6,5 @@
 
 ### Surface reconstruction
 * [Poisson surface reconstruction](http://research.microsoft.com/en-us/um/people/hoppe/poissonrecon.pdf) - [Code](http://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version5.71/)
+
+* [KinectFusion: Real-time 3D Reconstruction and Interaction Using a Moving Depth Camera](http://research.microsoft.com/pubs/155416/kinectfusion-uist-comp.pdf)
