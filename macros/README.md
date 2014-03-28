@@ -1,1 +1,1 @@
-* [fortyifying-macros](http://www.ccs.neu.edu/racket/pubs/icfp10-cf.pdf)
+* [Fortifying Macros](http://www.ccs.neu.edu/racket/pubs/icfp10-cf.pdf)

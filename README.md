@@ -6,6 +6,7 @@ Repository related to the following meetups:
 * [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
 * [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
 * [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
@@ -41,9 +42,9 @@ Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-lov
 
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
-* [How to read an academic article] (http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-* [Advice on reading academic papers] (http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
-* [How to read and understand a scientific paper] (http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+* [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 ## Contributing Guidelines
 
@@ -51,11 +52,14 @@ We have a few guidelines in place to keep the repo clean and easy to navigate. W
 
 ### Follow the group's ethos
 
-We want to help bring academic research closer to practitioners. Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
+We want to help bring academic research closer to practitioners and we strive to:
+* **Keep the quality of papers listed high:** Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
+* **Help people understand why a paper is important:** We ask that you include with your commit an update to the directory README with a short justification of why you love this paper (for example: A paper might be interesting because it spawned a new domain, it was exceptionally well-written, or perhaps it was completely wrong about something.)
 
 ### Respect content licenses
 
-**We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
+* **We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
+* We encourage papers that do not allow digital distribution to be added to a README in the appropriate subject's folder. For example, [the distributed systems README](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/README.md).
 
 ### Follow our naming convention
 
