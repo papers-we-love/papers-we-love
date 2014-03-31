@@ -1,8 +1,8 @@
-Papers We Love meet-ups are for anyone insterested in Computer Science and its origins to discuss academic research in a fun, engaging and respectful environment. 
+Papers We Love meet-ups are for anyone insterested in Computer Science, Computer Engineering and its history to discuss academic research in a fun, engaging and respectful environment. 
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events and interactions on the GitHub repository and Meetup site(s).
 
-To make clear what is expected, all attendees, speakers, exhibitors, organizers and volunteers at any Papers We Love event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code of conduct.
 
 The Short Version
 -----------------
@@ -24,7 +24,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Exhibitors in the expo hall, contributors to the GitHub repository and the Meetup site, sponsors at vendor booths, or similar are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Papers We Love.
 
