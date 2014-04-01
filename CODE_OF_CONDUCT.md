@@ -24,7 +24,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors in the expo hall, contributors to the GitHub repository and the Meetup site, sponsors at vendor booths, or similar are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Contributors to the GitHub repository and the Meetup site, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Papers We Love.
 
