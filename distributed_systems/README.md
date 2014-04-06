@@ -52,6 +52,8 @@
 
 * [Sinfonia: A New Paradigm for Building Scalable Distributed Systems](http://research.microsoft.com/en-us/people/aguilera/sinfonia-aguilera-sosp2007.pdf)
 
+* [Sparrow: Distributed, Low Latency Scheduling](http://people.csail.mit.edu/matei/papers/2013/sosp_sparrow.pdf)
+
 * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
 
 * [The Dangers of Replication and a Solution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.2707&rep=rep1&type=pdf)
