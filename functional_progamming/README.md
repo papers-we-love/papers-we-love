@@ -8,4 +8,4 @@
 
 ## Concatenative Programming
 
-* [Concatenative Programming: An Overlooked Paradigm in Functional Programming](http://mitarbeiter.hs-heilbronn.de/~herzberg/Publications/ICSOFT.2009.pdf)
+* :scroll: [Concatenative Programming: An Overlooked Paradigm in Functional Programming](http://mitarbeiter.hs-heilbronn.de/~herzberg/Publications/ICSOFT.2009.pdf)
