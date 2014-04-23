@@ -11,3 +11,9 @@
 
 ### Object modeling
 * [3-Sweep: Extracting Editable Objects from a Single Photo](http://www.cs.tau.ac.il/~dcor/articles/2013/3-Sweep-Extracting-Editable-Objects.pdf) - [Video](https://www.youtube.com/watch?v=Oie1ZXWceqM)
+
+### Lighting
+* [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
+
+### Interior mapping
+* [Interior Mapping: A new technique for rendering realistic buildings](http://www.proun-game.com/Oogst3D/CODING/InteriorMapping/InteriorMapping.pdf)
