@@ -38,6 +38,8 @@
 
 * [MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41378.pdf)
 
+* [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf) 
+
 * [Optimistic replication](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/optimistic-survey.pdf)
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
