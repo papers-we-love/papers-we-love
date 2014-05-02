@@ -13,13 +13,10 @@ Let us know if you are interested in starting a [chapter](https://github.com/pap
 
 ### Past Presentations
 
-* Our latest presentation was led by [Michael Bernstein](http://michaelrbernste.in/) on [A Unified Theory of Garbage Collection](http://www.youtube.com/watch?v=XtUtfARSIv8)
-
 See the complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
 
 ## Search this Repo!
 [@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com)!
-
 
 ## Info
 
