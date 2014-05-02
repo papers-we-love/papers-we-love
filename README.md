@@ -17,6 +17,10 @@ Let us know if you are interested in starting a [chapter](https://github.com/pap
 
 See the complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove)
 
+## Search this Repo!
+@polyfractal indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com)!
+
+
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
