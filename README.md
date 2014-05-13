@@ -28,7 +28,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
-* [Microsoft](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
+* [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)
 * [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
@@ -36,7 +36,6 @@ We're looking for pull requests related to papers we should add, better organiza
 * [SciRate](https://scirate.com/)
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
-* [Bell System Technical Journal](http://www3.alcatel-lucent.com/bstj/)
 * [netlib](http://www.netlib.org/)
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 
