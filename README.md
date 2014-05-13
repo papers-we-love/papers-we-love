@@ -13,7 +13,7 @@ Let us know if you are interested in starting a [chapter](https://github.com/pap
 
 ### Past Presentations
 
-See the complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our Youtube [channel](http://www.youtube.com/user/PapersWeLove).
+View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](http://www.youtube.com/user/PapersWeLove) and [MixCloud](http://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Search this Repo!
 [@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com)!
@@ -24,6 +24,7 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Find Papers
 
+* [Bell System Technical Journal, 1922-1983](http://alcatel-lucent.com/bstj/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
