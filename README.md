@@ -8,6 +8,7 @@ Repository related to the following meetups:
 * [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Ohio - Papers We Love](http://www.meetup.com/Papers-We-Love-Columbus/)
+* [Berlin - Papers We Love](http://www.meetup.com/Papers-We-Love-Berlin/)
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
