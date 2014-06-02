@@ -2,7 +2,7 @@
 
 ## External Papers
 
-* [Defining Gamification - A Service Marketing Perspective](http://www.hiit.fi/u/hamari/Defining_Gamification-A_Service_Marketing_Perspective.pdf)
+* [Defining Gamification - A Service Marketing Perspective](http://www.rolandhubscher.org/courses/hf765/readings/p17-huotari.pdf)
 
 * [Design Requirements for Technologies that Encourage Physical Activity](http://www.katherineeveritt.com/papers/p457-consolvo.pdf)
 
