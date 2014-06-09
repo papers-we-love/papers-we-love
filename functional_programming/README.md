@@ -1,5 +1,7 @@
 # Functional Programming
 
+* :scroll: [Organizing Programs Without Classes](http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf)
+
 ## Applicative Programming
 
 * [Backtracking Iterators](https://www.lri.fr/~filliatr/publis/enum2.pdf)
