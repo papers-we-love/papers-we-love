@@ -23,12 +23,6 @@ View a complete list of [past presentations](https://github.com/papers-we-love/p
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
 
-## Support us
-
-If you like what Papers We Love is doing, cosider supporting us on Gittip.
-
-<script data-gittip-username="papers_we_love" src="//gttp.co/v1.js"></script>
-
 ### Other Good Places to Find Papers
 
 * [Bell System Technical Journal, 1922-1983](http://alcatel-lucent.com/bstj/)
