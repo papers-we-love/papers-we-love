@@ -1,0 +1,19 @@
+"The Event Calculus as a Linear Logic Program"
+Vladimir Alexiev
+
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.9953
+
+Direct download:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.9953&rep=rep1&type=pdf
+
+Abstract:
+
+The traditional presentation of Kowalski's Event Calculus as a logic program uses
+Negation-as-Failure (NAF) in an essential way to support persistence of fluents. 
+In this paper we present an implementation of Event Calculus as a purely logical
+(without NAF) Linear Logic (LL) program. This work demonstrates some of the
+internal non-monotonic features of LL and its suitability for knowledge update
+(as opposed to knowledge revision). Although NAF is an ontologically sufficient
+solution to the frame problem, the LL solution is implementationally superior.
+Handling of incomplete temporal descriptions and support for ramifications
+(derived fluents) are also considered.
