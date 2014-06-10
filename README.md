@@ -70,3 +70,11 @@ We want to help bring academic research closer to practitioners and we strive to
 
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
+
+### Support PWL
+
+![](http://9k1.us/R4YV/receiving.png)
+```html
+<script data-gittip-username="papers_we_love"
+  src="//gttp.co/v1.js"></script>>
+```
