@@ -13,7 +13,7 @@ Repository related to the following meetups:
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
-All of our meetups follow our (Code of Conduct)[CODE_OF_CONDUCT.md]
+All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
