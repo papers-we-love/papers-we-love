@@ -13,6 +13,8 @@ Repository related to the following meetups:
 
 Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
 
+All of our meetups follow our (Code of Conduct)[CODE_OF_CONDUCT.md]
+
 ### Past Presentations
 
 View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](http://www.youtube.com/user/PapersWeLove) and [MixCloud](http://www.mixcloud.com/paperswelove/) (audio-only format) channels.
