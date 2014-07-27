@@ -1,18 +1,19 @@
 ## Papers We Love
 
-Repository related to the following meetups:
+### Chapters
 
-* [NYC - Papers We Love](http://www.meetup.com/papers-we-love/)
-* [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
-* [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
-* [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
-* [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
-* [Ohio - Papers We Love](http://www.meetup.com/Papers-We-Love-Columbus/)
-* [Berlin - Papers We Love](http://www.meetup.com/Papers-We-Love-Berlin/)
-* [Pune - Papers We Love @doothings] (http://www.meetup.com/Doo-Things)
-* [Boston - Papers We Love](http://www.meetup.com/Papers-We-Love-Boston/)
+Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
 
-Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
+* [New York City](http://www.meetup.com/papers-we-love/)
+* [San Francisco](http://www.meetup.com/papers-we-love-too/)
+* [London](http://www.meetup.com/papers-we-love-london)
+* [Saint Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
+* [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
+* [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
+* [Pune] (http://www.meetup.com/Doo-Things)
+* [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
