@@ -1,6 +1,6 @@
 # Clojure
 
-This is a cross-listing of papers related to Clojure, it's core, contrib and popular libraries. Papers noted at at Clojure talks, meetups, and conferences can be found here as well.
+This is a cross-listing of papers related to Clojure, it's core, contrib and popular libraries. Papers noted at Clojure talks, meetups, and conferences can be found here as well.
 ## Data Structures
 * core.rrb-vector
   * [RRB-Trees: Efﬁcient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
