@@ -1,2 +1,6 @@
 * [Reflections on Trusting Trust](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [Internet Census via Insecure Routers](http://internetcensus2012.bitbucket.org/paper.html)
+* [Looking inside the (Drop) box](http://115.68.24.98/sites/default/files/files/woot13-kholia.pdf)
+* [Making Programs Forget: Enforcing Lifetime For Sensitive Data](https://www.usenix.org/events/hotos11/tech/final_files/Kannan.pdf)
+* [Breach: Reviving The Crime Attack](http://78.38.193.25/sites/default/files/US-13-Prado-SSL-Gone-in-30-seconds-A-BREACH-beyond-CRIME-WP_0.pdf)
+* [Why Silent Updates Boost Security](ftp://129.132.2.249/pub/publications/TIK-Report-302.pdf)
