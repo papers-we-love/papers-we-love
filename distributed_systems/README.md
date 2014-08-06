@@ -54,6 +54,8 @@
 
 * [Optimistic replication](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/optimistic-survey.pdf)
 
+* [Orleans: Distributed Virtual Actors for Programmability and Scalability] (http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
+
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
 * [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/practical-byzantine-fault-tolerance-and-proactive-recovery.pdf)
