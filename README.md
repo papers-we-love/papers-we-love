@@ -13,6 +13,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Pune] (http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [Nashville](http://www.meetup.com/nashpapers)
 
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
