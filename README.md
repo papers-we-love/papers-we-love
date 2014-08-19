@@ -11,8 +11,9 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
-* [Pune] (http://www.meetup.com/Doo-Things)
+* [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).

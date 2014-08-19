@@ -4,9 +4,8 @@ Information retrieval is the activity of obtaining information resources relevan
 
 The included documents are
 
-*
-  [Graph of Word and TW-IDF](http://www.lix.polytechnique.fr/~rousseau/papers/rousseau-cikm2013.pdf) - Francois Rousseau & Michalis Vazirgiannis
-  
+* [Graph of Word and TW-IDF](http://www.lix.polytechnique.fr/~rousseau/papers/rousseau-cikm2013.pdf) - Francois Rousseau & Michalis Vazirgiannis
+
   The traditional IR system stores term-specific statistics (typically
   a term's frequency in each document - which we call TF) in an index.
   Such a model ignores dependencies between terms and considers a
@@ -17,3 +16,5 @@ The included documents are
   TW statistic based on the graph constructed and achieve
   significantly better results that popular existing models. This
   paper won a honorable mention at CIKM 2013.
+
+* [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
