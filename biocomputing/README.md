@@ -8,5 +8,6 @@ Some resources that may assist in understanding papers in this section:
     - An interesting and inspiring approach to solving the (NP-complete) Hamiltonian Graph problem. 
 
 * [The chemical basis of morphogenesis](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)    
-    - How we can generate patterns from reaction-diffusion models and how those models
-apply in real life scenarios. By Alan Turing
+    - How we can generate patterns from reaction-diffusion models and how those models apply in real life situations: cells self-organisation and pattern creation.
+    - Includes advance mathematical concepts, basic chemistry, basic biology.
+    - By Alan Turing
