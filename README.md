@@ -6,6 +6,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
+* [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Saint Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
@@ -14,7 +15,6 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
-
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
