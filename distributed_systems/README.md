@@ -2,6 +2,8 @@
 
 ## External Papers
 
+* :scroll: [A Note on Distributed Computing](http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf)
+
 * [A simple totally ordered broadcast protocol](http://labs.yahoo.com/files/ladis08.pdf)
 
 * [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
