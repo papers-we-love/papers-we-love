@@ -38,6 +38,8 @@
 
 * [Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf)
 
+* [Introduction to a System for Distributed Databases SDD-1](http://www.few.vu.nl/~kgr700/sdd1.pdf)
+
 * [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
 
 * [Linearizability: A Correctness Condition for Concurrent Objects](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
