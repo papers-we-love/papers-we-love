@@ -11,3 +11,7 @@
 ## Concatenative Programming
 
 * :scroll: [Concatenative Programming: An Overlooked Paradigm in Functional Programming](http://mitarbeiter.hs-heilbronn.de/~herzberg/Publications/ICSOFT.2009.pdf)
+
+## Imperative Programming - Functional Programming
+
+* [Crossing the Gap from Imperative to Functional Programming through Refactoring](http://dig.cs.illinois.edu/papers/lambdaRefactoring.pdf)
