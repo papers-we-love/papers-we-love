@@ -17,6 +17,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
+* [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
