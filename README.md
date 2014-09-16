@@ -15,7 +15,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
-* [Bangalore - Papers We Love](www.meetup.com/Papers-we-love-Bangalore/)
+* [Bangalore](www.meetup.com/Papers-we-love-Bangalore/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
