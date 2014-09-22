@@ -6,7 +6,7 @@ one-pass processing.
 
 The included documents are:
 
-* [Operators on Inhomogeneous Time Series] (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=208278) - Gilles O. Zumbach and Ulrich A. Müller
+* :scroll: [Operators on Inhomogeneous Time Series] (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=208278) - Gilles O. Zumbach and Ulrich A. Müller
 
   We present a toolbox to compute and extract information from
   inhomogeneous (i.e. unequally spaced) time series. The toolbox
