@@ -1,4 +1,4 @@
-Papers We Love meet-ups are for anyone insterested in Computer Science, Computer Engineering and its history to discuss academic research in a fun, engaging and respectful environment. 
+Papers We Love meet-ups are for anyone interested in Computer Science, Computer Engineering and its history to discuss academic research in a fun, engaging and respectful environment. 
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-up and at all Papers We Love events and interactions on the GitHub repository and Meetup site(s).
 
