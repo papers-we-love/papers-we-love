@@ -7,3 +7,7 @@
 * [Message Analysis for Concurrent Languages](http://user.it.uu.se/~kostis/Papers/escape.pdf)
 
 * [Finding Race Conditions in Erlang with QuickCheck and PULSE](http://publications.lib.chalmers.se/records/fulltext/125252/local_125252.pdf)
+
+* [The Semantics of x86-CC Multiprocessor Machine Code](http://www.cl.cam.ac.uk/~pes20/weakmemory/popl09.pdf)
+
+    *Note: This contribution here is the focus on the rigorous semantics for x86 multiprocessor programs and an axiomatic definition of the memory model. Their definitions and proofs are backed by the [HOL](http://en.wikipedia.org/wiki/HOL_(proof_assistant))(Higher Order Logic) proof assistant.*
