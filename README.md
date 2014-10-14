@@ -8,7 +8,6 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
-* [Saint Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
