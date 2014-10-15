@@ -30,7 +30,7 @@ degrees of freedom a robot has and the degrees of freedom the obstacles
 in an environment have. Thus, planning with high degrees of freedom leads to many problems
 such as incompleteness and extremely slow speed. The PRM method was the first to
 propose a sampling-based stratey to deal with motion planning and
-created a practical methed for offline planning of robot manipulators.
+created a practical method for offline planning of robot manipulators.
 The RRT method modified PRM by using a tree structure rather than a
 graph so that non-holonomic and other constraints could be considered
 when planning.
