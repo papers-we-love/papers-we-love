@@ -5,7 +5,7 @@
 Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
 
 * [New York City](http://www.meetup.com/papers-we-love/)
-* [San Francisco](http://www.meetup.com/papers-we-love-too/)
+* [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
