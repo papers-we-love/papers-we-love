@@ -1,8 +1,3 @@
-# San Francisco Papers We Love 2014 Meetups
- [Meetup Page](http://www.meetup.com/papers-we-love-too)
-
-Here is the list of all meetups for 2014 and links to all of their resources. Enjoy!
-
 ### PWLSF#1 => Dapper, a Distributed Systems Tracing Infrastructure
 Speaker: [Ryan Kennedy](https://twitter.com/rckenned)
 Date: [March 26, 2014](http://www.meetup.com/papers-we-love-too/events/168085182/)
