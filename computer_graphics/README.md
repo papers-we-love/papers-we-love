@@ -20,3 +20,16 @@
 
 ### Interior mapping
 * [Interior Mapping: A new technique for rendering realistic buildings](http://www.proun-game.com/Oogst3D/CODING/InteriorMapping/InteriorMapping.pdf)
+
+### Procedural modeling
+* Both of these papers are great examples of a non-traditional
+  application of grammar-driven generation:
+  - [Procedural Modeling of Buildings](http://www.peterwonka.net/Publications/pdfs/2006.SG.Mueller.ProceduralModelingOfBuildings.final.pdf)
+  - [Instant Architecture](http://www.peterwonka.net/Publications/pdfs/2003.SG.Wonka.InstantArchitecture.high.pdf)
+
+### Shape grammars
+
+* [Shape Grammars and the Generative Specification of Painting and Sculpture](http://shapegrammar.org/ifip/SGBestPapers72.pdf)
+  - A seminal paper that lead to many interesting applications in
+    graphics as well as more broadly in design; see also the
+    bibliography at [shapegrammar.org](http://shapegrammar.org/).
