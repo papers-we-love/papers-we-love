@@ -18,6 +18,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
+* [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
