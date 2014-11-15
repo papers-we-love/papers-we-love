@@ -1,4 +1,4 @@
-## Papers We Love
+## ![Papers We Love](http://papers-we-love.github.io/images/logo-top.svg)
 
 ### Chapters
 
