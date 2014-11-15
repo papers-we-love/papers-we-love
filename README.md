@@ -1,5 +1,11 @@
 ## ![Papers We Love](http://papers-we-love.github.io/images/logo-top.svg)
 
+**Papers We Love** is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web.
+
+Due to [licenses](https://github.com/papers-we-love/papers-we-love#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
+
+If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them.
+
 ### Chapters
 
 Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
