@@ -86,3 +86,7 @@ We want to help bring academic research closer to practitioners and we strive to
 
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
+
+### Copyright
+
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love NYC, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
