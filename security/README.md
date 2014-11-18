@@ -3,4 +3,4 @@
 * [Looking inside the (Drop) box](http://ictc.aeoi.org.ir/sites/default/files/US-13-Prado-SSL-Gone-in-30-seconds-A-BREACH-beyond-CRIME-WP_0.pdf)
 * [Making Programs Forget: Enforcing Lifetime For Sensitive Data](https://www.usenix.org/events/hotos11/tech/final_files/Kannan.pdf)
 * [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
-* [Why Silent Updates Boost Security](http://www.techzoom.net/papers/browser_silent_updates_2009.pdf)
+* [Why Silent Updates Boost Security](http://www.techzoom.net/Papers/Browser_Silent_Updates_%282009%29.pdf)
