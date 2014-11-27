@@ -18,8 +18,8 @@ If you are experiencing harassment on or have concerns about content within the 
 
 The organizers of your local Papers We Love meet-up are available to help you with any issues or concerns at live events.
 
-The Short Version
------------------
+What it means
+-------------
 
 Papers We Love is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of meet-up participants in any form.
 
