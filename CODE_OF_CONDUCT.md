@@ -1,5 +1,7 @@
 # Code of Conduct
 
+> Local chapters should fork this document and modify to meet the needs of their communities.
+
 All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
 
 Papers We Love meet-ups are for anyone interested in Computer Science, Computer Engineering and its history to discuss academic research in a fun, engaging and respectful environment. 
