@@ -18,6 +18,8 @@ If you are experiencing harassment on or have concerns about content within the 
 - **Zeeshan Lakhani** zeeshan.lakhani@gmail.com
 - **Clint Newsom** hcnewsom@gmail.com
 
+Additionally Papers We Love is on IRC at Freenode on the #paperswelove channel.
+
 The organizers of your local Papers We Love meet-up are available to help you with any issues or concerns at live events.
 
 What it means
