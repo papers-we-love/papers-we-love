@@ -44,3 +44,12 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Contributors to the GitHub repository and the Meetup site, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
+Local Chapters
+--------------
+
+As noted above, local chapters are encouraged to fork and modify the Code of Conduct to best meet the needs of their communities. Some available sources:
+
+- [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
+- [JS Conf EU](http://2014.jsconf.eu/code-of-conduct.html)
+- [Pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md)
+
