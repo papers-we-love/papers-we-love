@@ -4,7 +4,7 @@
 
 All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
 
-Papers We Love meet-ups are for anyone interested in Computer Science, Computer Engineering and its history to discuss academic research in a fun, engaging and respectful environment. 
+Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
 
 **Be an adult, don't be a jerk.**
 
@@ -13,14 +13,14 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the GitHub repo or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Zeeshan Lakhani** zeeshan.lakhani@gmail.com
 - **Clint Newsom** hcnewsom@gmail.com
+- **Jeremy Heiler** (Github) jeremyheiler@gmail.com
+- **Darren Newton** (paperswelove.org) info@v25media.com
 
-Additionally Papers We Love is on IRC at Freenode on the #paperswelove channel.
-
-The organizers of your local Papers We Love meet-up are available to help you with any issues or concerns at live events.
+The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
 
 What it means
 -------------
@@ -42,7 +42,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Contributors to the GitHub repository and the Meetup site, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Contributors to the GitHub repository, the Meetup and/or event-related sites, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment..
 
 Local Chapters
 --------------
@@ -52,4 +52,5 @@ As noted above, local chapters are encouraged to fork and modify the Code of Con
 - [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 - [JS Conf EU](http://2014.jsconf.eu/code-of-conduct.html)
 - [Pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md)
+- [Hacker School's Social Rueles](https://www.hackerschool.com/manual#sub-sec-social-rules)
 
