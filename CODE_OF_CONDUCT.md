@@ -52,5 +52,5 @@ As noted above, local chapters are encouraged to fork and modify the Code of Con
 - [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 - [JS Conf EU](http://2014.jsconf.eu/code-of-conduct.html)
 - [Pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md)
-- [Hacker School's Social Rueles](https://www.hackerschool.com/manual#sub-sec-social-rules)
+- [Hacker School's Social Rules](https://www.hackerschool.com/manual#sub-sec-social-rules)
 
