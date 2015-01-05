@@ -4,3 +4,4 @@
 * [Making Programs Forget: Enforcing Lifetime For Sensitive Data](https://www.usenix.org/events/hotos11/tech/final_files/Kannan.pdf)
 * [Breach: Reviving The Crime Attack](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
 * [Why Silent Updates Boost Security](http://www.techzoom.net/Papers/Browser_Silent_Updates_%282009%29.pdf)
+* :scroll: [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](http://research.google.com/pubs/archive/41892.pdf)
