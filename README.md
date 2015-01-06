@@ -19,6 +19,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
