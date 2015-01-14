@@ -3,5 +3,5 @@
 * [Incremental Collection of Mature Objects](http://pdf.aminer.org/000/465/194/incremental_collection_of_mature_objects.pdf)
 * :scroll: [Incremental Mature Garbage Collection Using the Train Algorithm](https://www.sics.se/~seif/DatalogiII/Book/train.ps)
 * [Incremental Garbage Collection: The Train Algorithm](http://www.ssw.uni-linz.ac.at/General/Staff/TW/Wuerthinger05Train.pdf)
-* [The Lisp II Garbage Collector](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-019.pdf)
+* The Lisp II Garbage Collector (ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-019.pdf)
 * [The Treadmill: Real-Time Garbage Collection Without Motion Sickness](http://home.pipeline.com/~hbaker1/NoMotionGC.html)
