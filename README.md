@@ -31,6 +31,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
+* [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
