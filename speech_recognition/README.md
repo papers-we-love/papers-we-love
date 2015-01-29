@@ -2,7 +2,7 @@
 
 ## External Papers
 
-[A tutorial on hidden Markov models and selected applications in speech recognition](http://people.sabanciuniv.edu/~berrin/cs512/reading/rabiner-tutorial-on-hmm.pdf)
+[A tutorial on hidden Markov models and selected applications in speech recognition](http://luthuli.cs.uiuc.edu/~daf/courses/Signals%20AI/Papers/HMMs/0.pdf)
 
 [Weighted Finite-State Transducers in Speech Recognition](http://www.cs.nyu.edu/~mohri/pub/csl01.pdf)
 
