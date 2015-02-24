@@ -1,26 +1,55 @@
-## Papers We Love
+## ![Papers We Love](http://papers-we-love.github.io/images/logo-top.svg)
 
-Repository related to the following meetups:
+**Papers We Love** is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web.
 
-* [NYC - Papers We Love](http://www.meetup.com/papers-we-love/)
-* [SF - Papers We Love too](http://www.meetup.com/papers-we-love-too/)
-* [London - Papers We Love](http://www.meetup.com/papers-we-love-london)
-* [Saint Louis - Papers We Love](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
-* [Colorado - Papers We Love](http://www.meetup.com/Papers-We-Love-Boulder/)
-* [Ohio - Papers We Love](http://www.meetup.com/Papers-We-Love-Columbus/)
+Due to [licenses](https://github.com/papers-we-love/papers-we-love#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
-Let us know if you are interested in starting a [chapter](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter)!
+If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them.
+
+### Chapters
+
+Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
+
+* [New York City](http://www.meetup.com/papers-we-love/)
+* [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
+* [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
+* [London](http://www.meetup.com/papers-we-love-london)
+* [Colorado](http://papersweloveco.org)
+* [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
+* [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
+* [Pune](http://www.meetup.com/Doo-Things)
+* [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Singapore](https://www.facebook.com/groups/paperswelovesg/)
+* [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
+* [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
+* [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
+* [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
+* [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
+* [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
+* [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
+* [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
+* [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
+* [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
+* [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
+* [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+
+All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
 View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](http://www.youtube.com/user/PapersWeLove) and [MixCloud](http://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Search this Repo!
-[@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com)!
+[@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com) !
 
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
+
+### Other Good Places to Discuss Papers
+
+* [Papers We Love reddit](http://www.reddit.com/r/paperswelove)
 
 ### Other Good Places to Find Papers
 
@@ -39,6 +68,10 @@ We're looking for pull requests related to papers we should add, better organiza
 * [netlib](http://www.netlib.org/)
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+* [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
+* [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)
+* [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.htm)
+* [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
@@ -69,3 +102,7 @@ We want to help bring academic research closer to practitioners and we strive to
 
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
+
+### Copyright
+
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love NYC, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
