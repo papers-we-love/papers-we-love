@@ -14,6 +14,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
+* [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Colorado](http://papersweloveco.org)
 * [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
