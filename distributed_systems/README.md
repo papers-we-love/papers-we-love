@@ -82,7 +82,7 @@
 
 * [The Dangers of Replication and a Solution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.2707&rep=rep1&type=pdf)
 
-* [The Join Calculus: a Language for Distributed Mobile Programming](http://research.microsoft.com/en-us/um/people/fournet/papers/join-tutorial.pdf)
+* :scroll: [The Join Calculus: a Language for Distributed Mobile Programming](http://research.microsoft.com/en-us/um/people/fournet/papers/join-tutorial.pdf)
 
 * [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 
