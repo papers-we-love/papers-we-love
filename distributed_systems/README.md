@@ -82,6 +82,8 @@
 
 * [The Dangers of Replication and a Solution](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.2707&rep=rep1&type=pdf)
 
+* [The Join Calculus: a Language for Distributed Mobile Programming](http://research.microsoft.com/en-us/um/people/fournet/papers/join-tutorial.pdf)
+
 * [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 
 * [There Is More Consensus in Egalitarian Parliaments](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
@@ -99,6 +101,7 @@
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.pmg.csail.mit.edu/papers/vr.pdf)
 
 * [VL2: A Scalable and Flexible Data Center Network](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf)
+
 
 ## Related Works
 
