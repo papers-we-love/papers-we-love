@@ -4,9 +4,13 @@ This is a cross-listing of papers related to Clojure, it's core, contrib and pop
 ## Data Structures
 * core.rrb-vector
   * [RRB-Trees: Efﬁcient Immutable Vectors](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+
 ## Pattern Matching
 * core.match
   * [Compiling Pattern Matching to good Decision Trees](http://www.cs.tufts.edu/~nr/cs257/archive/luc-maranget/jun08.pdf)
+
+## Type Theory
+* [Practical Optional Types for Clojure](http://frenchy64.github.io/papers/typed-clojure-draft.pdf) (draft)
 
 ## Clojure/West 2014
 * Applicative Functional Programming 
