@@ -1,4 +1,4 @@
-Important Sublinear Algorithm papers
+# Sublinear Algorithms
 
 ## Hosted Papers
 
