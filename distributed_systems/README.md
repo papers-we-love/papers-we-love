@@ -74,7 +74,7 @@
 
 * [Resilient Overlay Networks](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)
 
-* [Sinfonia: A New Paradigm for Building Scalable Distributed Systems](http://research.microsoft.com/en-us/people/aguilera/sinfonia-aguilera-sosp2007.pdf)
+* [Sinfonia: A New Paradigm for Building Scalable Distributed Systems](http://www.mshah.org/papers/sosp_2007_aguilera.pdf)
 
 * [Sparrow: Distributed, Low Latency Scheduling](http://people.csail.mit.edu/matei/papers/2013/sosp_sparrow.pdf)
 
