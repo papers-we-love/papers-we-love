@@ -9,3 +9,5 @@
 * [Soft Typing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.9333&rep=rep1&type=pdf)
 
 * :scroll: [Composable and Compilable Macros: You Want it When?](https://www.cs.utah.edu/plt/publications/macromod.pdf)
+
+* :scroll: [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
