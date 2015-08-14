@@ -6,7 +6,10 @@
 
 * [And Then There Were None: A Stall-Free Real-Time Garbage Collector for Reconfigurable Hardware](http://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon12AndThen.pdf)
 
-* :scroll:
-  [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](http://www.icg.tugraz.at/Members/steinber/scatteralloc-1)
+* [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://www.usenix.org/legacy/publications/library/proceedings/bos94/bonwick.html)
+  - [ASCII version](https://www.usenix.org/legacy/publications/library/proceedings/bos94/full_papers/bonwick.a)
+  - [POSTSCRIPT version](https://www.usenix.org/legacy/publications/library/proceedings/bos94/full_papers/bonwick.ps)
+
+* :scroll: [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](http://www.icg.tugraz.at/Members/steinber/scatteralloc-1)
   - Presents a useful algorithm as well as considerations relevant to
     designing algorithms for GPUs.
