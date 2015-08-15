@@ -2,7 +2,7 @@
 
 
 
-* [Principled Design of the ModernWeb Architecture](https://www.ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf)
+
 
 
 
