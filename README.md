@@ -36,6 +36,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
+* [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
