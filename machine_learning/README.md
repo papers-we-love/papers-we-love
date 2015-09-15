@@ -13,6 +13,8 @@
 
     *Ailon, Nir, and Bernard Chazelle. "The fast Johnson-Lindenstrauss transform and approximate nearest neighbors." SIAM Journal on Computing 39.1 (2009): 302-322. Available: https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf*
 
+* [Applications of Machine Learning to Location Data](ftp://ftp.cs.princeton.edu/techreports/2013/949.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
+
 ## Hosted Papers
 
 * :scroll: **[A Sparse Johnson-Lindenstrauss Transform](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
