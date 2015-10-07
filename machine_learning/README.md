@@ -17,13 +17,13 @@
 
 ## Hosted Papers
 
-* :scroll: **[A Sparse Johnson-Lindenstrauss Transform](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
+* :scroll: **[A Sparse Johnson-Lindenstrauss Transform](dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
 
     The JLT is still computationally expensive for a lot of applications and one goal would be to minimize the overall operations needed to do the aforementioned matrix multiplication. This paper showed that a goal of a `O(k log d)` algorithm (e.g. `(log(d))^2)` may be attainable by showing that very sparse, structured random matrices could provide the *JL* guarantee on pairwise distances.
 
     *Dasgupta, Anirban, Ravi Kumar, and Tamás Sarlós. "A sparse johnson: Lindenstrauss transform." Proceedings of the forty-second ACM symposium on Theory of computing. ACM, 2010. Available: [arXiv/cs/1004:4240](http://arxiv.org/abs/1004.4240)*
 
-* :scroll: **[Towards a unified theory of sparse dimensionality reduction in Euclidean space](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/dimensionality_reduction/toward-a-unified-theory-of-sparse-dimensionality-reduction-in-euclidean-space.pdf)**
+* :scroll: **[Towards a unified theory of sparse dimensionality reduction in Euclidean space](dimensionality_reduction/toward-a-unified-theory-of-sparse-dimensionality-reduction-in-euclidean-space.pdf)**
 
     This paper attempts to layout the generic mathematical framework (in terms of convex analysis and functional analysis) for sparse dimensionality reduction. The first author is a Fields Medalist who is interested in taking techniques for Banach Spaces and applying them to this problem. This paper is a very technical paper that attempts to answer the question, "when does a sparse embedding exist deterministically?" (e.g. doesn't require drawing random matrices).
 

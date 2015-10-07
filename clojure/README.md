@@ -10,7 +10,7 @@ This is a cross-listing of papers related to Clojure, it's core, contrib and pop
   * [Compiling Pattern Matching to good Decision Trees](http://www.cs.tufts.edu/~nr/cs257/archive/luc-maranget/jun08.pdf)
 
 ## Type Theory
-* [Practical Optional Types for Clojure](http://frenchy64.github.io/papers/typed-clojure-draft.pdf) (draft)
+* [:scroll:](a-practical-optional-type-system-for-clojure.pdf) [Practical Optional Types for Clojure](http://frenchy64.github.io/papers/typed-clojure-draft.pdf) (draft)
 
 ## Clojure/West 2014
 * Applicative Functional Programming 
