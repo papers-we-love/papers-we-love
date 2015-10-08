@@ -77,6 +77,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)
 * [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.htm)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
+* [The Morning Paper](http://blog.acolyer.org/)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
@@ -87,6 +88,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 
 ## Contributing Guidelines
 
