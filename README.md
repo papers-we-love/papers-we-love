@@ -110,4 +110,4 @@ We want to help bring academic research closer to practitioners and we strive to
 
 ### Copyright
 
-The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love NYC, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
