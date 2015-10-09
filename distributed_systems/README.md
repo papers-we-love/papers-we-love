@@ -104,12 +104,40 @@
 
 * [VL2: A Scalable and Flexible Data Center Network](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf)
 
+## Topics
 
-## Related Works
+### Datastores
 
-### [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../historical/physics/on-the-electrodynamics-of-moving-bodies.pdf)
+* :scroll: [Bigtable: A Distributed Storage System for Structured Data](../datastores/bigtable-a-distributed-storage-system-for-structured-data.pdf)
 
-By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
+* :scroll: [Database Metatheory: Asking Big Queries](../datastores/database-metatheory--asking-the-big-queries.pdf)
+
+* :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](../datastores/dynamo-amazons-highly-available-key-value-store.pdf)
+
+* :scroll: [Flat Datacenter Storage](../datastores/flat-datacenter-storage.pdf)
+
+* :scroll: [Freenet: A Distributed Anonymous Information Storage and Retrieval System](../datastores/freenet-a-distributed-anonymous-information-and-retrieval-system.pdf)
+
+* :scroll: [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](../datastores/megastore-providing-scalable-highly-available-storage-for-interactive-services.pdf)
+
+* :scroll: [A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster](../datastores/network-challenges-of-data-recovery-in-erasure-coded-distributed-storage-systems.pdf)
+
+* :scroll: [RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters](../datastores/rados-a-scalable-reliable-storage-service-for-petabyte-scale-storage-clusters.pdf)
+
+* :scroll: [Spanner: Google’s Globally-Distributed Database](../datastores/spanner-google's-globally-distributed-database.pdf)
+
+* :scroll: [TAO: Facebooks Distributed Data Store for the Social Graph'](../datastores/tao-facebook-distributed-datastore.pdf)
+
+* :scroll: [Transactional storage for geo-replicated systems](../datastores/transactional-storage-for-geo-replicated-systems.pdf)
+
+* :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
+
+
+## Physics
+
+* :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)
+
+    By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
 
 
 ## Other Hosted Papers
@@ -125,8 +153,6 @@ By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_cond
 * :scroll: [A Versatile Scheme for Routing Highly Variable Traffic in Service Overlays and IP Backbones](a-versatile-scheme-for-routing-highly-variable-traffic-in-service-overlays-and-ip.pdf)
 
 * :scroll: [Beehive: O(1) Lookup Performance for Power-Law Query Distributions in Peer-to-Peer Overlays](beehive-lookup-performance-for-power-law-query-distributions-in-peer-to-peer-overlays.pdf)
-
-* :scroll: [Bigtable: A Distributed Storage System for Structured Data](bigtable-a-distributed-storage-system-for-structured-data.pdf)
 
 * :scroll: [Byzantine Chain Replication](bizantine-chain-replication.pdf)
 
@@ -149,21 +175,13 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](dapper-a-large-scale-distributed-tracing-infrastructure.pdf)
 
-* :scroll: [Database Metatheory: Asking Big Queries](database-metatheory--asking-the-big-queries.pdf)
-
 * :scroll: [￼Distributed Snapshots: Determining Global States of Distributed Systems](distributed-snapshots-determining-global-states-of-distributed-systems.pdf)
-
-* :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](dynamo-amazons-highly-available-key-value-store.pdf)
 
 * :scroll: [Eluding Carnivores: File Sharing with Strong Anonymity](eluding-carnivores-file-sharing-with-strong-anonymity.pdf)
 
 * :scroll: [End-to-end arguments in system design](end-to-end-arguments-in-system-design.pdf)
 
 * :scroll: [Epidemic Algorithms for Replicated Database Maintenance](epidemic-algorithms-for-replicated-database-maintenance.pdf)
-
-* :scroll: [Flat Datacenter Storage](flat-datacenter-storage.pdf)
-
-* :scroll: [Freenet: A Distributed Anonymous Information Storage and Retrieval System](freenet-a-distributed-anonymous-information-and-retrieval-system.pdf)
 
 * :scroll: [Harvest, Yield, and Scalable Tolerant Systems](harvest-yield-and-scalable-tolerant-systems.pdf)
 
@@ -187,11 +205,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [MapReduce: Simplified Data Processing on Large Clusters](mapreduce-simplified-data-processing-on-large-clusters.pdf)
 
-* :scroll: [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](megastore-providing-scalable-highly-available-storage-for-interactive-services.pdf)
-
 * :scroll: [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](mesos-a-platform-for-fine-grained-resource-sharing-in-the-data-center.pdf)
-
-* :scroll: [A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster](network-challenges-of-data-recovery-in-erasure-coded-distributed-storage-systems.pdf)
 
 * :scroll: [Oblivious routing of highly variable traffic in service overlays and IP backbones](oblivious-routing-of-highly-variable-traffic-in-service-overlays-and-ip-backbones.pdf)
 
@@ -205,8 +219,6 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Paxos Made Simple](paxos-made-simple.pdf)
 
-* :scroll: [RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters](rados-a-scalable-reliable-storage-service-for-petabyte-scale-storage-clusters.pdf)
-
 * :scroll: [Self-stabilizing Systems in Spite of Distributed Control](self-stabilizing-systems-in-spite-of-distributed-control.pdf)
 
 * :scroll: [SIFT: Design and Analysis of a Fault-Tolerant Computer for Aircraft Control](sift-design-and-analysis-of-a-fault-tolerant-computer-for-aircraft-contro.pdf)
@@ -215,8 +227,6 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Slution of a Problem in 
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
-
-* :scroll: [Spanner: Google’s Globally-Distributed Database](spanner-google's-globally-distributed-database.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
 
@@ -231,16 +241,13 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [Towards a cloud computing research agenda](towards-a-cloud-computing-research-agenda.pdf)
 
-* :scroll: [Transactional storage for geo-replicated systems](transactional-storage-for-geo-replicated-systems.pdf)
-
 * :scroll: [Understanding the Limitations of Causally and Totally Ordered Communication](understanding-the-limitations-of-causally-and-totally-ordered-communication.pdf)
 
 * :scroll: [￼￼￼￼￼￼￼￼￼￼Viewing Control Structures as Patterns of Passing Messages](viewing-control-structures-as-patterns-of-passing-messages.pdf)
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](warp-multi-key-transactions-for-key-value-stores.pdf)
 
-* :scroll: [Zab: High-performance broadcast for primary-backup systems
-](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
+* :scroll: [Zab: High-performance broadcast for primary-backup systems](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
 
 * :scroll: [ZooKeeper: Wait-free coordination for Internet-scale systems](zookeeper-wait-free-coordination-for-internet-scale-systems.pdf)
 
