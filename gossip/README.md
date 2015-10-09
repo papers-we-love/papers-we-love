@@ -1,3 +1,5 @@
+## Gossip 
+
 If you only read one of these papers, start with the classic Demers, et al paper:
 * [Epidemic Algorithms for Replicated Database Maintenance] (http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf)
 
