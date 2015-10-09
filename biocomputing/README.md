@@ -1,4 +1,4 @@
-##Biocomputing
+## Biocomputing
 
 Some resources that may assist in understanding papers in this section:
 - Polymerase Chain Reaction ( [a short video](http://www.youtube.com/watch?v=2KoLnIwoZKU), [wikipedia](http://en.wikipedia.org/wiki/Pcr))

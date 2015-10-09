@@ -1,6 +1,6 @@
 # Sublinear Algorithms
 
-## Hosted Papers
+## Hosted Papers :open_file_folder:
 
 * :scroll: **[Probablistic Counting Algorithms for Database Applications](https://github.com/papers-we-love/papers-we-love/blob/master/sublinear_algorithms/1985-Flajolet-Probabilistic-counting.pdf)**
 

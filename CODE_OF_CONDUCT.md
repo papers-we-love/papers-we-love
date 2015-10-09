@@ -8,12 +8,12 @@ Papers We Love events are for anyone interested in Computer Science/Computer Eng
 
 **Be an adult, don't be a jerk.**
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-ups and at all Papers We Love events and interactions on the GitHub repository and IRC channel.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the meet-ups and at all Papers We Love events and interactions on the GitHub repository, IRC or [Slack](paperswelove.slack.com) channels.
 
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack channel, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Zeeshan Lakhani** [zeeshan@paperswelove.org](mailto:zeeshan@paperswelove.org)
 - **Clint Newsom** [clint@paperswelove.org](mailto:clint@paperswelove.org)

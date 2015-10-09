@@ -1,14 +1,7 @@
 ### Rendering
 
-* [Digital Video Stabilization and Rolling Shutter Correction using
-  Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
-This is a really great paper that is both complex and straightforward.
-This paper "present a robust, real-time video stabilization and rolling
-shutter correction technique based on gyroscopes". I think
-this is a great paper because it makes a clever use of a commodity technology
-(smartphones' gyroscopes) to make a state-of-the-art improvement to a
-central components of phones: video cameras by removing the shakes
-and rolling shutter artifacts of a video in real-time.
+* [:scroll:](digital_video_stabilization_and_rolling_shutter_correction_using_gyroscopes.pdf) [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
+This is a really great paper that is both complex and straightforward. This paper "present a robust, real-time video stabilization and rolling shutter correction technique based on gyroscopes". I think this is a great paper because it makes a clever use of a commodity technology (smartphones' gyroscopes) to make a state-of-the-art improvement to a central components of phones: video cameras by removing the shakes and rolling shutter artifacts of a video in real-time.
 
 * [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/CS586/Papers/p343-whitted.pdf)
 

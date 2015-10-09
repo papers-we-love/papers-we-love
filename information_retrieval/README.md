@@ -4,7 +4,7 @@ Information retrieval is the activity of obtaining information resources relevan
 
 The included documents are
 
-* [Graph of Word and TW-IDF](http://www.lix.polytechnique.fr/~rousseau/papers/rousseau-cikm2013.pdf) - Francois Rousseau & Michalis Vazirgiannis
+* [:scroll:](graph_of_word_and_tw_idf.pdf) [Graph of Word and TW-IDF](http://www.lix.polytechnique.fr/~rousseau/papers/rousseau-cikm2013.pdf) - Francois Rousseau & Michalis Vazirgiannis
 
   The traditional IR system stores term-specific statistics (typically
   a term's frequency in each document - which we call TF) in an index.

@@ -38,6 +38,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
+* [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -77,6 +78,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)
 * [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.htm)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
+* [The Morning Paper](http://blog.acolyer.org/)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
@@ -87,6 +89,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+* [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 
 ## Contributing Guidelines
 
@@ -110,4 +113,4 @@ We want to help bring academic research closer to practitioners and we strive to
 
 ### Copyright
 
-The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love NYC, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.

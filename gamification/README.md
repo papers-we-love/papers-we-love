@@ -13,3 +13,9 @@
 * [MoviPill: Improving Medication Compliance for Elders - Using a Mobile Persuasive Social Game](http://www.ic.unicamp.br/~oliveira/doc/Ubicomp2010_MoviPill.pdf)
 
 * [Removing Gamification from an Enterprise SNS](http://www.jennthom.com/papers/gamification.pdf)
+
+## Hosted Papers
+
+* :scroll: [Gamification in Education: What, How, Why Bother?](gamification-in-education-what-how-why-bother.pdf)
+
+* :scroll: [Why Students Engage in “Gaming the System” Behavior in Interactive Learning Environments](why-students-engage-in-gaming-the-system-behavior-in-interactive-learning-environments.pdf)

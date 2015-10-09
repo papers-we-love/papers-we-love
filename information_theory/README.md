@@ -1,4 +1,6 @@
-* :scroll: [A Mathematical Theory of Communication](./a-mathematical-theory-of-communication-1948.pdf)
+## Information Theory 
+
+* :scroll: [A Mathematical Theory of Communication](a-mathematical-theory-of-communication-1948.pdf)
 
 * [Differential Privacy](http://www.msr-waypoint.com/pubs/64346/dwork.pdf)
   - How do we quantify the exposure an individual faces from being
