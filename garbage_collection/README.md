@@ -6,3 +6,6 @@
 * [Incremental Garbage Collection: The Train Algorithm](http://www.ssw.uni-linz.ac.at/General/Staff/TW/Wuerthinger05Train.pdf)
 * [:scroll:](the_lisp_ii_garbage_collector.pdf) [The Lisp II Garbage Collector](ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-019.pdf)
 * [The Treadmill: Real-Time Garbage Collection Without Motion Sickness](http://home.pipeline.com/~hbaker1/NoMotionGC.html)
+* [Parallel Generational-Copying Garbage Collection with a Block-Structured
+  Heap](http://community.haskell.org/~simonmar/papers/parallel-gc.pdf)
+
