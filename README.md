@@ -90,6 +90,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+* [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
 ## Contributing Guidelines
 
