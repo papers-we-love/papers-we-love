@@ -13,7 +13,7 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack channel, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Zeeshan Lakhani** [zeeshan@paperswelove.org](mailto:zeeshan@paperswelove.org)
 - **Clint Newsom** [clint@paperswelove.org](mailto:clint@paperswelove.org)
