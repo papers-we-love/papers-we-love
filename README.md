@@ -1,4 +1,4 @@
-## ![Papers We Love](http://papers-we-love.github.io/images/logo-top.svg)
+## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
@@ -44,7 +44,7 @@ All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](http://www.youtube.com/user/PapersWeLove) and [MixCloud](http://www.mixcloud.com/paperswelove/) (audio-only format) channels.
+View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Search this Repo!
 [@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com) !
@@ -55,18 +55,18 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Discuss Papers
 
-* [Papers We Love reddit](http://www.reddit.com/r/paperswelove)
+* [Papers We Love reddit](https://www.reddit.com/r/paperswelove)
 
 ### Other Good Places to Find Papers
 
-* [Bell System Technical Journal, 1922-1983](http://alcatel-lucent.com/bstj/)
+* [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
 * [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 * [MIT's Artificial Intelligence Lab Publications](http://dspace.mit.edu/handle/1721.1/39813)
-* [MIT's Distributed System's Reading Group](http://pdos.csail.mit.edu/dsrg/)
+* [MIT's Distributed System's Reading Group](http://dsrg.pdos.csail.mit.edu/)
 * [arXiv Paper Repository](http://arxiv.org/)
 * [SciRate](https://scirate.com/)
 * [cat-v.org](http://doc.cat-v.org/)
