@@ -9,4 +9,9 @@
 ## Hosted Papers
 
 * :scroll: [Epidemic Broadcast Trees](epidemic-broadcast-trees.pdf)
-* :scroll: [Ideal Hash Trees](ideal-hash-trees.pdf* :scroll: [The Least Common Ancestor Problem revisited](lca-revisited.pdf* :scroll: [The Level Ancestor Problem simplifed](level-ancestor-simplified.pdf
+
+* :scroll: [Ideal Hash Trees](ideal-hash-trees.pdf)
+
+* :scroll: [The Least Common Ancestor Problem revisited](lca-revisited.pdf)
+
+* :scroll: [The Level Ancestor Problem simplifed](level-ancestor-simplified.pdf)
