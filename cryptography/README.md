@@ -5,6 +5,7 @@
 * :scroll: [Communication Theory of Secrecy Systems (1949)](communication-theory-of-secrecy-systems.pdf)
 * [New Directions in Cryptography (1976)](http://www-ee.stanford.edu/~hellman/publications/24.pdf)
 * [RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis (2013)](http://www.cs.tau.ac.il/~tromer/papers/acoustic-20131218.pdf)
+* [The Moral Character of Cryptographic Work (2015)](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
 
 ## Related Works
 ### [A Mathematical Theory of Cryptography (1945)](http://www.cs.bell-labs.com/who/dmr/pdfs/shannoncryptshrt.pdf) - Shannon
