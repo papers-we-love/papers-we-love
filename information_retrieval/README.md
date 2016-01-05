@@ -18,3 +18,19 @@ The included documents are
   paper won a honorable mention at CIKM 2013.
 
 * [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+
+* [:scroll:](ocapi-trec3.pdf) [Okapi System](http://trec.nist.gov/pubs/trec3/papers/city.ps.gz) - Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford
+
+  This paper introduces the now famous Okapi information retrieval
+  framework which introduces the BM25 ranking function for ranked 
+  retrieval. It is one of the first implementations of the probabilistic
+  retrieval frameworks in literature. BM25 is a bag of words retrieval 
+  function. The IDF(Inverse document frequency) term can be interpreted
+  via information theory. If a query q appears in n(q) docs the probability
+  of picking a doc randomly and it containing that term :p(q) = n(q) / D, 
+  where D is the number of documents. The information content based on 
+  shannon's noisy channel model is = -log(p(q)) = log (D / n(q)). Smoothing
+  by adding a constant to both numberator and demoninator leads to IDF term
+  used in BM25. BM25 has been shown to be one of the best probabilistic 
+  weighting schemes. While the paper was in postscript form, the committer has
+  changed the format to pdf as per guidelines of papers we love via ps2pdf.
