@@ -31,6 +31,15 @@ This is a really great paper that is both complex and straightforward. This pape
   - [Procedural Modeling of Buildings](http://www.peterwonka.net/Publications/pdfs/2006.SG.Mueller.ProceduralModelingOfBuildings.final.pdf)
   - [Instant Architecture](http://www.peterwonka.net/Publications/pdfs/2003.SG.Wonka.InstantArchitecture.high.pdf)
 
+### Mesh Editing
+* [PushPull++](http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf)
+
+    > Of all the ways to manipulate a 3D mesh, push/ technique popularized by SketchUp is one of the most approachable and fun. PushPull++ is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.
+    > The paper presents the technique and the tool that the authors built. I will focus on the technique, as s the part I loved more in this paper (quote by Ramsey Nasser).
+    
+    
+
+
 ### Shape grammars
 
 * [Shape Grammars and the Generative Specification of Painting and Sculpture](http://shapegrammar.org/ifip/SGBestPapers72.pdf)
