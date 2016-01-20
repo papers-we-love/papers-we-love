@@ -8,3 +8,6 @@
 
 * :scroll: [Live Migration of Virtual Machines](live-migration-of-virtual-machines.pdf)
 
+* :scroll: [Jails: Confining the omnipotent root.](https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-jails.pdf)
+
+* :scroll: [Solaris Zones: Operating System Support for Consolidating Commercial Workloads](https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-zones.pdf)
