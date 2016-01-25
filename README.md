@@ -21,6 +21,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
+* [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
