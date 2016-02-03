@@ -17,7 +17,17 @@ The included documents are
   significantly better results that popular existing models. This
   paper won a honorable mention at CIKM 2013.
 
-* [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+* [:scroll:](pagerank.pdf) [Pagerank Algorithm](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) - Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd
+  
+  This paper introduces the PageRank algorithm, which forms the backbone of 
+  the present day google search engine. Pagerank operates by assessing the 
+  number of incoming and outgoing hyper links to a given web page and ranks the 
+  pages based on the link structure of a page. The authors also implemented 
+  PageRank on the backrub system (now called the Google Search
+  Engine) in the [Anatomy of a Large-Scale Hypertextual Web Search Engine] 
+  http://infolab.stanford.edu/~backrub/google.html which assigned page ranks to
+  every webpage in the world wide web. Google is currently the most commercially
+  sucessful generic search engine in the world. 
 
 * [:scroll:](ocapi-trec3.pdf) [Okapi System](http://trec.nist.gov/pubs/trec3/papers/city.ps.gz) - Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford
 
