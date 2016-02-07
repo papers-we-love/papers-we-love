@@ -4,7 +4,7 @@
 
 * [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf)
 
-* [A simple totally ordered broadcast protocol](http://labs.yahoo.com/files/ladis08.pdf)
+* [A simple totally ordered broadcast protocol](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
 * [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
@@ -142,7 +142,8 @@ By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_cond
 
 * :scroll: [Consistent Global States of Distributed Systems: Fundamental Concepts and Mechanisms](consistent-global-states-of-distributed-systems-fundamental-concepts-and-mechanisms.pdf)
 
-* :scroll: [Consistent Hashing and Random Trees:Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](consistent-hashing-and-random-trees.pdf)
+* :scroll: [Consistent Hashing and Random Trees:
+Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](consistent-hashing-and-random-trees.pdf)
 
 * :scroll: [Copysets: Reducing the Frequency of Data Loss in Cloud Storage](copysets-reducing-the-frequency-of-data-loss-in-cloud-storage.pdf)
 
@@ -212,7 +213,8 @@ By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_cond
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
+* :scroll: [Slution of a Problem in 
+Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Spanner: Google’s Globally-Distributed Database](spanner-google's-globally-distributed-database.pdf)
 
@@ -222,7 +224,8 @@ By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_cond
 
 * :scroll: [The Akamai Network: A Platform for High-Performance Internet Applications](the-akamai-network.pdf)
 
-* :scroll: [The Dining CryptographersProblem:Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-problem.pdf)
+* :scroll: [The Dining CryptographersProblem:
+Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-problem.pdf)
 
 * :scroll: [Tor: The Second-Generation Onion Router](tor-the-second-generation-onion-router.pdf)
 
@@ -236,7 +239,8 @@ By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_cond
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](warp-multi-key-transactions-for-key-value-stores.pdf)
 
-* :scroll: [Zab: High-performance broadcast for primary-backup systems](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
+* :scroll: [Zab: High-performance broadcast for primary-backup systems
+](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
 
 * :scroll: [ZooKeeper: Wait-free coordination for Internet-scale systems](zookeeper-wait-free-coordination-for-internet-scale-systems.pdf)
 
