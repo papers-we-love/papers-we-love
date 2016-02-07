@@ -44,3 +44,19 @@ The included documents are
   used in BM25. BM25 has been shown to be one of the best probabilistic 
   weighting schemes. While the paper was in postscript form, the committer has
   changed the format to pdf as per guidelines of papers we love via ps2pdf.
+
+* [:scroll:](hits.pdf) [Hits Algorithm](https://www.cs.cornell.edu/home/kleinber/auth.pdf) - Jon M. Kleinberg
+
+  This paper introduces the HITS algorithm, a link analysis algorithm that rates 
+  webpages. Unlike the more famous page rank algorithm, the hits algorithm
+  makes a distinction between webpage behavior classifies them as hubs and authorities.
+  A page is authoratitative (in the sense the page has a large number of incoming links)
+  or acts as a hub (a directory of sort, which can be measured by the number of outgoing
+  link). The hits algorithm computes two scores for a page (authority and hub score) 
+  where the algorithm iteratively computes the hub score as sum of authority scores of 
+  outgoing links and authority scores as sum of hub scores of incoming links until a  
+  convergence is attained. These scores can then be used to rank documents. While 
+  this algorithm is famous in academia, its not very widely used in the industry 
+  (a variant of this algorithm was used by a company called Teoma which was acquired
+  by AskJeeves)
+  
