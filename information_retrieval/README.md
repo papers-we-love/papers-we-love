@@ -17,7 +17,17 @@ The included documents are
   significantly better results that popular existing models. This
   paper won a honorable mention at CIKM 2013.
 
-* [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)
+* [:scroll:](pagerank.pdf) [Pagerank Algorithm](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) - Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd
+  
+  This paper introduces the PageRank algorithm, which forms the backbone of 
+  the present day google search engine. Pagerank operates by assessing the 
+  number of incoming and outgoing hyper links to a given web page and ranks the 
+  pages based on the link structure of a page. The authors also implemented 
+  PageRank on the backrub system (now called the Google Search
+  Engine) in the [Anatomy of a Large-Scale Hypertextual Web Search Engine] 
+  http://infolab.stanford.edu/~backrub/google.html which assigned page ranks to
+  every webpage in the world wide web. Google is currently the most commercially
+  sucessful generic search engine in the world. 
 
 * [:scroll:](ocapi-trec3.pdf) [Okapi System](http://trec.nist.gov/pubs/trec3/papers/city.ps.gz) - Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford
 
@@ -34,3 +44,19 @@ The included documents are
   used in BM25. BM25 has been shown to be one of the best probabilistic 
   weighting schemes. While the paper was in postscript form, the committer has
   changed the format to pdf as per guidelines of papers we love via ps2pdf.
+
+* [:scroll:](hits.pdf) [Hits Algorithm](https://www.cs.cornell.edu/home/kleinber/auth.pdf) - Jon M. Kleinberg
+
+  This paper introduces the HITS algorithm, a link analysis algorithm that rates 
+  webpages. Unlike the more famous page rank algorithm, the hits algorithm
+  makes a distinction between webpage behavior classifies them as hubs and authorities.
+  A page is authoratitative (in the sense the page has a large number of incoming links)
+  or acts as a hub (a directory of sort, which can be measured by the number of outgoing
+  link). The hits algorithm computes two scores for a page (authority and hub score) 
+  where the algorithm iteratively computes the hub score as sum of authority scores of 
+  outgoing links and authority scores as sum of hub scores of incoming links until a  
+  convergence is attained. These scores can then be used to rank documents. While 
+  this algorithm is famous in academia, its not very widely used in the industry 
+  (a variant of this algorithm was used by a company called Teoma which was acquired
+  by AskJeeves)
+  
