@@ -18,7 +18,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
-* [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
+* [Dallas](http://www.papersdallas.com/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
@@ -33,8 +33,9 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
-* [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
+* [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
+* [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
@@ -96,24 +97,8 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## Contributing Guidelines
 
-We have a few guidelines in place to keep the repo clean and easy to navigate. We recommend that you follow these conventions in your pull-request for a speedy merge. Note that every pull request we receive must have Two-Thumbs-Up minimum from PWL organizers/collaborators to be merged.
+Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
 
-### Follow the group's ethos
-
-We want to help bring academic research closer to practitioners and we strive to:
-* **Keep the quality of papers listed high:** Books, blogposts, and/or reference pdfs don't go through the same review process that academic papers do and we won't add them to this repo.
-* **Help people understand why a paper is important:** We ask that you include with your commit an update to the directory README with a short justification of why you love this paper (for example: A paper might be interesting because it spawned a new domain, it was exceptionally well-written, or perhaps it was completely wrong about something.)
-
-### Respect content licenses
-
-* **We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
-* We encourage papers that do not allow digital distribution to be added to a README in the appropriate subject's folder. For example, [the distributed systems README](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/README.md).
-
-### Follow our naming convention
-
-* Directory names are undercased and separated by underscores (example: artificial_intelligence)
-* Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
-
-### Copyright
+## Copyright
 
 The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
