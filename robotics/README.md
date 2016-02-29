@@ -13,7 +13,7 @@ Robotics
 
 [Rapidly-Exploring Random Trees: A New Tool for Path Planning](http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)
 
-[RGB-D Mapping: Using Depth Cameras for Dense 3D Modeling of Indoor Environments](http://www.cs.washington.edu/robotics/postscripts/3d-mapping-iser-10-final.pdf)
+[RGB-D Mapping: Using Depth Cameras for Dense 3D Modeling of Indoor Environments](https://rse-lab.cs.washington.edu/postscripts/3d-mapping-iser-10-final.pdf)
 
 
 
