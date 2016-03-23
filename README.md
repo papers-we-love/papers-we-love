@@ -81,6 +81,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.html)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
+* [The Sci-Hub project](https://sci-hub.io/)
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
