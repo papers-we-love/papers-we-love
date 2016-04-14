@@ -12,7 +12,7 @@
 
 * :scroll: [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
-* :scroll: [Fundamnetal Concepts in Programming Languages](https://github.com/papers-we-love/papers-we-love/blob/master/plt/fundamental-concepts-in-programming-languages.pdf)
+* :scroll: [Fundamental Concepts in Programming Languages](https://github.com/papers-we-love/papers-we-love/blob/master/plt/fundamental-concepts-in-programming-languages.pdf)
 
 * :scroll: [On Understanding Types,Data Abstraction, and Polymorphism](https://github.com/papers-we-love/papers-we-love/blob/master/plt/on-understanding-types-data-abstraction-polymorphism.pdf)
 
