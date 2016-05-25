@@ -4,6 +4,7 @@
 * Topics
   * [Datastores](#datastores)
   * [Physics](#physics)
+  * [Testing, Verification, and Correctness](#testing-verification-and-correctness)
 
 
 ## External Papers
@@ -226,7 +227,6 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * [Towards a Next Generation Data Center Architecture: Scalability and Commoditization](http://research.microsoft.com/pubs/79348/presto27-greenberg.pdf)
 
-
 * :scroll: [Bigtable: A Distributed Storage System for Structured Data](../datastores/bigtable-a-distributed-storage-system-for-structured-data.pdf)
 
 * :scroll: [Database Metatheory: Asking Big Queries](../datastores/database-metatheory--asking-the-big-queries.pdf)
@@ -251,11 +251,18 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
-
 ### Physics
 
 * :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)
 
     By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
+    
+### <a name="testing-verification-and-correctness"></a>Testing, Verification, and Correctness
+
+* :scroll: [Simple Testing Can Prevent Most Critical Failures:
+An Analysis of Production Failures in Distributed
+Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
+
+* :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
 
 

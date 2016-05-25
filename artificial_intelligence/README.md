@@ -8,3 +8,5 @@
 
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) folder - Papers by Judea Pearl, 2011 winner of the ACM Turing Award.
    * [:open_file_folder: Summary of Papers](judea_pearl/)
+
+* [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf) by Silver et al.
