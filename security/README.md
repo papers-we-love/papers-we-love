@@ -9,3 +9,6 @@
 * :scroll: [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud (2014)](macaroons-cookies-with-contextual-caveats.pdf)
 
 * :scroll: [Insertion, Evasion, and Denial of Service: eluding network intrusion detection (1998)](ids-evasion-ptacek-newsham.pdf)
+* :scroll: [SoK: Eternal War in Memory (2013)](sok-eternal-war-in-memory.pdf)
+   - Classifies memory attacks into a taxonomy that is usable by both black- and white-hats.
+   - An excellent primer on the different memory-related vulnerabilities that exist, (more importantly) why they exist, and the ways in which various defences act to counter them.
