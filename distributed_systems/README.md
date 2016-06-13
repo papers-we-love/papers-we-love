@@ -180,6 +180,8 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [ZooKeeper: Wait-free coordination for Internet-scale systems](zookeeper-wait-free-coordination-for-internet-scale-systems.pdf)
 
+* :scroll: [Tiered Replication: A Cost-effective Alternative to
+Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to-full-cluster-geo-replication.pdf)
 
 ## Topics
 
