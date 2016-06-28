@@ -1,14 +1,7 @@
 ### Rendering
 
-* [Digital Video Stabilization and Rolling Shutter Correction using
-  Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
-This is a really great paper that is both complex and straightforward.
-This paper "present a robust, real-time video stabilization and rolling
-shutter correction technique based on gyroscopes". I think
-this is a great paper because it makes a clever use of a commodity technology
-(smartphones' gyroscopes) to make a state-of-the-art improvement to a
-central components of phones: video cameras by removing the shakes
-and rolling shutter artifacts of a video in real-time.
+* [:scroll:](digital_video_stabilization_and_rolling_shutter_correction_using_gyroscopes.pdf) [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
+This is a really great paper that is both complex and straightforward. This paper "present a robust, real-time video stabilization and rolling shutter correction technique based on gyroscopes". I think this is a great paper because it makes a clever use of a commodity technology (smartphones' gyroscopes) to make a state-of-the-art improvement to a central components of phones: video cameras by removing the shakes and rolling shutter artifacts of a video in real-time.
 
 * [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/CS586/Papers/p343-whitted.pdf)
 
@@ -37,6 +30,15 @@ and rolling shutter artifacts of a video in real-time.
   application of grammar-driven generation:
   - [Procedural Modeling of Buildings](http://www.peterwonka.net/Publications/pdfs/2006.SG.Mueller.ProceduralModelingOfBuildings.final.pdf)
   - [Instant Architecture](http://www.peterwonka.net/Publications/pdfs/2003.SG.Wonka.InstantArchitecture.high.pdf)
+
+### Mesh Editing
+* [PushPull++](http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf)
+
+    > Of all the ways to manipulate a 3D mesh, push/ technique popularized by SketchUp is one of the most approachable and fun. PushPull++ is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.
+    > The paper presents the technique and the tool that the authors built. I will focus on the technique, as s the part I loved more in this paper (quote by Ramsey Nasser).
+    
+    
+
 
 ### Shape grammars
 
