@@ -4,7 +4,3 @@ languages/haskell/making-a-fast-curry-push-enter-versus-eval-apply-for-higher-or
 languages/haskell/tackling-the-awkward-squad-monadic-input-output-concurrency-exceptions-and-foreign-language-calls-in-haskell.pdf
 languages/smalltalk/Design-Principles-Behind-Smalltalk.pdf
 languages/smalltalk/The-Early-History-Of-Smalltalk.pdf
-languages/temp
-distributed_systems/tiered-replication-a-cost-effective-alternative-to-full-cluster-geo-replication.pdf
-security/sok-eternal-war-in-memory.pdf
-concurrency/experience-withprocesses-and-monitors-in-mesa.pdf
