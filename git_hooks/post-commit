@@ -1,0 +1,2 @@
+#!/bin/sh
+git log --name-status | \grep "^A\s" | grep -v README\.md | awk '{ print $2 }' | head > recently_added.md
