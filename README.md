@@ -18,7 +18,6 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
-* [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Dallas](http://www.papersdallas.com/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
@@ -49,18 +48,11 @@ All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-View a complete list of [past presentations](https://github.com/papers-we-love/papers-we-love/wiki/Past-Presentations) or check out our [Youtube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
-
-## Search this Repo!
-[@polyfractal](https://github.com/polyfractal) indexed this repository with Elastic Search. Find papers [here](http://findpaperswelove.com) !
+Check out our [Youtube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
-
-### Other Good Places to Discuss Papers
-
-* [Papers We Love reddit](https://www.reddit.com/r/paperswelove)
 
 ### Other Good Places to Find Papers
 
@@ -96,6 +88,10 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
+ 
+### Applications/Ideas built around Papers We Love
+
+* Love a Paper - [@lovepaper](https://twitter.com/loveapaper)
 
 ## Contributing Guidelines
 
