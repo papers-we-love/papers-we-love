@@ -39,7 +39,7 @@ Thank you for helping make this a welcoming, friendly event for all.
 Spelling it out
 ---------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, age, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
