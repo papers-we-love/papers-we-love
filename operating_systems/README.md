@@ -4,7 +4,7 @@
 
 * [The operating system: should there be one?](http://plosworkshop.org/2013/preprint/kell.pdf)
 
-* [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](http://web.mit.edu/amdragon/www/pubs/commutativity-sosp13.pdf)
+* [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)
 
 * :scroll: [Live Migration of Virtual Machines](live-migration-of-virtual-machines.pdf)
 
