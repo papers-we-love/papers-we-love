@@ -42,6 +42,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
+* [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
 * [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
