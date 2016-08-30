@@ -92,7 +92,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
  
 ### Applications/Ideas built around Papers We Love
 
-* Love a Paper - [@lovepaper](https://twitter.com/loveapaper)
+* Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
 
 ## Contributing Guidelines
 
