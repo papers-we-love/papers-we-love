@@ -5,7 +5,7 @@
 * [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf) - While it is difficult to identify the top 10, this paper contains 10 very important data mining/machine learning algorithms
 * [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) - Just like the title says, it contains many useful tips and gotchas for machine learning
 * [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf) - The initial paper on random forests
-* [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - The paper introducing conditional random fields as a framework for building probablistic models.
+* [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - The paper introducing conditional random fields as a framework for building probabilistic models.
 * [Support-Vector Networks](http://rd.springer.com/content/pdf/10.1007%2FBF00994018.pdf) - The initial paper on support-vector networks for classification.
 * [The Fast Johnson-Lindenstrauss Transforms](https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf)
 
@@ -13,7 +13,7 @@
 
     *Ailon, Nir, and Bernard Chazelle. "The fast Johnson-Lindenstrauss transform and approximate nearest neighbors." SIAM Journal on Computing 39.1 (2009): 302-322. Available: https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf*
 
-* [Applications of Machine Learning to Location Data](ftp://ftp.cs.princeton.edu/techreports/2013/949.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
+* [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
 
 ## Hosted Papers
 
