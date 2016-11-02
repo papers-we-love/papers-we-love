@@ -35,6 +35,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
+* [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
 * [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
