@@ -2,7 +2,7 @@
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
-Due to [licenses](https://github.com/papers-we-love/papers-we-love#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
+Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
 If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Slack](https://paperswelove.slack.com/messages/general/), after [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
