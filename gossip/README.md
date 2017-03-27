@@ -1,7 +1,7 @@
 ## Gossip 
 
 If you only read one of these papers, start with the classic Demers, et al paper:
-* [Epidemic Algorithms for Replicated Database Maintenance] (http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf)
+* [Epidemic Algorithms for Replicated Database Maintenance](http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf)
 
 # Peer sampling services
 Briefly, a peer sampling service is a system that maintains a restricted set (partial view) of the all machines participating in a gossip system.
