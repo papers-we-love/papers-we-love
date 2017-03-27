@@ -4,4 +4,4 @@
  
  [Probabilistic Counting Algorithms for Data Base Applications](http://algo.inria.fr/flajolet/Publications/FlMa85.pdf) by Philppe Flajolet, Nigel Martin
  
- [The Space Complexity of Approximating the Frequency Moments](http://wwwmath.tau.ac.il/~nogaa/PDFS/amsz4.pdf) by Noga Alon, Yossi Matias, Mario Szegedy
+ [The Space Complexity of Approximating the Frequency Moments](http://www.cs.ucsb.edu/~veronika/MAE/spacecomplexityapproxfreqmoments_alon_99.pdf) by Noga Alon, Yossi Matias, Mario Szegedy
