@@ -21,6 +21,9 @@ This is a really great paper that is both complex and straightforward. This pape
 ### Object modeling
 * [3-Sweep: Extracting Editable Objects from a Single Photo](http://www.cs.tau.ac.il/~dcor/articles/2013/3-Sweep-Extracting-Editable-Objects.pdf) - [Video](https://www.youtube.com/watch?v=Oie1ZXWceqM)
 
+### Photo editing
+* [Deep Photo Style Transfer](https://arxiv.org/pdf/1703.07511.pdf) (2017) - [Code](https://github.com/luanfujun/deep-photo-styletransfer) - A deep-learning approach to photographic style transfer (that is, taking the style of one photo and automatically applying it to another). The images in this paper are gorgeous.
+
 ### Lighting
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
 
