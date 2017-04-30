@@ -31,7 +31,7 @@
 
 * [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf)
 
-* [Orleans: Distributed Virtual Actors for Programmability and Scalability] (http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
+* [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
