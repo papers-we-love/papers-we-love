@@ -28,6 +28,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+* [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
