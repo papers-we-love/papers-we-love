@@ -6,3 +6,5 @@
 
 * [Panorama Weaving:
 Fast and Flexible Seam Processing](http://www.sci.utah.edu/~bsumma/projects/weaving/)
+
+* [Scalable Logo Recognition in Real-World images](http://www.multimedia-computing.de/flickrlogos/)
