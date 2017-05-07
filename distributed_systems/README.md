@@ -253,6 +253,8 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
+* :scroll: [Spartan: A distributed array framework with smart tiling](../datastores/spartan-a-distributed-array-framework-with-smart-tiling.pdf)
+
 ### Physics
 
 * :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)

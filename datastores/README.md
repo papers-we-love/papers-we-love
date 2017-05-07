@@ -42,7 +42,6 @@
 
 * [Towards a Next Generation Data Center Architecture: Scalability and Commoditization](http://research.microsoft.com/pubs/79348/presto27-greenberg.pdf)
 
-
 ## Hosted Papers
 
 * :scroll: [Bigtable: A Distributed Storage System for Structured Data](bigtable-a-distributed-storage-system-for-structured-data.pdf)
@@ -71,3 +70,4 @@
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](warp-multi-key-transactions-for-key-value-stores.pdf)
 
+* :scroll: [Spartan: A distributed array framework with smart tiling](spartan-a-distributed-array-framework-with-smart-tiling.pdf)
