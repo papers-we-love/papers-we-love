@@ -25,9 +25,11 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
+* [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+* [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
@@ -46,7 +48,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
-* [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
+* [Winnipeg](http://pwlwpg.ca/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
