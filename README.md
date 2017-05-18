@@ -43,6 +43,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
