@@ -50,6 +50,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
 * [Winnipeg](http://pwlwpg.ca/)
+* [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
