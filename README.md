@@ -18,6 +18,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
+* [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Dallas](http://www.papersdallas.com/)
 * [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
