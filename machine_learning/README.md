@@ -15,6 +15,8 @@
 
 * [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
 
+* ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) - This paper introduces an explanation technique for any classifier in a interpretable manner. 
+
 ## Hosted Papers
 
 * :scroll: **[A Sparse Johnson-Lindenstrauss Transform](dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
