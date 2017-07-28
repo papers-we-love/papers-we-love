@@ -1,4 +1,4 @@
-## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
@@ -18,6 +18,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
+* [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Dallas](http://www.papersdallas.com/)
 * [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
@@ -25,9 +26,11 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
+* [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+* [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
@@ -35,6 +38,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 * [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
 * [Pune](http://www.meetup.com/Doo-Things)
+* [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
@@ -42,10 +46,12 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
-* [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
+* [Winnipeg](http://pwlwpg.ca/)
+* [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 

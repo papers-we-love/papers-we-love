@@ -21,6 +21,9 @@ This is a really great paper that is both complex and straightforward. This pape
 ### Object modeling
 * [3-Sweep: Extracting Editable Objects from a Single Photo](http://www.cs.tau.ac.il/~dcor/articles/2013/3-Sweep-Extracting-Editable-Objects.pdf) - [Video](https://www.youtube.com/watch?v=Oie1ZXWceqM)
 
+### Photo editing
+* [Deep Photo Style Transfer](https://arxiv.org/pdf/1703.07511.pdf) (2017) - [Code](https://github.com/luanfujun/deep-photo-styletransfer) - A deep-learning approach to photographic style transfer (that is, taking the style of one photo and automatically applying it to another). The images in this paper are gorgeous.
+
 ### Lighting
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
 
@@ -42,8 +45,8 @@ This is a really great paper that is both complex and straightforward. This pape
     > Of all the ways to manipulate a 3D mesh, push/ technique popularized by SketchUp is one of the most approachable and fun. PushPull++ is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.
     > The paper presents the technique and the tool that the authors built. I will focus on the technique, as s the part I loved more in this paper (quote by Ramsey Nasser).
     
-    
-
+### Image Processing
+* :scroll: [Imaging Vector Fields Using Line Integral Convolution](http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf) by Brian Cabral and Leith Leedom    
 
 ### Shape grammars
 
