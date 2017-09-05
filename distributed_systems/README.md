@@ -83,9 +83,9 @@
 
 * :scroll: [Beehive: O(1) Lookup Performance for Power-Law Query Distributions in Peer-to-Peer Overlays](beehive-lookup-performance-for-power-law-query-distributions-in-peer-to-peer-overlays.pdf)
 
-* :scroll: [Byzantine Chain Replication](bizantine-chain-replication.pdf)
+* :scroll: [Byzantine Chain Replication](byzantine-chain-replication.pdf)
 
-* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](bizantine-fault-tolerant-distributed-commit-protocol.pdf)
+* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](byzantine-fault-tolerant-distributed-commit-protocol.pdf)
 
 * :scroll: [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](brewers-conjecture.pdf)
 
@@ -130,7 +130,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Large-scale Incremental Processing Using Distributed Transactions and Notifications](large-scale-incremental-processing-using-distributed-transactions-and-notifications.pdf)
 
-* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyoud-distributed-transactions-an-apostates-opinion.pdf)
+* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyond-distributed-transactions-an-apostates-opinion.pdf)
 
 * :scroll: [MapReduce: Simplified Data Processing on Large Clusters](mapreduce-simplified-data-processing-on-large-clusters.pdf)
 
@@ -154,7 +154,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in 
+* :scroll: [Slution of a Problem in
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
@@ -260,7 +260,7 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 * :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)
 
     By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
-    
+
 ### <a name="testing-verification-and-correctness"></a>Testing, Verification, and Correctness
 
 * :scroll: [Simple Testing Can Prevent Most Critical Failures:
@@ -268,5 +268,3 @@ An Analysis of Production Failures in Distributed
 Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
 * :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
-
-
