@@ -27,6 +27,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
+* [Kyiv](https://www.facebook.com/groups/PapersWeLoveKyiv)
 * [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
