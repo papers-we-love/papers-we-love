@@ -10,4 +10,4 @@
 * [On the Computational Complexity of Algorithims](http://www.ams.org/journals/tran/1965-117-00/S0002-9947-1965-0170805-7/S0002-9947-1965-0170805-7.pdf) by J. HARTMANIS AND R. E. STEARNS
 * :scroll: [Hints for Computer System Design](hints-for-computer-system-design.pdf)
 * :scroll: [Early Lisp History: 1956-1959](early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf) by Herbert Stoyan. This is a pdf rendering of the HTML page available at Archive.org.
-* :scroll: [WHY PROGRAMMING IS A GOOD MEDIUM FOR EXPRESSING POORLY UNDERSTOOD AND SLOPPILY-FORMULATED IDEAS](http://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html) by Marvin Minsky
+* :scroll: [Why Programming is a good medium for expressing poorly understood and sloppily-formulated ideas](http://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html) by Marvin Minsky
