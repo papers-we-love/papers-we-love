@@ -8,3 +8,6 @@
     * [Announcement and interactive examples](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
     * [[Python] Implementation with the Keras Neural Networks library](https://github.com/basveeling/wavenet)
     * [[Python] Implementation with the TensorFlow Machine Intelligence library](https://github.com/ibab/tensorflow-wavenet)
+
+* :scroll: [Real time chord recognition for live performance](real-time-chord-detection.pdf) by Adam M. Stark, Mark D. Plumbley
+    * [[C++] Implementation of real time chord detection](https://github.com/adamstark/Chord-Detector-and-Chromagram)
