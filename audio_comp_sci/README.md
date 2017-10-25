@@ -11,3 +11,6 @@
 
 * :scroll: [Real time chord recognition for live performance](real-time-chord-detection.pdf) by Adam M. Stark, Mark D. Plumbley
     * [[C++] Implementation of real time chord detection](https://github.com/adamstark/Chord-Detector-and-Chromagram)
+
+* :scroll: [ESSENTIA: An Audio Analysis Library for MusicInformation Retrieval](essentia.pdf) by Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain
+    * [[C++] Essential open source library](https://github.com/MTG/essentia)
