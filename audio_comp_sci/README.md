@@ -14,3 +14,6 @@
 
 * :scroll: [ESSENTIA: An Audio Analysis Library for MusicInformation Retrieval](essentia.pdf) by Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain
     * [[C++] Essential open source library](https://github.com/MTG/essentia)
+
+* :scroll: [MARSYAS: A framework for audio analysis](marsyas.pdf) by George Tzanetakis and Perry Cook
+    * [[C++] Marsyas open source audio processing framework](https://github.com/marsyas/marsyas)
