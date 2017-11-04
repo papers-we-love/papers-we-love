@@ -68,6 +68,7 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Find Papers
 
+* [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://www.facebook.com/publications)
