@@ -71,7 +71,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
-* [Facebook](https://www.facebook.com/publications)
+* [Facebook](https://research.fb.com/publications/)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
 * [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
