@@ -24,7 +24,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Dallas](http://www.papersdallas.com/)
 * [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
-* [Guadalajara] (https://www.facebook.com/pwlgdl/)
+* [Guadalajara](https://www.facebook.com/pwlgdl/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
