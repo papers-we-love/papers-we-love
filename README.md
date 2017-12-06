@@ -45,6 +45,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
+* [Rio de Janeiro](https://www.meetup.com/pt-BR/papers-we-love-rio-de-janeiro/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
