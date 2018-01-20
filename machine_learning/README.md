@@ -17,6 +17,8 @@
 
 * ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) - This paper introduces an explanation technique for any classifier in a interpretable manner. 
 
+* [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf) - uses an unsupervised approach to natural language processing to classify narrators in David Foster Wallace's 1,000-page novel.
+
 ## Hosted Papers
 
 * :scroll: **[A Sparse Johnson-Lindenstrauss Transform](dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
