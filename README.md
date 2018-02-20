@@ -12,6 +12,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
+* [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
