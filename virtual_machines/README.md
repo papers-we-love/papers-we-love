@@ -3,3 +3,5 @@
 * [A Comparison of Software and Hardware Techniques for x86
   Virtualization](http://www.vmware.com/pdf/asplos235_adams.pdf)
     - virtualization theory background
+* [An Updated Performance Comparison of Virtual Machines and Linux Containers](http://domino.research.ibm.com/library/cyberdig.nsf/papers/0929052195DD819C85257D2300681E7B/$File/rc25482.pdf)
+    - This paper explores the performance of traditional virtual machine deployments, and contrast them with the use of Linux containers.  
