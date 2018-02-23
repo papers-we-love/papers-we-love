@@ -44,6 +44,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
 * [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 * [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
+* [Porto](https://www.meetup.com/Papers-We-Love-Porto)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
