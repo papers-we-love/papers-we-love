@@ -49,6 +49,8 @@
 
 * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
 
+* [Hashgraph Consensus: Fair, Fast, Byzantine Fault Tolerance](https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
+
 * [:scroll:](the-chubby-lock-service-for-loosely-coupled-distributed-systems.pdf) [The Chubby Lock Service for Loosely-Coupled Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
 * [:scroll:](join-calculus.pdf) [The Join Calculus: a Language for Distributed Mobile Programming](http://research.microsoft.com/en-us/um/people/fournet/papers/join-tutorial.pdf)
