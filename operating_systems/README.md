@@ -2,7 +2,7 @@
 
 * :scroll: [The UNIX Time-Sharing System](unix-time-sharing-system.pdf)
 
-* [The operating system: should there be one?](http://plosworkshop.org/2013/preprint/kell.pdf)
+* [The operating system: should there be one?](https://www.cl.cam.ac.uk/~srk31/research/papers/kell13operating.pdf)
 
 * [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)
 
