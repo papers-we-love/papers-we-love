@@ -56,6 +56,8 @@
 
 * :scroll: [Freenet: A Distributed Anonymous Information Storage and Retrieval System](freenet-a-distributed-anonymous-information-and-retrieval-system.pdf)
 
+* :scroll: [The Google File System](the-google-file-system.pdf)
+
 * :scroll: [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](megastore-providing-scalable-highly-available-storage-for-interactive-services.pdf)
 
 * :scroll: [RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters](rados-a-scalable-reliable-storage-service-for-petabyte-scale-storage-clusters.pdf)
