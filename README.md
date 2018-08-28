@@ -21,6 +21,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
+* [Cairo](http://www.meetup.com/Papers-We-Love-Cairo/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
