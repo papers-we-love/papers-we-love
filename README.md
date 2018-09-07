@@ -67,7 +67,7 @@ All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-Check out our [Youtube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
+Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Info
 
