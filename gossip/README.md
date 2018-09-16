@@ -17,5 +17,5 @@ Briefly, a peer sampling service is a system that maintains a restricted set (pa
 
 # Failure Detectors
 * [A Gossip-Style Failure Detection Service](https://ecommons.cornell.edu/bitstream/handle/1813/7341/98-1687.pdf)
-* [The ϕ Accrual Failure Detector ](http://ddg.jaist.ac.jp/pub/HDY+04.pdf)
+* [The ϕ Accrual Failure Detector ](https://dspace.jaist.ac.jp/dspace/bitstream/10119/4784/1/IS-RR-2004-010.pdf)
 

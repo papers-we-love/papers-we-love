@@ -1,3 +1,3 @@
 ## Clustering Algorithms
 
-[On the resemblance and containment of documents](http://gatekeeper.dec.com/ftp/pub/dec/SRC/publications/broder/positano-final-wpnums.pdf) (Andrei Z. Broder)
+[On the resemblance and containment of documents](https://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/broder97resemblance.pdf) (Andrei Z. Broder)
