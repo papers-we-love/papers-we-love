@@ -7,4 +7,8 @@
     > This paper provides an overview of studies on the happiness of software developers. You will learn why it is important to make software developers happy, how happy they really are, what makes them unhappy, and what is expected for their productivity while developing software.
 
 * [Why Software Projects need Heroes (Lessons Learned from 1100+ Projects) (2019)](https://arxiv.org/pdf/1904.09954.pdf) by Suvodeep Majumder, Joymallya Chakraborty, Amritanshu Agrawal & Tim Menzies
+<<<<<<< HEAD
     > This paper explores the effect of having heroes in project, from a code quality perspective. Authors identify the heroes developer communities in 1100+ open source GitHub projects. Based on the analysis, they find that majorly all projects are hero projects and commits from **"hero developers"** (who contribute most to the code) result in far fewer bugs than other developers which is contrary to the literature.
+=======
+    > This paper explores the effect of having heroes in projects, from a code quality perspective. Authors identify the hero developers of 1100+ open source GitHub projects. Based on the analysis, they find the majority of all projects are *"hero" projects* and commits from *hero developers* (who contribute the most code) result in far fewer bugs than other developers -- which is contrary to the literature.
+>>>>>>> upstream/master
