@@ -19,6 +19,12 @@
 
 * [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf) - uses an unsupervised approach to natural language processing to classify narrators in David Foster Wallace's 1,000-page novel.
 
+* [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) - This paper introduces AlexNet, a neural network architecture which dramatically improved over the state-of-the-art in image classification algorithms and is widely regarded as a breakthrough moment for deep learning.
+
+* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf) - This paper introduces the foundations of the rapidly emerging field of interpretable machine learning.
+
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) - This seminal paper introduces a method to distill information from an ensemble of neural networks into a single model.
+
 ## Hosted Papers
 
 * :scroll: **[A Sparse Johnson-Lindenstrauss Transform](dimensionality_reduction/a-sparse-johnson-lindenstrauss-transform.pdf)**
