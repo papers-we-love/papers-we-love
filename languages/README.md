@@ -4,7 +4,7 @@ Programming language theory (PLT) is a branch of computer science that deals wit
 
 ## Included Papers
 
-* [On the Expressive Power of Programming Languages](https://www.sciencedirect.com/science/article/pii/016764239190036W) (Matthias Felleisen): "The literature on programming languages contains an abundance of informal
+* :scroll: [On the Expressive Power of Programming Languages](scp91-felleisen.ps.gz) [sciencedirect](https://www.sciencedirect.com/science/article/pii/016764239190036W)(Matthias Felleisen): "The literature on programming languages contains an abundance of informal
 claims on the relative expressive power of programming languages, but there
 is no framework for formalizing such statements nor for deriving interesting
 consequences. As a first step in this direction, we develop a formal notion
