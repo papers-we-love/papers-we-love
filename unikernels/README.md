@@ -3,7 +3,7 @@
 ## First-wave: lightweight kernels (microkernels)
 
 * [HYDRA: the kernel of a multiprocessor operating system](https://kilthub.cmu.edu/articles/HYDRA_--_the_kernel_of_a_multiprocessor_operating_system/6606224/files/12096734.pdf)
-* [Two years of experience with a μ-Kernel based OS](http://delivery.acm.org/10.1145/130000/122124/p51-liedtke.pdf)
+* [Two years of experience with a μ-Kernel based OS](https://dl.acm.org/citation.cfm?id=122124)
 * [A persistent system in real use-experiences of the first 13 years](https://os.itec.kit.edu/downloads/publ_1993_liedtke_persistent-system-in-real-use.pdf)
 * [SPIN: An extensible microkernel for application-specific operating system services](https://apps.dtic.mil/dtic/tr/fulltext/u2/a293537.pdf)
 * [Extensibility safety and performance in the SPIN operating system](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.6702&rep=rep1&type=pdf)
@@ -28,7 +28,7 @@
 ### Introduction
 
 * [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
-* [Unikernels: the rise of the virtual library operating system](http://delivery.acm.org/10.1145/2570000/2566628/p30-madhavapeddy.pdf)
+* [Unikernels: the rise of the virtual library operating system](https://cacm.acm.org/magazines/2014/1/170866-unikernels/fulltext)
 * [Maximizing hypervisor scalability using minimal virtual machines](https://core.ac.uk/download/pdf/35074556.pdf)
 * [Breaking up is hard to do: security and functionality in a commodity hypervisor](https://open.library.ubc.ca/media/download/pdf/24/1.0052016/1)
 * [A case for high performance computing with virtual machines](http://mvapich.cse.ohio-state.edu/static/media/publications/abstract/huangwei-ics06.pdf)
@@ -45,7 +45,7 @@
 * [The rump kernel: A tool for driver development and a toolkit for applications](https://www.netbsd.org/gallery/presentations/justin/2015_AsiaBSDCon/justincormack-abc2015.pdf)
 * [Flexible operating system internals: the design and implementation of the anykernel and rump kernels](https://aaltodoc.aalto.fi/bitstream/handle/123456789/6318/isbn9789526049175.pdf?sequence=1)
 * [Rump Kernels: No OS? No Problem!](https://www.usenix.org/system/files/login/articles/login_1410_03_kantee.pdf)
-* [HermitCore: A Unikernel for Extreme Scale Computing](http://delivery.acm.org/10.1145/2940000/2931093/a4-lankes.pdf)
+* [HermitCore: A Unikernel for Extreme Scale Computing](https://dl.acm.org/citation.cfm?id=2931093)
 * [llamaOS: A Solution for Virtualized High-Performance Computing Clusters](https://ieeexplore.ieee.org/document/6969511)
 * [KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization](https://www.usenix.org/conference/atc18/presentation/zhang-yiming)
 
