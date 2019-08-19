@@ -4,7 +4,7 @@
 
 * [Defining Gamification - A Service Marketing Perspective](http://www.rolandhubscher.org/courses/hf765/readings/p17-huotari.pdf)
 
-* [Design Requirements for Technologies that Encourage Physical Activity](http://www.katherineeveritt.com/papers/p457-consolvo.pdf)
+* [Design Requirements for Technologies that Encourage Physical Activity](https://www.cs.helsinki.fi/u/thusu/opinnot/uschool/T-121.5500/p457-consolvo.pdf)
 
 * [Exploring the Potential of Gamification Among Frail Elderly Persons](http://gamification-research.org/wp-content/uploads/2011/04/12-Gerling.pdf)
 
