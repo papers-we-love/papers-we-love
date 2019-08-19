@@ -15,12 +15,15 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
+* [Beijing](https://www.meetup.com/Beijing-Technology-Meetup-Group/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
+* [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
+* [Cairo](http://www.meetup.com/Papers-We-Love-Cairo/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
@@ -39,6 +42,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
 * [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
+* [Mumbai](https://www.meetup.com/Papers-We-Love-Mumbai/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
@@ -66,7 +70,7 @@ All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-Check out our [Youtube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
+Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
 
 ## Info
 

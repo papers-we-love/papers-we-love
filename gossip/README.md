@@ -7,7 +7,7 @@ If you only read one of these papers, start with the classic Demers, et al paper
 Briefly, a peer sampling service is a system that maintains a restricted set (partial view) of the all machines participating in a gossip system.
 * [The Peer Sampling Service: Experimental Evaluation of Unstructured Gossip-Based Implementations](http://infoscience.epfl.ch/record/83409/files/neg--1184036295all.pdf)
 * [HyParView: a membership protocol for reliable gossip-based broadcast](http://asc.di.fct.unl.pt/~jleitao/pdf/dsn07-leitao.pdf)
-* [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
+* [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/info/projects/spinglass/public_pdfs/swim.pdf)
 
 # Epidemic broadcast 
 * [Large-Scale Newscast Computing on the Internet ](http://www.soc.napier.ac.uk/~benp/dream/dreampaper17.pdf)
