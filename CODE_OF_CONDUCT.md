@@ -13,15 +13,16 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, [PapersWeLove.org](http://paperswelove.org), or via remote presentations, please contact:
 
 - **Zeeshan Lakhani** [zeeshan@paperswelove.org](mailto:zeeshan@paperswelove.org)
-- **Clint Newsom** [clint@paperswelove.org](mailto:clint@paperswelove.org)
+- **Ines Sombra** [ines@paperswelove.org](mailto:ines@paperswelove.org)
+- **Elaine Greenberg** [elaine@paperswelove.org](mailto:elaine@paperswelove.org)
 - **Jeremy Heiler** (Github) [jeremy@paperswelove.org](mailto:jeremy@paperswelove.org)
 - **Darren Newton** (paperswelove.org) [darren@paperswelove.org](mailto:darren@paperswelove.org)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
-The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
+The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live and/or live-streaming events. If they are unavailable for some reason, please send a message to our contact email address or to one of our core organizers listed above.
 
 What it means
 -------------
@@ -39,11 +40,11 @@ Thank you for helping make this a welcoming, friendly event for all.
 Spelling it out
 ---------------
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, age, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Contributors to the GitHub repository, the Meetup and/or event-related sites, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment..
+Contributors to the GitHub repository, the meetups and/or event-related sites, sponsors, or similar are also subject to the anti-harassment policy. Organizers (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Local Chapters
 --------------
