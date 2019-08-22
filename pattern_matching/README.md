@@ -4,3 +4,7 @@
 * :scroll: [Extensible Pattern Matching in an Extensible Language](extensible-pattern-matching-extensible-language.pdf) by Sam Tobin-Hochstadt. Paper present a sophisticated pattern matcher for [Racket](http://racket-lang.org/), implemented as language extension using macros.
 * :scroll: [Warnings for pattern matching](warnings-for-pattern-matching.pdf) by Luc Maranget. Paper examine the ML pattern-matching anomalies of useless clauses and non-exhaustive matches.
 * :scroll: [Efficient String Matching: An Aid to Bibliographic Search](aho-corasick-string-matching.pdf) by Alfred V. Aho and Margaret J. Corasick. A single-pass pattern matching algorithm used in early versions of fgrep and similar projects. [Aho–Corasick entry](http://xlinux.nist.gov/dads//HTML/ahoCorasick.html) in NIST's Dictionary of Algorithms and Data Structures.
+
+## Clustering Algorithms
+
+* [On the resemblance and containment of documents](https://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/broder97resemblance.pdf) (Andrei Z. Broder)
