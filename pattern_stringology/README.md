@@ -1,5 +1,13 @@
 # Stringology
 
+[Stringology](https://en.wikipedia.org/wiki/String_(computer_science)#String_processing_algorithms) refers to one of the various kinds of string processing algorithms. 
+
+
+🧭 Part of the pattern-matching group, in PWL
+
+* [Pattern Matching](../pattern_matching/README.md)
+* [Stringology](../pattern_stringology/README.md)
+
 ## External Papers
 
 * [A Taxonomy of Suffix Array Construction Algorithms](http://www.cas.mcmaster.ca/~bill/best/algorithms/07Taxonomy.pdf)
