@@ -1,6 +1,6 @@
 # Software Engineering Organizations 
 
-The practice of software engineering is, itself, a coplex study in human, coordination, and communication.
+The [practice of software engineering](https://en.wikipedia.org/wiki/Software_engineering), and [its history](https://en.wikipedia.org/wiki/History_of_software_engineering) is, itself, a complex study in [humanity](https://en.wikipedia.org/wiki/No_Silver_Bullet), [coordination](https://en.wikipedia.org/wiki/Software_development_process), and communication.
 
 ## Software Engineering 
 
