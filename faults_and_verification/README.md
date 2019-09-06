@@ -1,5 +1,8 @@
 # Program Faults and Verification
 
+[Fault detection](https://en.wikipedia.org/wiki/Fault_detection_and_isolation), and [program validation](https://en.wikipedia.org/wiki/Software_verification_and_validation), and [formal validation](https://en.wikipedia.org/wiki/Formal_verification) are highly interrelated topics.  Each deal with proving or disproving the correctness of systems as intended, and the classification of incorrect behavior.
+
+
 ## Program Verification
 
 * [Coq: The world’s best macro assembler?](https://research.microsoft.com/en-us/um/people/nick/coqasm.pdf)
