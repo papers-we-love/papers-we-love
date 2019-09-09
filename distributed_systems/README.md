@@ -9,7 +9,7 @@
 
 ## External Papers
 
-* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf)
+* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=5A960A7B16A7BB42A99D7B6EFC30FB25?doi=10.1.1.41.7628&rep=rep1&type=pdf)
 
 * [A simple totally ordered broadcast protocol](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
@@ -17,7 +17,7 @@
 
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 
-* [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
+* [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
 * [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43438.pdf)
 
@@ -31,7 +31,7 @@
 
 * [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf)
 
-* [Orleans: Distributed Virtual Actors for Programmability and Scalability] (http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
+* [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
@@ -48,6 +48,8 @@
 * [Sparrow: Distributed, Low Latency Scheduling](http://people.csail.mit.edu/matei/papers/2013/sosp_sparrow.pdf)
 
 * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
+
+* [Hashgraph Consensus: Fair, Fast, Byzantine Fault Tolerance](https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
 
 * [:scroll:](the-chubby-lock-service-for-loosely-coupled-distributed-systems.pdf) [The Chubby Lock Service for Loosely-Coupled Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
@@ -83,9 +85,9 @@
 
 * :scroll: [Beehive: O(1) Lookup Performance for Power-Law Query Distributions in Peer-to-Peer Overlays](beehive-lookup-performance-for-power-law-query-distributions-in-peer-to-peer-overlays.pdf)
 
-* :scroll: [Byzantine Chain Replication](bizantine-chain-replication.pdf)
+* :scroll: [Byzantine Chain Replication](byzantine-chain-replication.pdf)
 
-* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](bizantine-fault-tolerant-distributed-commit-protocol.pdf)
+* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](byzantine-fault-tolerant-distributed-commit-protocol.pdf)
 
 * :scroll: [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](brewers-conjecture.pdf)
 
@@ -130,7 +132,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Large-scale Incremental Processing Using Distributed Transactions and Notifications](large-scale-incremental-processing-using-distributed-transactions-and-notifications.pdf)
 
-* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyoud-distributed-transactions-an-apostates-opinion.pdf)
+* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyond-distributed-transactions-an-apostates-opinion.pdf)
 
 * :scroll: [MapReduce: Simplified Data Processing on Large Clusters](mapreduce-simplified-data-processing-on-large-clusters.pdf)
 
@@ -154,7 +156,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in 
+* :scroll: [Slution of a Problem in
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
@@ -180,6 +182,8 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [ZooKeeper: Wait-free coordination for Internet-scale systems](zookeeper-wait-free-coordination-for-internet-scale-systems.pdf)
 
+* :scroll: [Tiered Replication: A Cost-effective Alternative to
+Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to-full-cluster-geo-replication.pdf)
 
 ## Topics
 
@@ -251,12 +255,14 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
+* :scroll: [Spartan: A distributed array framework with smart tiling](../datastores/spartan-a-distributed-array-framework-with-smart-tiling.pdf)
+
 ### Physics
 
 * :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)
 
     By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
-    
+
 ### <a name="testing-verification-and-correctness"></a>Testing, Verification, and Correctness
 
 * :scroll: [Simple Testing Can Prevent Most Critical Failures:
@@ -264,5 +270,3 @@ An Analysis of Production Failures in Distributed
 Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
 * :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
-
-

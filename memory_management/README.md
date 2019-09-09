@@ -1,8 +1,8 @@
 ## Memory Management
 
-* [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf)
+* [A Unified Theory of Garbage Collection](https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf)
 
-* [Teaching Garbage Collection without Implementing Compilers or Interpreters](http://faculty.cs.byu.edu/~jay/static/cooper-sigcse2013.pdf)
+* [Teaching Garbage Collection without Implementing Compilers or Interpreters](https://cs.brown.edu/~sk/Publications/Papers/Published/cgkmf-teach-gc/paper.pdf)
 
 * [Message Analysis Guided Allocation and Low Pause Incremental GC in a Concurrent Language](http://user.it.uu.se/~kostis/Papers/ismm04.pdf)
 
