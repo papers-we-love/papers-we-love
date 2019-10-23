@@ -63,7 +63,7 @@
 
 * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 
-* [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
+* [Unikernels: Library Operating Systems for the Cloud](http://unikernel.org/files/2013-asplos-mirage.pdf)
 
 * [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://www.cs.utexas.edu/~shmat/courses/cs395t_fall04/chaum81.pdf)
 
