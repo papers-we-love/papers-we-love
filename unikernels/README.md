@@ -27,7 +27,7 @@
 
 ### Introduction
 
-* [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
+* [Unikernels: Library Operating Systems for the Cloud](http://unikernel.org/files/2013-asplos-mirage.pdf)
 * [Unikernels: the rise of the virtual library operating system](https://cacm.acm.org/magazines/2014/1/170866-unikernels/fulltext)
 * [Maximizing hypervisor scalability using minimal virtual machines](https://core.ac.uk/download/pdf/35074556.pdf)
 * [Breaking up is hard to do: security and functionality in a commodity hypervisor](https://open.library.ubc.ca/media/download/pdf/24/1.0052016/1)
