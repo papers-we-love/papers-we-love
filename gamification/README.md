@@ -8,7 +8,7 @@
 
 * [Exploring the Potential of Gamification Among Frail Elderly Persons](http://gamification-research.org/wp-content/uploads/2011/04/12-Gerling.pdf)
 
-* [From Game Design Elements to Gamefulness: Defining “Gamification”](http://dl.dropboxusercontent.com/u/220532/MindTrek_Gamification_PrinterReady_110806_SDE_accepted_LEN_changes_1.pdf)
+* [From Game Design Elements to Gamefulness: Defining “Gamification”](https://uwaterloo.ca/scholar/sites/ca.scholar/files/lnacke/files/From_game_design_elements_to_gamefulness-_defining_gamification.pdf)
 
 * [MoviPill: Improving Medication Compliance for Elders - Using a Mobile Persuasive Social Game](http://www.ic.unicamp.br/~oliveira/doc/Ubicomp2010_MoviPill.pdf)
 
