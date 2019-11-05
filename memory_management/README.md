@@ -1,6 +1,6 @@
 ## Memory Management
 
-* [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf)
+* [A Unified Theory of Garbage Collection](https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf)
 
 * [Teaching Garbage Collection without Implementing Compilers or Interpreters](https://cs.brown.edu/~sk/Publications/Papers/Published/cgkmf-teach-gc/paper.pdf)
 

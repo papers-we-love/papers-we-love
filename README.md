@@ -1,4 +1,6 @@
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+ 
+ [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
@@ -15,6 +17,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
+* [Beijing](https://www.meetup.com/Beijing-Technology-Meetup-Group/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
@@ -95,7 +98,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.html)
+* [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 

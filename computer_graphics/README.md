@@ -28,7 +28,7 @@ This is a really great paper that is both complex and straightforward. This pape
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
 
 ### Bump mapping
-* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](http://research.microsoft.com/en-us/um/people/cohen/bs.pdf)
+* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](https://www.ppsloan.org/publications/bs.pdf)
 
 ### Interior mapping
 * [Interior Mapping: A new technique for rendering realistic buildings](http://www.proun-game.com/Oogst3D/CODING/InteriorMapping/InteriorMapping.pdf)
