@@ -10,7 +10,7 @@
 * [Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2 (2017)](https://papers.mathyvanhoef.com/ccs2017.pdf) (Mathy Vanhoef, Frank Piessens)
 
 ## Related Works
-### [A Mathematical Theory of Cryptography (1945)](http://www.cs.bell-labs.com/who/dmr/pdfs/shannoncryptshrt.pdf) - Shannon
+### [A Mathematical Theory of Cryptography (1945)](https://www.iacr.org/museum/shannon/shannon45.pdf) - Shannon
 The original classified memo for Bell Labs that was republished in 1949 as ["Communication Theory of Secrecy Systems"](communication-theory-of-secrecy-systems.pdf).
 
 ### :scroll: [A Mathematical Theory of Communication (1948)](../information_theory/a-mathematical-theory-of-communication-1948.pdf) - Shannon
