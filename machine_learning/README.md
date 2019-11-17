@@ -2,11 +2,22 @@
 
 ## External Papers
 
-* [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf) - While it is difficult to identify the top 10, this paper contains 10 very important data mining/machine learning algorithms
-* [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) - Just like the title says, it contains many useful tips and gotchas for machine learning
-* [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf) - The initial paper on random forests
-* [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) - The paper introducing conditional random fields as a framework for building probabilistic models.
-* [Support-Vector Networks](http://rd.springer.com/content/pdf/10.1007%2FBF00994018.pdf) - The initial paper on support-vector networks for classification.
+* [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf)
+
+  While it is difficult to identify the top 10, this paper contains 10 very important data mining/machine learning algorithms
+* [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+  Just like the title says, it contains many useful tips and gotchas for machine learning
+* [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+
+  The initial paper on random forests
+* [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
+
+  The paper introducing conditional random fields as a framework for building probabilistic models.
+* [Support-Vector Networks](http://rd.springer.com/content/pdf/10.1007%2FBF00994018.pdf)
+
+  The initial paper on support-vector networks for classification.
+
 * [The Fast Johnson-Lindenstrauss Transforms](https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf)
 
     The Johnson-Lindenstrauss transform (JLT) prescribes that there exists a matrix of size `k x d`, where `k = O(1/eps^2 log d)` such that with high probability, a matrix A drawn from this distribution preserves pairwise distances up to epsilon (e.g. `(1-eps) * ||x-y|| < ||Ax - Ay|| < (1+eps) ||x-y||`). This paper was the first paper to show that you can actually compute the JLT in less that `O(kd)` operations (e.g. you don't need to do the full matrix multiplication). They used their faster algorithm to construct one of the fastest known approximate nearest neighbor algorithms.
@@ -14,17 +25,32 @@
     *Ailon, Nir, and Bernard Chazelle. "The fast Johnson-Lindenstrauss transform and approximate nearest neighbors." SIAM Journal on Computing 39.1 (2009): 302-322. Available: https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf*
 
 * [Renormalization](https://www.youtube.com/watch?v=_qjPFF5Gv1I) by Curt MacMullen
-* [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
 
-* ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) - This paper introduces an explanation technique for any classifier in a interpretable manner. 
+  Here is a video of a master (https://press.princeton.edu/titles/5669.html) talking about renormalisation. Which S Mallat has suggested is key to why deep learning works.
 
-* [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf) - uses an unsupervised approach to natural language processing to classify narrators in David Foster Wallace's 1,000-page novel.
+* [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) 
 
-* [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) - This paper introduces AlexNet, a neural network architecture which dramatically improved over the state-of-the-art in image classification algorithms and is widely regarded as a breakthrough moment for deep learning.
+  Using machine learning to design and analyze novel algorithms that leverage location data.
 
-* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf) - This paper introduces the foundations of the rapidly emerging field of interpretable machine learning.
+* ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
 
-* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) - This seminal paper introduces a method to distill information from an ensemble of neural networks into a single model.
+  This paper introduces an explanation technique for any classifier in a interpretable manner. 
+
+* [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf)
+
+  uses an unsupervised approach to natural language processing to classify narrators in David Foster Wallace's 1,000-page novel.
+
+* [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+  This paper introduces AlexNet, a neural network architecture which dramatically improved over the state-of-the-art in image classification algorithms and is widely regarded as a breakthrough moment for deep learning.
+
+* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
+
+  This paper introduces the foundations of the rapidly emerging field of interpretable machine learning.
+
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+
+  This seminal paper introduces a method to distill information from an ensemble of neural networks into a single model.
 
 ## Hosted Papers
 
@@ -42,6 +68,12 @@
 
 * :scroll: **[Truncation of Wavelet Matrices: Edge Effects and the Reduction of Topological Control](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Truncation-of-Wavelet-Matrices--Edge-Effects-and-Reduction-of-Topological-Control.pdf)** by Freedman
 
+  In Simons Foundation’s interview by Michael Hartley Freedman of Robion Kirby, Freedman mentions this paper in which MHF applied RK’s “torus trick” to compression via wavelets.
+
 * :scroll: **[Understanding Deep Convolutional Networks](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Understanding-Deep-Convolutional-Networks.pdf)** by Mallet
 
+  Stéphane Mallat thinks renormalisation has something to do with why deep nets work.
+  
 * :scroll: **[General self-similarity: an overview](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/General-self-similarity--an-overview.pdf)** by Leinster
+
+  Again on the topic of renormalisation. Dr Leinster has a nice, simple picture of self-similarity
