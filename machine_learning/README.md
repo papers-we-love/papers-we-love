@@ -13,6 +13,7 @@
 
     *Ailon, Nir, and Bernard Chazelle. "The fast Johnson-Lindenstrauss transform and approximate nearest neighbors." SIAM Journal on Computing 39.1 (2009): 302-322. Available: https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf*
 
+* [Renormalization](https://www.youtube.com/watch?v=_qjPFF5Gv1I) by Curt MacMullen
 * [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) -  Using machine learning to design and analyze novel algorithms that leverage location data.
 
 * ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) - This paper introduces an explanation technique for any classifier in a interpretable manner. 
@@ -39,3 +40,8 @@
 
     *Bourgain, Jean, and Jelani Nelson. "Toward a unified theory of sparse dimensionality reduction in euclidean space." arXiv preprint arXiv:1311.2542; Accepted in an AMS Journal but unpublished at the moment  (2013). Available: http://arxiv.org/abs/1311.2542*
 
+* :scroll: **[Truncation of Wavelet Matrices: Edge Effects and the Reduction of Topological Control](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Truncation-of-Wavelet-Matrices--Edge-Effects-and-Reduction-of-Topological-Control.pdf)** by Freedman
+
+* :scroll: **[Understanding Deep Convolutional Networks](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Understanding-Deep-Convolutional-Networks.pdf)** by Mallet
+
+* :scroll: **[General self-similarity: an overview](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/General-self-similarity--an-overview.pdf)** by Leinster
