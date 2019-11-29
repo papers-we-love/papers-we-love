@@ -3,7 +3,7 @@
 * [:scroll:](transcendence-of-pi.pdf) [The Transcendence of pi](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/transcendence-of-pi.pdf) by Steve Mayer
 * [:scroll:] [Tilings](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/tilings.pdf) by Ardila
 
-  Programmers are used to counting boring things. Why not count something more interesting for a change?  This paper covers a broad swatch of the topic of analysis of tiling, and related strategies.
+  This paper takes programmers out of the domain of what they are familair with counting, and into new terrain.  The paper covers a broad swath of the topic of analysis of tiling, and related strategies.
 
 * [:scroll:] [From Dominoes to Hexagons](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/from-dominoes-to-hexagons.pdf) by Thurston
 
@@ -11,29 +11,27 @@
 
 * [:scroll:] [graph isomorphism and representation theory](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/graph-isomorphism-and-representation-theory.pdf) by Daniel Litt
 
-    Programmers work with graphs often (file system, greplin, trees, "graph isomorphism problem" (who cares) ).   But have you ever tried to construct a simpler building-block (basis) with which graphs could be built? Or at least a different building block to build the same old things.
+    Programmers work with graphs often (file system, greplin, trees, "graph isomorphism problem").   But have you ever tried to construct a simpler building-block (basis) with which graphs could be built? Or at least a different building block to build the same old things.
     
-    This <10-page paper also uses `𝔰𝔩₂(ℂ)`, a simple mathematical object you haven’t heard of, but which is a nice lead-in to an area of real mathematics—rep theory—that (1) contains actual insights (1a) that you aren’t using (2) is simple (3) isn’t pretentious.
+    This <10 page paper also uses `𝔰𝔩₂(ℂ)` that will be seen to be a simple mathematical object, which leads into an area of real mathematics—rep theory.
 
 * [:scroll:] [Conway's ZIP proof](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/conways-zip-proof.pdf) by George Francis and Jeffrey Weeks
 
-    This paper can be shown to college freshmen because
+    This paper is good for most knowledge levels because
     * it is pictorial
     * it is about an object you might not have considered mathematical
-    * no calculus, crypto, ML, or pretentious notation
+    * no calculus, crypto, ML, or tough notation
     * it is short
     * it is a classification proof: “How can it be that you know something about _all possible_ `X`, even the `xϵX` you haven’t seen yet?”
 
 * [:scroll:] [packing of spheres](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/packing-of-spheres.pdf) by N. Sloane
-  * role of E8 & Leech lattice in optimal codes
-  * mathematically best compression was never used
-  * ikosahedron
+  * The role of E8 & Leech lattice in optimal codes
+  * An understanding of how mathematically-best compression was never used
+  * Ikosahedrons
 
 * [:scroll:] [some underlying geometric notions](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/some-underlying-geometric-notions.pdf)
 
   This is a higher-level paper, but still a survey (so more readable). It ties together disparate areas like Platonic solids (A-D-E), Milnor’s exceptional fibre, and algebra.
-
-  It has pictures and you’ll get a better sense of what mathematics is like from skimming it.
 
 * [:scroll:] [what is a young tableaux?](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/what-is-a-young-tableau.pdf) by Alexander Yong
 
