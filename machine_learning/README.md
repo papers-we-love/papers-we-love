@@ -24,10 +24,6 @@
 
     *Ailon, Nir, and Bernard Chazelle. "The fast Johnson-Lindenstrauss transform and approximate nearest neighbors." SIAM Journal on Computing 39.1 (2009): 302-322. Available: https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf*
 
-* [Renormalization](https://www.youtube.com/watch?v=_qjPFF5Gv1I) by Curt MacMullen
-
-  Here is a video of a master (https://press.princeton.edu/titles/5669.html) talking about renormalisation. Which S Mallat has suggested is key to why deep learning works.
-
 * [Applications of Machine Learning to Location Data](http://www.berkkapicioglu.com/wp-content/uploads/2013/11/thesis_final.pdf) 
 
   Using machine learning to design and analyze novel algorithms that leverage location data.
@@ -38,7 +34,7 @@
 
 * [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf)
 
-  uses an unsupervised approach to natural language processing to classify narrators in David Foster Wallace's 1,000-page novel.
+  Uses an unsupervised approach to natural language processing that classifies narrators in David Foster Wallace's 1,000-page novel.
 
 * [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
@@ -67,13 +63,13 @@
     *Bourgain, Jean, and Jelani Nelson. "Toward a unified theory of sparse dimensionality reduction in euclidean space." arXiv preprint arXiv:1311.2542; Accepted in an AMS Journal but unpublished at the moment  (2013). Available: http://arxiv.org/abs/1311.2542*
 
 * :scroll: **[Truncation of Wavelet Matrices: Edge Effects and the Reduction of Topological Control](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Truncation-of-Wavelet-Matrices--Edge-Effects-and-Reduction-of-Topological-Control.pdf)** by Freedman
+  
+  In this paper by Michael Hartley Freedman, he applies Robion Kirby “torus trick”, via wavelets, to the problem of compression.
 
-  In Simons Foundation’s interview by Michael Hartley Freedman of Robion Kirby, Freedman mentions this paper in which MHF applied RK’s “torus trick” to compression via wavelets.
+* :scroll: **[Understanding Deep Convolutional Networks](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Understanding-Deep-Convolutional-Networks.pdf)** by Mallat
 
-* :scroll: **[Understanding Deep Convolutional Networks](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Understanding-Deep-Convolutional-Networks.pdf)** by Mallet
-
-  Stéphane Mallat thinks renormalisation has something to do with why deep nets work.
+  Stéphane Mallat proposes a model by which renormalisation can identify self-similar structures in deep networks.  [This video of Curt MacMullen discussing renormalization](https://www.youtube.com/watch?v=_qjPFF5Gv1I) can help with more context. 
   
 * :scroll: **[General self-similarity: an overview](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/General-self-similarity--an-overview.pdf)** by Leinster
 
-  Again on the topic of renormalisation. Dr Leinster has a nice, simple picture of self-similarity
+Dr Leinster's paper provides a concise, straightforward, picture of self-similarity, and its role in renormalization.
