@@ -16,7 +16,7 @@
     
     A short paper, it also shows how to use `𝔰𝔩₂(ℂ)` as a simple mathematical object that leads into the area of real mathematics—represention theory.
 
-* :scroll: [Conway's ZIP proof](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/conways-zip-proof.pdf) by George Francis and Jeffrey Weeks
+* :scroll: [Conway's ZIP proof](https://www.maths.ed.ac.uk/~v1ranick/papers/francisweeks.pdf) by George Francis and Jeffrey Weeks
 
     This paper presents a classification proof: "How can it be that you know something about _all possible_ `X`, even the `xϵX` you haven’t seen yet?"  The well-diagramed discussion requires no calculus, crypto, ML, or dense notation, making it good for most knowledge levels.
 
