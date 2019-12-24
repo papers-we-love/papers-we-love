@@ -1,43 +1,35 @@
 ## Mathematics
 
-* :scroll: [The Transcendence of pi](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/transcendence-of-pi.pdf) by Steve Mayer
+* :scroll: [The Transcendence of Pi](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/transcendence-of-pi.pdf) by Steve Mayer
+
 * :scroll: [Tilings](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/tilings.pdf) by Ardila
 
-  This paper takes programmers out of the domain of what they are familair with counting, and into new terrain.  The paper covers a broad swath of the topic of analysis of tiling, and related strategies.
+  The paper covers a broad swath of the topic on analysis of tiling, and related strategies.
 
 * :scroll: [From Dominoes to Hexagons](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/from-dominoes-to-hexagons.pdf) by Thurston
 
   A paper on the generalization of tilings across different base planes.
 
-* :scroll: [graph isomorphism and representation theory](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/graph-isomorphism-and-representation-theory.pdf) by Daniel Litt
+* :scroll: [Graph Isomorphism and Representation Theory](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/graph-isomorphism-and-representation-theory.pdf) by Daniel Litt
 
-    Programmers work with graphs often (file system, greplin, trees, "graph isomorphism problem").   But have you ever tried to construct a simpler building-block (basis) with which graphs could be built? Or at least a different building block to build the same old things.
+    The *graph isomorphism problem* shows how to construct graphs using a simple building-block ("basis").  The same method applies to finding different building blocks to construct the same things.  This technique can be applied to file systems, greplin, trees, virtual DOM, etc.
     
-    This <10 page paper also uses `𝔰𝔩₂(ℂ)` that will be seen to be a simple mathematical object, which leads into an area of real mathematics—rep theory.
+    A short paper, it also shows how to use `𝔰𝔩₂(ℂ)` as a simple mathematical object that leads into the area of real mathematics—represention theory.
 
 * :scroll: [Conway's ZIP proof](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/conways-zip-proof.pdf) by George Francis and Jeffrey Weeks
 
-    This paper is good for most knowledge levels because
-    * it is pictorial
-    * it is about an object you might not have considered mathematical
-    * no calculus, crypto, ML, or tough notation
-    * it is short
-    * it is a classification proof: “How can it be that you know something about _all possible_ `X`, even the `xϵX` you haven’t seen yet?”
+    This paper presents a classification proof: "How can it be that you know something about _all possible_ `X`, even the `xϵX` you haven’t seen yet?"  The well-diagramed discussion requires no calculus, crypto, ML, or dense notation, making it good for most knowledge levels.
 
-* :scroll: [packing of spheres](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/packing-of-spheres.pdf) by N. Sloane
-  * The role of E8 & Leech lattice in optimal codes
-  * An understanding of how mathematically-best compression was never used
-  * Ikosahedrons
+* :scroll: [Packing of Spheres](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/packing-of-spheres.pdf) by N. Sloane
+  * Discusses the role of E8 & Leech lattices in optimal codes for mathematically-ideal compression. Ikosahedrons, a tool in this investigation, are also presented.
 
-* :scroll: [some underlying geometric notions](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/some-underlying-geometric-notions.pdf)
+* :scroll: [Some Underlying Geometric Notions](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/some-underlying-geometric-notions.pdf)
 
-  This is a higher-level paper, but still a survey (so more readable). It ties together disparate areas like Platonic solids (A-D-E), Milnor’s exceptional fibre, and algebra.
+  High-Level survey which relates disparate topics, e.g. Platonic solids (A-D-E), Milnor’s exceptional fibre, and algebra.
 
-* :scroll: [what is a young tableaux?](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/what-is-a-young-tableau.pdf) by Alexander Yong
+* :scroll: [What is a Young Tableaux?](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/what-is-a-young-tableau.pdf) by Alexander Yong
 
-  Young Tableau appear in many areas of mathematics.  Beyond combinatoric problems, we also see them in representation theory, and the calculus of Grassmannians.
-  
-  Another common topic is sorting "You do sorting all the time. Are there smart ways to organise sub-sorts?"
+  Young Tableau appear in combinatoric problems, representation theory, and the calculus of Grassmannians.  Another common topic is sorting, and smarter ways to organise sub-sorts.
 
 
 
