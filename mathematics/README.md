@@ -27,7 +27,7 @@
 
   High-Level survey which relates disparate topics, e.g. Platonic solids (A-D-E), Milnor’s exceptional fibre, and algebra.
 
-* :scroll: [What is a Young Tableaux?](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/what-is-a-young-tableau.pdf) by Alexander Yong
+* :scroll: [What is a Young Tableaux?](https://www.ams.org/notices/200702/whatis-yong.pdf) by Alexander Yong
 
   Young Tableau appear in combinatoric problems, representation theory, and the calculus of Grassmannians.  Another common topic is sorting, and smarter ways to organise sub-sorts.
 
