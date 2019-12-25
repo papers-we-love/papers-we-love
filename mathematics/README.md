@@ -34,7 +34,7 @@
 
 
 ### Topology 
-* :scroll: [Topology of Numbers](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/topology-of-numbers--hatcher.pdf) by hatcher
+* :scroll: [Topology of Numbers](https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf) by hatcher
 * [Applied Algebraic Topology and Sensor Networks](https://www.math.upenn.edu/~ghrist/preprints/ATSN.pdf) by Robert Ghrist
 * :scroll: [Intro to Tropical Algebra Geometry](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/intro-to-tropical-algebraic-geometry.pdf)
 
