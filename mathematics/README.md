@@ -23,7 +23,7 @@
 * :scroll: [Packing of Spheres](http://neilsloane.com/doc/Me109.pdf) by N. Sloane
   Discusses the role of E8 & Leech lattices in optimal codes for mathematically-ideal compression. Ikosahedrons, a tool in this investigation, are also presented.
 
-* :scroll: [Some Underlying Geometric Notions](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/some-underlying-geometric-notions.pdf)
+* :scroll: [Some Underlying Geometric Notions](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) by Hatcher
 
   High-Level survey which relates disparate topics, e.g. Platonic solids (A-D-E), Milnor’s exceptional fibre, and algebra.
 
