@@ -20,8 +20,8 @@
 
     This paper presents a classification proof: "How can it be that you know something about _all possible_ `X`, even the `xϵX` you haven’t seen yet?"  The well-diagramed discussion requires no calculus, crypto, ML, or dense notation, making it good for most knowledge levels.
 
-* :scroll: [Packing of Spheres](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/packing-of-spheres.pdf) by N. Sloane
-  * Discusses the role of E8 & Leech lattices in optimal codes for mathematically-ideal compression. Ikosahedrons, a tool in this investigation, are also presented.
+* :scroll: [Packing of Spheres](http://neilsloane.com/doc/Me109.pdf) by N. Sloane
+  Discusses the role of E8 & Leech lattices in optimal codes for mathematically-ideal compression. Ikosahedrons, a tool in this investigation, are also presented.
 
 * :scroll: [Some Underlying Geometric Notions](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/some-underlying-geometric-notions.pdf)
 
