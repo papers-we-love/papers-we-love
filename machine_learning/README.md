@@ -63,7 +63,7 @@
 
     *Bourgain, Jean, and Jelani Nelson. "Toward a unified theory of sparse dimensionality reduction in euclidean space." arXiv preprint arXiv:1311.2542; Accepted in an AMS Journal but unpublished at the moment  (2013). Available: http://arxiv.org/abs/1311.2542*
 
-* :scroll: **[Truncation of Wavelet Matrices: Edge Effects and the Reduction of Topological Control](https://github.com/papers-we-love/papers-we-love/blob/master/machine_learning/Truncation-of-Wavelet-Matrices--Edge-Effects-and-Reduction-of-Topological-Control.pdf)** by Freedman
+* :scroll: **[Truncation of Wavelet Matrices: Edge Effects and the Reduction of Topological Control](https://reader.elsevier.com/reader/sd/pii/0024379594000395?token=EB0AA78D59A9648480596F018EFB72E0A02FD5FA70326B24B9D501E1A6869FE72CC4D97FA9ACC8BAB56060D6C908EC83)** by Freedman
   
   In this paper by Michael Hartley Freedman, he applies Robion Kirby “torus trick”, via wavelets, to the problem of compression.
 
