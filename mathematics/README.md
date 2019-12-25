@@ -40,6 +40,6 @@
 
   Recently there have been some papers posted about tropical geometry of neural nets. Tropical is also said to be derived from CS. This is a good introduction.
 
-* :scroll: [Elements of Algebraic Topology: Sheaves](https://github.com/papers-we-love/papers-we-love/blob/master/mathematics/elements-of-algebraic-topology-ch9-sheaves.pdf)
+* :scroll: [Elements of Algebraic Topology: Sheaves](https://www.math.upenn.edu/~ghrist/EAT/EATchapter9.pdf) by Ghrist
 
   Seminal writing on topological structures, from one most lauded books 'Elements of Algebraic Topology'
