@@ -1,6 +1,6 @@
 # Functional Programming
 
-* [:scroll:](organizing-programs-without-classes.pdf) [Organizing Programs Without Classes](http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf)
+* :scroll: [Organizing Programs Without Classes](organizing-programs-without-classes.pdf)
 * [:scroll:](functional-programming-with-bananas-lenses-envelops-and-barbed-wire.pdf) [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 
     From Patrick Thomson's [An introduction to Recursion Schemes](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/):
