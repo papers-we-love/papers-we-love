@@ -54,3 +54,8 @@ This is a really great paper that is both complex and straightforward. This pape
   - A seminal paper that lead to many interesting applications in
     graphics as well as more broadly in design; see also the
     bibliography at [shapegrammar.org](http://shapegrammar.org/).
+
+### Simulating Ocean Water
+
+* [Simulating Ocean Water](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf)
+  - Seminal paper on water surface simulation and rendering.
