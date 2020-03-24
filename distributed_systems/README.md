@@ -9,7 +9,7 @@
 
 ## External Papers
 
-* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf)
+* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=5A960A7B16A7BB42A99D7B6EFC30FB25?doi=10.1.1.41.7628&rep=rep1&type=pdf)
 
 * [A simple totally ordered broadcast protocol](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
@@ -63,7 +63,7 @@
 
 * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 
-* [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
+* [Unikernels: Library Operating Systems for the Cloud](http://unikernel.org/files/2013-asplos-mirage.pdf)
 
 * [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://www.cs.utexas.edu/~shmat/courses/cs395t_fall04/chaum81.pdf)
 

@@ -28,7 +28,7 @@ This is a really great paper that is both complex and straightforward. This pape
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
 
 ### Bump mapping
-* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](http://research.microsoft.com/en-us/um/people/cohen/bs.pdf)
+* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](https://www.ppsloan.org/publications/bs.pdf)
 
 ### Interior mapping
 * [Interior Mapping: A new technique for rendering realistic buildings](http://www.proun-game.com/Oogst3D/CODING/InteriorMapping/InteriorMapping.pdf)
@@ -54,3 +54,8 @@ This is a really great paper that is both complex and straightforward. This pape
   - A seminal paper that lead to many interesting applications in
     graphics as well as more broadly in design; see also the
     bibliography at [shapegrammar.org](http://shapegrammar.org/).
+
+### Simulating Ocean Water
+
+* [Simulating Ocean Water](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf)
+  - Seminal paper on water surface simulation and rendering.
