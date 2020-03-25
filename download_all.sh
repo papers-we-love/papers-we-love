@@ -2,9 +2,8 @@
 
 download_for_directory() {
 	cd $1
-	sleep 0.1
 	for f in *; do
-	    if [ -d "$f" ]; then
+		if [ -d "$f" ]; then
 			download_for_directory $f &
     	fi
 	done
