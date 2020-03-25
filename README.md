@@ -119,6 +119,14 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 * Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
 
+### Download all papers
+
+Open your favourite terminal and run:
+
+```bash
+$ ./scripts/download_all.sh
+```
+
 ## Contributing Guidelines
 
 Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
