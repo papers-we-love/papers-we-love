@@ -24,6 +24,14 @@ download_for_directory() {
     echo "$1 done."
 }
 
-BASEDIR="$(dirname $0)/.."
-download_for_directory $BASEDIR
+if [ "$#" -ne 1 ]; then
+    BASEDIR="$(dirname $0)/.."
+    download_for_directory $BASEDIR
+else
+    for dir in "$@"
+    do
+        download_for_directory $dir
+    done
+fi
+
 wait
