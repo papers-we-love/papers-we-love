@@ -126,6 +126,9 @@ Open your favourite terminal and run:
 ```bash
 $ ./scripts/download.sh
 ```
+
+This will scrape markdown files for links to PDFs and download papers to their respective directories.
+
 See [README.md](./scripts/README.md) for more options.
 
 ## Contributing Guidelines
