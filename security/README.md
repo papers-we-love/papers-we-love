@@ -1,3 +1,5 @@
+ Security 
+===========
 * [Reflections on Trusting Trust (1984)](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 * [Internet Census via Insecure Routers (2012)](https://www.researchgate.net/publication/279069631_The_Internet_Census_2012_Dataset_An_Ethical_Examination)
 * [Looking inside the (Drop) Box (2013)](https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf)
@@ -9,3 +11,13 @@
 * :scroll: [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud (2014)](macaroons-cookies-with-contextual-caveats.pdf)
 * :scroll: [Insertion, Evasion, and Denial of Service: eluding network intrusion detection (1998)](ids-evasion-ptacek-newsham.pdf)
 
+## Hardware Security
+
+* [Meltdown (2018)](https://meltdownattack.com/meltdown.pdf)
+* [Spectre Attacks: Exploiting Speculative Execution (2018)](https://spectreattack.com/spectre.pdf)
+* [DRAM Row Hammer (2014)](https://people.inf.ethz.ch/omutlu/pub/dram-row-hammer_isca14.pdf)
+   - Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors
+
+* :scroll: [SoK: Eternal War in Memory (2013)](sok-eternal-war-in-memory.pdf)
+   - Classifies memory attacks into a taxonomy that is usable by both black- and white-hats.
+   - An excellent primer on the different memory-related vulnerabilities that exist, (more importantly) why they exist, and the ways in which various defences act to counter them.
