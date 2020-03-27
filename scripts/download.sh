@@ -16,7 +16,7 @@ download_for_directory() {
     done
 
     # Scrape URLs from markdown files
-    urls=$(ls | cat *.md 2> /dev/null | egrep -o 'https?://[^ ]+' | grep 'pdf' | tr -d ')')
+    urls=$(ls | cat *.md 2> /dev/null | egrep -o 'https?://[^ ]+' | grep '\.pdf' | tr -d ')')
 
     for url in "$urls"; do
         # Ignore empty URLs
@@ -30,7 +30,7 @@ download_for_directory() {
 }
 
 # If no directories are supplied, iterate over the entire repo.
-if [[ "$#" -ne 1 ]]; then
+if [[ "$#" -eq 0 ]]; then
     REPO_ROOT_DIR="$(dirname $0)/.."
     download_for_directory ${REPO_ROOT_DIR}
 else

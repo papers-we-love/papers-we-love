@@ -20,5 +20,3 @@ Optionally, to download specific topics specify their directories as arguments:
 ```bash
 $ ./scripts/download.sh android concurrency
 ```
-
-This can be run from anywhere as long as the script doesn't change location
