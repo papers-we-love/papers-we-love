@@ -108,6 +108,18 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 * Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
 
+### Download papers
+
+Open your favourite terminal and run:
+
+```bash
+$ ./scripts/download.sh
+```
+
+This will scrape markdown files for links to PDFs and download papers to their respective directories.
+
+See [README.md](./scripts/README.md) for more options.
+
 ## Contributing Guidelines
 
 Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
