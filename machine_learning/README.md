@@ -3,7 +3,7 @@
 
 ## External Papers
 
-* [Top 10 algorithms in data mining](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf)
+* [Top 10 algorithms in data mining](https://www.researchgate.net/publication/29467751_Top_10_algorithms_in_data_mining)
 
   While it is difficult to identify the top 10, this paper contains 10 very important data mining/machine learning algorithms
 
