@@ -10,4 +10,4 @@
 
 ## Open Source
 
-* [The Simple economics of Open Source  (2000)](http://www.people.hbs.edu/jlerner/simple.pdf) by Josh Lerner and Jean Tirole
+* [The Simple Economics of Open Source  (2000)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=224008) by Josh Lerner and Jean Tirole
