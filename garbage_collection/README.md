@@ -1,4 +1,4 @@
-* [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf)
+* [A Unified Theory of Garbage Collection](https://dl.acm.org/doi/pdf/10.1145/1035292.1028982)
     > An overview for programmers and language implementors for understanding different garbage collection algorithms.
 * [A LISP Garbage-Collector for Virtual-Memory Computer Systems](https://www.cs.purdue.edu/homes/hosking/690M/p611-fenichel.pdf)
 
