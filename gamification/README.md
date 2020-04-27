@@ -12,7 +12,7 @@
 
 * [MoviPill: Improving Medication Compliance for Elders - Using a Mobile Persuasive Social Game](http://www.ic.unicamp.br/~oliveira/doc/Ubicomp2010_MoviPill.pdf)
 
-* [Removing Gamification from an Enterprise SNS](http://www.jennthom.com/papers/gamification.pdf)
+* [Removing Gamification from an Enterprise SNS](https://dl.acm.org/doi/pdf/10.1145/2145204.2145362)
 
 ## Hosted Papers
 
