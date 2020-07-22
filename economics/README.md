@@ -6,6 +6,8 @@
 
 * [Optimal Bidding in Online Auctions (2001)](http://www.mit.edu/~dbertsim/papers/Revenue%20Management/Optimal%20Bidding%20in%20Online%20Auctions.pdf) by Dimitris Bertsimas, Jerey Hawkinsy, Georgia Perakis 
 
+* [Online Ad Auctions (2009)](online-ad-auctions.pdf) by Hal Varian
+
 ## Open Source
 
-* [The Simple economics of Open Source  (2000)](http://www.people.hbs.edu/jlerner/simple.pdf) by Josh Lerner and Jean Tirole
+* [The Simple Economics of Open Source  (2000)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=224008) by Josh Lerner and Jean Tirole

@@ -8,7 +8,6 @@
 
 ## Jails and containers
 
-* :scroll: [Jails: Confining the omnipotent root.](https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-jails.pdf)
+* :scroll: [Jails: Confining the omnipotent root.](http://phk.freebsd.dk/pubs/sane2000-jail.pdf)
 
-* :scroll: [Solaris Zones: Operating System Support for Consolidating Commercial Workloads](https://us-east.manta.joyent.com/bcantrill/public/ppwl-cantrill-zones.pdf)
-
+* :scroll: [Solaris Zones: Operating System Support for Consolidating Commercial Workloads](https://www.usenix.org/legacy/event/lisa04/tech/full_papers/price/price.pdf)

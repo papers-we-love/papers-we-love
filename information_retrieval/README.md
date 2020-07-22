@@ -47,4 +47,14 @@ The included documents are
 
 * [:scroll:](authoritative-sources-in-a-hyperlinked-environment.pdf) [Authoritative Sources in a Hyperlinked Environment](https://www.cs.cornell.edu/home/kleinber/auth.pdf) - Jon M. Kleinberg
 
-This paper introduces the **HITS algorithm**, a link analysis algorithm that rates webpages. Unlike the more famous page rank algorithm, the hits algorithm makes a distinction between webpage behavior   classifies them as hubs and authorities. A page is authoratitative (in the sense the page has a large number of  incoming links) or acts as a hub (a directory of sort, which can be measured by the number of outgoing link). The hits algorithm computes two scores for a page (authority and hub score) where the algorithm iteratively computes the hub  score as sum of authority scores of outgoing links and authority scores as sum  of hub scores of incoming links until a convergence is attained. These scores can then be used to rank documents. While this algorithm is famous in academia, its not very widely used in the industry (a variant of this algorithm was used by a company called Teoma which was acquired by AskJeeves)
+  This paper introduces the **HITS algorithm**, a link analysis algorithm that rates webpages.
+  Unlike the more famous page rank algorithm, the hits algorithm makes a distinction between 
+  webpage behavior classifies them as hubs and authorities. A page is authoratitative 
+  (in the sense the page has a large number of  incoming links) or acts as a hub 
+  (a directory of sort, which can be measured by the number of outgoing link).
+  The hits algorithm computes two scores for a page (authority and hub score) where 
+  the algorithm iteratively computes the hub  score as sum of authority scores of 
+  outgoing links and authority scores as sum  of hub scores of incoming links until 
+  a convergence is attained. These scores can then be used to rank documents. 
+  While this algorithm is famous in academia, its not very widely used in the 
+  industry (a variant of this algorithm was used by a company called Teoma which was acquired by AskJeeves)

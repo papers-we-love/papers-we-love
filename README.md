@@ -1,4 +1,6 @@
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+ 
+ [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
@@ -21,18 +23,15 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
-* [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
+* [Buenos Aires](https://paperswelove.org/buenos-aires/)
 * [Cairo](http://www.meetup.com/Papers-We-Love-Cairo/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
-* [Dallas](http://www.papersdallas.com/)
 * [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
-* [Guadalajara](https://www.facebook.com/pwlgdl/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
-* [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Iowa City](https://www.meetup.com/techcorridorio)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
 * [Kyiv](https://www.facebook.com/groups/PapersWeLoveKyiv)
@@ -40,18 +39,11 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
-* [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
-* [Mumbai](https://www.meetup.com/Papers-We-Love-Mumbai/)
-* [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
-* [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
-* [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
-* [Porto](https://www.meetup.com/Papers-We-Love-Porto)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
-* [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
 * [Rio de Janeiro](https://www.meetup.com/pt-BR/papers-we-love-rio-de-janeiro/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
@@ -79,7 +71,7 @@ We're looking for pull requests related to papers we should add, better organiza
 ### Other Good Places to Find Papers
 
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
-* [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
+* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://research.fb.com/publications/)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
@@ -96,7 +88,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Research Papers from Robert Harper, Carnegie Mellon University](http://www.cs.cmu.edu/~rwh/papers.html)
+* [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/~rwh/papers/index.html)
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 
@@ -115,6 +107,18 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 ### Applications/Ideas built around Papers We Love
 
 * Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
+
+### Download papers
+
+Open your favourite terminal and run:
+
+```bash
+$ ./scripts/download.sh
+```
+
+This will scrape markdown files for links to PDFs and download papers to their respective directories.
+
+See [README.md](./scripts/README.md) for more options.
 
 ## Contributing Guidelines
 

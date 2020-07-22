@@ -9,7 +9,7 @@ Robotics
 
 [Online Trajectory Generation: Basic Concepts for Instantaneous Reactions to Unforeseen Events](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5350749)
 
-[Probablistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces](http://www.kavrakilab.org/sites/default/files/kavraki1996prm-high-dim-conf.pdf)
+[Probablistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces](https://www.cs.cmu.edu/~./motionplanning/papers/sbp_papers/PRM/prmbasic_01.pdf)
 
 [Rapidly-Exploring Random Trees: A New Tool for Path Planning](http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)
 
@@ -29,7 +29,7 @@ planning. The problem of motion planning scales exponentially with the
 degrees of freedom a robot has and the degrees of freedom the obstacles
 in an environment have. Thus, planning with high degrees of freedom leads to many problems
 such as incompleteness and extremely slow speed. The PRM method was the first to
-propose a sampling-based stratey to deal with motion planning and
+propose a sampling-based strategy to deal with motion planning and
 created a practical method for offline planning of robot manipulators.
 The RRT method modified PRM by using a tree structure rather than a
 graph so that non-holonomic and other constraints could be considered
