@@ -8,3 +8,7 @@
 * [Protecting Browser State from Web Privacy Attacks(2006)](https://crypto.stanford.edu/sameorigin/sameorigin.pdf)
 * [KHyperLogLog: Estimating Reidentifiability and
 Joinability of Large Data at Scale(2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/40bc2804cbd3e41ed28dc8991316361eca48630c.pdf)
+
+### Other Sources
+
+* [Privacy Papers for Visual Data](https://github.com/brighter-ai/awesome-privacy-papers)
