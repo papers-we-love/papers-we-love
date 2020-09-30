@@ -96,7 +96,7 @@ Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-lov
 
 ### How To Read a Paper
 
-Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
+Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources which will help you get started.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -110,7 +110,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ### Download papers
 
-Open your favourite terminal and run:
+Open your favourite terminal and run(in Linux):
 
 ```bash
 $ ./scripts/download.sh
