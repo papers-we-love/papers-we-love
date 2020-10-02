@@ -17,7 +17,6 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
-* [Beijing](https://www.meetup.com/Beijing-Technology-Meetup-Group/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
