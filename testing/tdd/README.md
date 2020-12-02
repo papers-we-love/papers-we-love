@@ -1,6 +1,6 @@
 # Test-Driven Development
 
-:scroll: [Test-driven development with mutation testing, 2020](https://link.springer.com/content/pdf/10.1007/s11219-020-09534-x.pdf)
+[Test-driven development with mutation testing, 2020](https://link.springer.com/content/pdf/10.1007/s11219-020-09534-x.pdf)
 > It presents an old idea of mutation testing in a new light of extending traditional test-driven development with it. It includes results of an experiment which was conducted to check whether TDD+M is better in terms of test efficiency than traditional TDD. 
 
 ## In industrial teams
