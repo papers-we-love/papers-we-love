@@ -52,6 +52,8 @@
 
 * :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](dynamo-amazons-highly-available-key-value-store.pdf)
 
+* :scroll: [Elle: Inferring Isolation Anomalies from Experimental Observations](elle-inferring-isolation-anomalies-from-experimental-observations.pdf)
+
 * :scroll: [Flat Datacenter Storage](flat-datacenter-storage.pdf)
 
 * :scroll: [Freenet: A Distributed Anonymous Information Storage and Retrieval System](freenet-a-distributed-anonymous-information-and-retrieval-system.pdf)
