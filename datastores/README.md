@@ -42,8 +42,9 @@
 
 * [Towards a Next Generation Data Center Architecture: Scalability and Commoditization](http://research.microsoft.com/pubs/79348/presto27-greenberg.pdf)
 
-
 ## Hosted Papers
+
+* :scroll: [A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster](network-challenges-of-data-recovery-in-erasure-coded-distributed-storage-systems.pdf)
 
 * :scroll: [Bigtable: A Distributed Storage System for Structured Data](bigtable-a-distributed-storage-system-for-structured-data.pdf)
 
@@ -51,17 +52,21 @@
 
 * :scroll: [Dynamo: Amazon’s Highly Available Key-value Store](dynamo-amazons-highly-available-key-value-store.pdf)
 
+* :scroll: [Elle: Inferring Isolation Anomalies from Experimental Observations](elle-inferring-isolation-anomalies-from-experimental-observations.pdf)
+
 * :scroll: [Flat Datacenter Storage](flat-datacenter-storage.pdf)
 
 * :scroll: [Freenet: A Distributed Anonymous Information Storage and Retrieval System](freenet-a-distributed-anonymous-information-and-retrieval-system.pdf)
 
-* :scroll: [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](megastore-providing-scalable-highly-available-storage-for-interactive-services.pdf)
+* :scroll: [The Google File System](the-google-file-system.pdf)
 
-* :scroll: [A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster](network-challenges-of-data-recovery-in-erasure-coded-distributed-storage-systems.pdf)
+* :scroll: [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](megastore-providing-scalable-highly-available-storage-for-interactive-services.pdf)
 
 * :scroll: [RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters](rados-a-scalable-reliable-storage-service-for-petabyte-scale-storage-clusters.pdf)
 
 * :scroll: [Spanner: Google’s Globally-Distributed Database](spanner-google's-globally-distributed-database.pdf)
+
+* :scroll: [Spartan: A distributed array framework with smart tiling](spartan-a-distributed-array-framework-with-smart-tiling.pdf)
 
 * :scroll: [Stasis: Flexible Transactional Storage](stasis-flexible-transactional-storage.pdf)
 

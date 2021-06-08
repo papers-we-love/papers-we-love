@@ -1,6 +1,6 @@
 ### Rendering
 
-* [:scroll:](digital_video_stabilization_and_rolling_shutter_correction_using_gyroscopes.pdf) [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
+* :scroll: [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
 This is a really great paper that is both complex and straightforward. This paper "present a robust, real-time video stabilization and rolling shutter correction technique based on gyroscopes". I think this is a great paper because it makes a clever use of a commodity technology (smartphones' gyroscopes) to make a state-of-the-art improvement to a central components of phones: video cameras by removing the shakes and rolling shutter artifacts of a video in real-time.
 
 * [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/CS586/Papers/p343-whitted.pdf)
@@ -21,11 +21,14 @@ This is a really great paper that is both complex and straightforward. This pape
 ### Object modeling
 * [3-Sweep: Extracting Editable Objects from a Single Photo](http://www.cs.tau.ac.il/~dcor/articles/2013/3-Sweep-Extracting-Editable-Objects.pdf) - [Video](https://www.youtube.com/watch?v=Oie1ZXWceqM)
 
+### Photo editing
+* [Deep Photo Style Transfer](https://arxiv.org/pdf/1703.07511.pdf) (2017) - [Code](https://github.com/luanfujun/deep-photo-styletransfer) - A deep-learning approach to photographic style transfer (that is, taking the style of one photo and automatically applying it to another). The images in this paper are gorgeous.
+
 ### Lighting
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
 
 ### Bump mapping
-* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](http://research.microsoft.com/en-us/um/people/cohen/bs.pdf)
+* [Interactive Horizon Mapping: Shadows for bump-mapped surfaces](https://www.ppsloan.org/publications/bs.pdf)
 
 ### Interior mapping
 * [Interior Mapping: A new technique for rendering realistic buildings](http://www.proun-game.com/Oogst3D/CODING/InteriorMapping/InteriorMapping.pdf)
@@ -42,8 +45,8 @@ This is a really great paper that is both complex and straightforward. This pape
     > Of all the ways to manipulate a 3D mesh, push/ technique popularized by SketchUp is one of the most approachable and fun. PushPull++ is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.
     > The paper presents the technique and the tool that the authors built. I will focus on the technique, as s the part I loved more in this paper (quote by Ramsey Nasser).
     
-    
-
+### Image Processing
+* :scroll: [Imaging Vector Fields Using Line Integral Convolution](http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf) by Brian Cabral and Leith Leedom    
 
 ### Shape grammars
 
@@ -51,3 +54,8 @@ This is a really great paper that is both complex and straightforward. This pape
   - A seminal paper that lead to many interesting applications in
     graphics as well as more broadly in design; see also the
     bibliography at [shapegrammar.org](http://shapegrammar.org/).
+
+### Simulating Ocean Water
+
+* [Simulating Ocean Water](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf)
+  - Seminal paper on water surface simulation and rendering.
