@@ -2,7 +2,7 @@
 
 ## External Papers
 
-* [Defining Gamification - A Service Marketing Perspective](http://www.rolandhubscher.org/courses/hf765/readings/p17-huotari.pdf)
+* [Defining Gamification - A Service Marketing Perspective](https://www.researchgate.net/publication/259841647_Defining_Gamification_-_A_Service_Marketing_Perspective)
 
 * [Design Requirements for Technologies that Encourage Physical Activity](https://www.cs.helsinki.fi/u/thusu/opinnot/uschool/T-121.5500/p457-consolvo.pdf)
 
