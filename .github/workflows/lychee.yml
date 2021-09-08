@@ -1,0 +1,7 @@
+- name: Lychee Broken Link Checker
+  # You may pin to the exact commit or the version.
+  # uses: lycheeverse/lychee-action@f56bc7dad9caaeb809ce24d5bdb2beaa425f66bc
+  uses: lycheeverse/lychee-action@v1.0.8
+  with:
+    # lychee arguments
+    args: # optional, default is --verbose --no-progress *.md
