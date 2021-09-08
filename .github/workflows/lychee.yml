@@ -11,6 +11,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
-    - uses: lycheeverse/lychee-action@v1.0.8
+    #- uses: lycheeverse/lychee-action@v1.0.8
+    #  with:
+        #args: '--verbose --no-progress *.md'
+        
+    - name: Link Checker
+      uses: lycheeverse/lychee-action@master
+      #env:
+      #  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+    - name: Create Issue From File
+      uses: peter-evans/create-issue-from-file@v2
       with:
-        args: '--verbose --no-progress *.md'
+        title: Link Checker Report
+        content-filepath: ./lychee/out.md
+        labels: report, automated issue
+        
