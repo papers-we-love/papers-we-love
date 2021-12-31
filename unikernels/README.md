@@ -7,7 +7,7 @@
 * [A persistent system in real use-experiences of the first 13 years](https://os.itec.kit.edu/downloads/publ_1993_liedtke_persistent-system-in-real-use.pdf)
 * [SPIN: An extensible microkernel for application-specific operating system services](https://apps.dtic.mil/dtic/tr/fulltext/u2/a293537.pdf)
 * [Extensibility safety and performance in the SPIN operating system](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.6702&rep=rep1&type=pdf)
-* [Policy/mechanism separation in Hydra](https://www.cse.psu.edu/~trj1/cse543-f12/docs/p132-levin-hydra.pdf)
+* [Policy/mechanism separation in Hydra](http://www.cse.psu.edu/~trj1/cse543-f12/docs/p132-levin-hydra.pdf)
 * [Improving IPC by kernel design](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.9939&rep=rep1&type=pdf)
 
 ## Second-wave: cloud optimization (exokernels, multikernels)
