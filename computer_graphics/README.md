@@ -9,7 +9,7 @@ This is a really great paper that is both complex and straightforward. This pape
 
 * [Continuous shading of curved surfaces](http://page.mi.fu-berlin.de/block/htw-lehre/wise2015_2016/bel_und_rend/skripte/gouraud1971.pdf) by Henri Gouraud (1971)
 
-* [Illumination for computer generated pictures](http://www.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) by Bui Tuong Phong (1975)
+* [Illumination for computer generated pictures](http://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) by Bui Tuong Phong (1975)
 
 * [The Rendering Equation](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf) by James T. Kajiya (1986)
 
