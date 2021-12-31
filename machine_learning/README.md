@@ -34,7 +34,7 @@
 
   This paper introduces an explanation technique for any classifier in a interpretable manner. 
 
-* [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://dreammachin.es/p1-wallace.pdf)
+* [Multiple Narrative Disentanglement: Unraveling *Inﬁnite Jest*](http://aclanthology.org/N12-1001.pdf)
 
   Uses an unsupervised approach to natural language processing that classifies narrators in David Foster Wallace's 1,000-page novel.
 
