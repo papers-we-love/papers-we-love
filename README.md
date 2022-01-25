@@ -10,7 +10,7 @@ If you enjoy the papers, perhaps stop by a local chapter meetup and join in on t
 
 ### Chapters
 
-Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
+Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
