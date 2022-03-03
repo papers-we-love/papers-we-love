@@ -2,7 +2,7 @@
 
 * "Turing, On computable numbers, with an application to the Entscheidungsproblem" by Alan Turing
   * As a PDF: [Turing, On computable numbers, with an application to the Entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
-  * As a collection of single images: [Turing, On computable numbers, with an application to the Entscheidungsproblem](http://www.turingarchive.org/browse.php/B/12) by Alan Turing
+  * As a collection of single images: [Turing, On computable numbers, with an application to the Entscheidungsproblem](http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) by Alan Turing
 * [Mealy, A Method for Synthesizing Sequential Circuits](http://www3.alcatel-lucent.com/bstj/vol34-1955/articles/bstj34-5-1045.pdf) by George H. Mealy
 * :scroll: [Back to the Future - The Story of Squeak, A Practical Smalltalk Written in Itself](story-of-squeak-a-practical-smalltalk-written-in-itself.pdf) by Dan Ingalls, Ted Kaehler, John Maloney, Scott Wallace & Alan Kay
 * :scroll: [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](recursive-functions-of-symbolic-expressions-and-their-computation-by-machine-parti.pdf) by John McCarthy

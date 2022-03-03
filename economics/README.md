@@ -14,7 +14,7 @@
 
 ## Contract enforcement/principal-agent models
 
-* [Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (1993)](https://web.stanford.edu/~avner/Greif_Papers/1993%20Greif%20AER%201993.pdf) by Avner Grief
+* [Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (1993)](https://web.stanford.edu/~avner/Greif_Papers/1993%20Greif%20AER%201993.pdf) by Avner Greif
 
 ## Game theory
 

@@ -10,7 +10,7 @@ If you enjoy the papers, perhaps stop by a local chapter meetup and join in on t
 
 ### Chapters
 
-Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
+Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
@@ -98,7 +98,7 @@ Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-lov
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-* [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [Advice on reading academic papers](https://userpages.umbc.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)

@@ -11,7 +11,7 @@ download_for_directory() {
 
     for f in *; do
         if [[ -d ${f} ]]; then
-            download_for_directory ${f} &
+            download_for_directory "./${f}" &
         fi
     done
 

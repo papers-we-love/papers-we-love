@@ -2,7 +2,7 @@
 
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 
-* [f4: Facebook’s Warm BLOB Storage System](http://www-bcf.usc.edu/~wyattllo/papers/f4-osdi14.pdf)
+* [f4: Facebook’s Warm BLOB Storage System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
 
 * [The Case for Determinism in Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/determinism-vldb10.pdf)
 
@@ -22,15 +22,15 @@
 
 * [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf)
 
-* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://www.ics.uci.edu/~yingyib/papers/HaLoop_camera_ready.pdf)
+* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://homes.cs.washington.edu/~billhowe/pubs/HaLoop.pdf)
 
 * [HyperDex: A Distributed, Searchable Key-Value Store](https://cs.uwaterloo.ca/~bernard/hyperdex.pdf)
 
-* [Introduction to a System for Distributed Databases SDD-1](http://www.few.vu.nl/~kgr700/sdd1.pdf)
+* [Introduction to a System for Distributed Databases SDD-1](http://people.eecs.berkeley.edu/~wong/wong_pubs/wong73.pdf)
 
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 
-* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)
+* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p172-terry.pdf)
 
 * [Map-Reduce-Merge: Simplified Relational Data Processing on Large Clusters](http://www.cs.duke.edu/courses/cps399.28/current/papers/sigmod07-YangDasdanEtAl-map_reduce_merge.pdf)
 
