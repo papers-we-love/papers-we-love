@@ -14,4 +14,4 @@
 The original classified memo for Bell Labs that was republished in 1949 as ["Communication Theory of Secrecy Systems"](communication-theory-of-secrecy-systems.pdf).
 
 ### :scroll: [A Mathematical Theory of Communication (1948)](../information_theory/a-mathematical-theory-of-communication-1948.pdf) - Shannon
-Shannon said that his wartime insights into communication theory and cryptography developed simultaneously and that "they were so close together you couldn’t separate them". ["Communication Theory of Secrecy Systems"](communication-theory-of-secrecy-systems.pdf) incorporates many concepts and formulations that also appeared in his 1948 paper.
+Shannon said that their wartime insights into communication theory and cryptography developed simultaneously and that "they were so close together you couldn’t separate them". ["Communication Theory of Secrecy Systems"](communication-theory-of-secrecy-systems.pdf) incorporates many concepts and formulations that also appeared in their 1948 paper.
