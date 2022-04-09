@@ -1,4 +1,4 @@
-* [A Unified Theory of Garbage Collection](https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf)
+* [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/)
     > An overview for programmers and language implementors for understanding different garbage collection algorithms.
 * [A LISP Garbage-Collector for Virtual-Memory Computer Systems](https://www.cs.purdue.edu/homes/hosking/690M/p611-fenichel.pdf)
 

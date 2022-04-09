@@ -6,7 +6,7 @@
 * [Making Programs Forget: Enforcing Lifetime For Sensitive Data (2011)](https://www.usenix.org/events/hotos11/tech/final_files/Kannan.pdf)
 * [Breach: Reviving The Crime Attack (2013)](http://breachattack.com/resources/BREACH%20-%20SSL,%20gone%20in%2030%20seconds.pdf)
 * [Why Silent Updates Boost Security (2009)](http://tik-old.ee.ethz.ch/file/ef72343372ca8659a9ae8a98873167c0/TIKReport302.pdf)
-* [A survey of coordinated attacks and collaborative intrusion detection (2010)](https://www.tk.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TK/zhou2010survey.pdf)
+* [A survey of coordinated attacks and collaborative intrusion detection (2010)](https://www.sciencedirect.com/science/article/pii/S016740480900073X)
 
 * :scroll: [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud (2014)](macaroons-cookies-with-contextual-caveats.pdf)
 * :scroll: [Insertion, Evasion, and Denial of Service: eluding network intrusion detection (1998)](ids-evasion-ptacek-newsham.pdf)

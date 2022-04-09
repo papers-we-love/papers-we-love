@@ -1,18 +1,18 @@
 ## Memory Management
 
-* [A Unified Theory of Garbage Collection](https://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon04Unified.pdf)
+* [A Unified Theory of Garbage Collection](https://web.eecs.umich.edu/~weimerw/2012-4610/reading/bacon-garbage.pdf)
 
 * [Teaching Garbage Collection without Implementing Compilers or Interpreters](https://cs.brown.edu/~sk/Publications/Papers/Published/cgkmf-teach-gc/paper.pdf)
 
 * [Message Analysis Guided Allocation and Low Pause Incremental GC in a Concurrent Language](http://user.it.uu.se/~kostis/Papers/ismm04.pdf)
 
-* [And Then There Were None: A Stall-Free Real-Time Garbage Collector for Reconfigurable Hardware](http://researcher.watson.ibm.com/researcher/files/us-bacon/Bacon12AndThen.pdf)
+* [And Then There Were None: A Stall-Free Real-Time Garbage Collector for Reconfigurable Hardware](https://cacm.acm.org/magazines/2013/12/169948-and-then-there-were-none/fulltext)
 
 * [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://www.usenix.org/legacy/publications/library/proceedings/bos94/bonwick.html)
   - [ASCII version](https://www.usenix.org/legacy/publications/library/proceedings/bos94/full_papers/bonwick.a)
   - [POSTSCRIPT version](https://www.usenix.org/legacy/publications/library/proceedings/bos94/full_papers/bonwick.ps)
 
-* :scroll: [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](http://www.icg.tugraz.at/Members/steinber/scatteralloc-1)
+* :scroll: [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://markussteinberger.net/papers/ScatterAlloc.pdf)
 
   Presents a useful algorithm as well as considerations relevant to designing algorithms for GPUs.
 
