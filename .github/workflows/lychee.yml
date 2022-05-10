@@ -17,7 +17,7 @@ jobs:
       #env:
       #  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
-        args: '--verbose --max-retries 4 --no-progress "**/*.md"'
+        args: --verbose --max-retries 4 --no-progress '**/*.md'
 
     - name: Create Issue From File
       uses: peter-evans/create-issue-from-file@v2
