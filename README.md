@@ -33,6 +33,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
+* [Portland](https://www.meetup.com/papers-we-love-pdx/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
