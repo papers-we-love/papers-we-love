@@ -124,7 +124,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Implementing the Omega failure detector in the crash-recovery failure model](implementing-the-omega-failure-detector-in-crash-recovery-failure-model.pdf)
 
-* :scroll: [Impossibility of Distributed Consensuswith One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
+* :scroll: [Impossibility of Distributed Consensus with One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
 
 * :scroll: [In Search of an Understandable Consensus Algorithm](in-search-of-an-understandable-consensus-algorithm.pdf)
 
@@ -156,7 +156,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in
+* :scroll: [Solution of a Problem in
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
@@ -165,7 +165,7 @@ Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-
 
 * :scroll: [The Akamai Network: A Platform for High-Performance Internet Applications](the-akamai-network.pdf)
 
-* :scroll: [The Dining CryptographersProblem:
+* :scroll: [The Dining Cryptographers Problem:
 Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-problem.pdf)
 
 * :scroll: [Tor: The Second-Generation Onion Router](tor-the-second-generation-onion-router.pdf)

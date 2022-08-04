@@ -17,7 +17,7 @@ The included documents are
   significantly better results that popular existing models. This
   paper won a honorable mention at CIKM 2013.
 
-* [:scroll:](the-pagerank-citation-ranking-bringing-order-to-the-web) [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) - Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd
+* [:scroll:](the-pagerank-citation-ranking-bringing-order-to-the-web.pdf) [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) - Lawrence Page, Sergey Brin, Rajeev Motwani and Terry Winograd
 
   This paper introduces the PageRank algorithm, which forms the backbone of
   the present day google search engine. Pagerank operates by assessing the
