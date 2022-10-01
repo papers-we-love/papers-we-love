@@ -93,6 +93,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
+* [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
  
 ### Applications/Ideas built around Papers We Love
 
