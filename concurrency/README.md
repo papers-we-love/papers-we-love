@@ -4,7 +4,7 @@
 
 * [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
-* [Heap Architectures For Concurrent Languages Using Message Passing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.1302&rep=rep1&type=pdf)
+* [Heap Architectures For Concurrent Languages Using Message Passing](http://www.fantasi.se/publications/ISMM02.pdf)
 
 * [Message Analysis for Concurrent Languages](http://user.it.uu.se/~kostis/Papers/escape.pdf)
 
