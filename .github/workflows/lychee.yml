@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
-   
+
     - name: Link Checker
       uses: lycheeverse/lychee-action@master
       #env:
@@ -20,9 +20,8 @@ jobs:
         args: --verbose --max-retries 4 --no-progress '**/*.md'
 
     - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v2
+      uses: peter-evans/create-issue-from-file@v4
       with:
         title: Link Checker Report
         content-filepath: ./lychee/out.md
         labels: report, automated issue
-        
