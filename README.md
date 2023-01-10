@@ -1,58 +1,22 @@
 ﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
- 
- [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+ [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
 Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
-If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Slack](https://paperswelove.slack.com/messages/general/), after [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Discord](https://discord.gg/Tu2VynkRWV) server.
 
 ### Chapters
 
-Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
-
-* [Athens](https://www.meetup.com/Papers-We-Love-Athens)
-* [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
-* [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
-* [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
-* [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
-* [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
-* [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
-* [Buenos Aires](https://paperswelove.org/buenos-aires/)
-* [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
-* [Chicago](http://www.meetup.com/papers-we-love-chicago/)
-* [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
-* [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
-* [Iowa City](https://www.meetup.com/techcorridorio)
-* [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
-* [Kyiv](https://www.facebook.com/groups/PapersWeLoveKyiv)
-* [Lebanon](http://www.paperswelovelb.club)
-* [London](http://www.meetup.com/papers-we-love-london)
-* [Los Angeles](http://www.meetup.com/papers-we-love-la)
-* [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
-* [New York City](http://www.meetup.com/papers-we-love/)
-* [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
-* [Portland](https://www.meetup.com/papers-we-love-pdx/)
-* [Pune](http://www.meetup.com/Doo-Things)
-* [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
-* [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
-* [San Francisco](http://www.meetup.com/papers-we-love-too/)
-* [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
-* [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
-* [Singapore](https://www.facebook.com/groups/paperswelovesg/)
-* [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
-* [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
-* [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
-* [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
-* [Winnipeg](http://pwlwpg.ca/)
-* [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
+Let us know if you are interested in [starting one](https://github.com/papers-we-love/organizers) in your city!
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) and [MixCloud](https://www.mixcloud.com/paperswelove/) (audio-only format) channels.
+Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) channel for videos and video playlists.
 
 ## Info
 
@@ -94,7 +58,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 * [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
- 
+
 ### Applications/Ideas built around Papers We Love
 
 * Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
