@@ -269,4 +269,4 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 An Analysis of Production Failures in Distributed
 Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
-* :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
+* :scroll: [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/ironfleet.pdf))
