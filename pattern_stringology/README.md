@@ -17,5 +17,5 @@
       clarifying the presentation of all the algorithms with a
       unifying framework.
 
-* [Fast String Searching](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.9460&rep=rep1&type=pdf)
+* [Fast String Searching](https://web.archive.org/web/20220912024717/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.9460&rep=rep1&type=pdf)
     - This paper describes techniques to improve the performance of the [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm). 
