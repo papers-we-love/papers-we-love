@@ -2,7 +2,7 @@
 
 * [Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 
-* [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/master/languages-theory/programming-with-algebraic-effects-and-handlers.pdf) [Programming and Reasoning with Algebraic Effects and Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf)
+* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://web.archive.org/web/20150102181601id_/http://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf)
 
 * [Programming Languages: History and Future](http://www.csee.umbc.edu/courses/undergraduate/CMSC331/resources/papers/sammet1972.pdf)
 

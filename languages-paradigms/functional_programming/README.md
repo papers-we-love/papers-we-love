@@ -11,7 +11,7 @@
 The More Things Change, The More They Are the Same](equal-rights-for-functional-objects.pdf)
 * :scroll: [Optimal Purely Functional Priority Queues](optimal-purely-functional-priority-queues.pdf)
 * :scroll: [Why Functional Programming Matters](why-functional-programming-matters.pdf)
-* [:scroll:](purely-functional-data-structures.pdf) [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+* [:scroll:](purely-functional-data-structures.pdf) [Purely Functional Data Structures](https://web.archive.org/web/20051229012826id_/http://www.cs.cmu.edu:80/~rwh/theses/okasaki.pdf)
 
 
 ## Applicative Programming
