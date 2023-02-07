@@ -20,7 +20,7 @@ The included documents are:
   operators which cover a wide set of typical applications.
 
 * [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/master/time_series/ts-asap.pdf)
-  [ASAP: Automatic Smoothing for Attention Prioritization in Streaming Time Series Visualization](http://futuredata.stanford.edu/asap/)  - Kexin Rong, Peter Bailis
+  [ASAP: Automatic Smoothing for Attention Prioritization in Streaming Time Series Visualization](https://arxiv.org/abs/1703.00983)  - Kexin Rong, Peter Bailis
 
   Time Series smoothing method to better prioritize attention in time series
   exploration and monitoring visualizations, smooth the time series as much as
