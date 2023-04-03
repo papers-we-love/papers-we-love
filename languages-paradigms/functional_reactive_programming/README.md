@@ -1,16 +1,16 @@
 # Functional Reactive Programming
 
-* [Functional Reactive Programming, Continued](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/workshop-02.pdf)
+* [Functional Reactive Programming, Continued](https://www.antonycourtney.com/pubs/frpcont.pdf)
 
 * [Event-Driven FRP](http://www.cs.yale.edu/homes/zwan/papers/mcu/efrp.pdf)
 
-* [Real-Time FRP](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/rt-frp.pdf)
+* [Real-Time FRP](https://csiflabs.cs.ucdavis.edu/~johari/refs/rt-frp.pdf)
 
 * [Asynchronous Functional Reactive Programming for GUIs](http://people.seas.harvard.edu/~chong/pubs/pldi13-elm.pdf)
 
 * [Push-Pull Functional Reactive Programming](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
 
-* [Wormholes: Introducing Effects to FRP](http://haskell.cs.yale.edu/wp-content/uploads/2012/08/Winograd-Cort-Wormholes.pdf)
+* [Wormholes: Introducing Effects to FRP](https://www.danwc.com/data/Winograd-Cort-Wormholes.pdf)
 
 * [Elm: Concurrent FRP for Functional GUIs](https://www.seas.harvard.edu/sites/default/files/files/archived/Czaplicki.pdf)
 
