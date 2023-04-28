@@ -11,3 +11,5 @@
 * [Coda](http://www.coda.cs.cmu.edu/ljpaper/lj.html)
 
 * [Frangipani](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf)
+
+* [Actor Formalism](http://worrydream.com/refs/Hewitt-ActorModel.pdf)
