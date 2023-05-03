@@ -1,5 +1,5 @@
 # Design
-* [No Silver Bullet — Essence and Accidents of Software Engineering](http://www.cs.unc.edu/techreports/86-020.pdf)
+<!-- * [No Silver Bullet — Essence and Accidents of Software Engineering](broken-link:http://www.cs.unc.edu/techreports/86-020.pdf) -->
 * [Traits: A Mechanism for Fine-Grained Reuse](http://scg.unibe.ch/archive/papers/Duca06bTOPLASTraits.pdf)
 * [THING-MODEL-VIEW-EDITOR an Example from a planningsystem](http://heim.ifi.uio.no/~trygver/1979/mvc-1/1979-05-MVC.pdf)
 

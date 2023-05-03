@@ -1,6 +1,6 @@
 # Stringology
 
-[Stringology](https://en.wikipedia.org/wiki/String_(computer_science)#String_processing_algorithms) refers to one of the various kinds of string processing algorithms. 
+<!-- [Stringology](broken-link:https://en.wikipedia.org/wiki/String_(computer_science)#String_processing_algorithms) refers to one of the various kinds of string processing algorithms. -->
 
 
 🧭 Part of the pattern-matching group, in PWL

@@ -2,7 +2,7 @@
 
 * [Functional Reactive Programming, Continued](https://www.antonycourtney.com/pubs/frpcont.pdf)
 
-* [Event-Driven FRP](http://www.cs.yale.edu/homes/zwan/papers/mcu/efrp.pdf)
+<!-- * [Event-Driven FRP](broken-link:http://www.cs.yale.edu/homes/zwan/papers/mcu/efrp.pdf) -->
 
 * [Real-Time FRP](https://csiflabs.cs.ucdavis.edu/~johari/refs/rt-frp.pdf)
 

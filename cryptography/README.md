@@ -1,6 +1,6 @@
 # Cryptography 
 
-* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (1977)](http://people.csail.mit.edu/rivest/Rsapaper.pdf)
+<!-- * [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (1977)](broken-link:http://people.csail.mit.edu/rivest/Rsapaper.pdf) -->
 * [Twenty Years of Attacks on the RSA Cryptosystem (1999)](https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf)
 * :scroll: [Communication Theory of Secrecy Systems (1949)](communication-theory-of-secrecy-systems.pdf)
 * [New Directions in Cryptography (1976)](http://www-ee.stanford.edu/~hellman/publications/24.pdf)
