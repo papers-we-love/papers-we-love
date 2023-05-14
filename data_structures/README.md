@@ -9,6 +9,8 @@
 
 ## Hosted Papers
 
+* :scroll: [An Introduction to Bε-trees and Write-Optimization](b-trees-write-optimization.pdf)
+
 * :scroll: [Epidemic Broadcast Trees](epidemic-broadcast-trees.pdf)
 
 * :scroll: [Ideal Hash Trees](ideal-hash-trees.pdf)
