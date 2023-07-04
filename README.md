@@ -68,7 +68,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 Open your favourite terminal and run:
 
 ```bash
-$ ./scripts/download.sh
+./scripts/download.sh
 ```
 
 This will scrape markdown files for links to PDFs and download papers to their respective directories.
