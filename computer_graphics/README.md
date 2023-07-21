@@ -59,3 +59,11 @@ This is a really great paper that is both complex and straightforward. This pape
 
 * [Simulating Ocean Water](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9102&rep=rep1&type=pdf)
   - Seminal paper on water surface simulation and rendering.
+ 
+
+### Matting
+
+* [Blue Screen Matting](https://graphics.stanford.edu/courses/cs148-09-fall/papers/smith-blinn.pdf), by Alvy Ray Smith and James F. Blinn.
+* [Bayesian Approach to Digital Matting](https://grail.cs.washington.edu/projects/digital-matting/papers/cvpr2001.pdf), by Yung-Yu Chuang, Brian Curless, David H. Salesin and Richard Szeliski.
+* [Learning-based Sampling for Natural Image Matting](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning-Based_Sampling_for_Natural_Image_Matting_CVPR_2019_paper.pdf), by Jingwei Tang, Yagız Aksoy, Cengiz Oztireli, Markus Gross and Tunc Ozan Aydın. Disney Research at ETH Zurich.
+
