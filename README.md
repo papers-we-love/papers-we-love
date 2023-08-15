@@ -24,6 +24,7 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Find Papers
 
+* [Synthical, an AI-powered collaborative research environment](https://synthical.com)
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
