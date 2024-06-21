@@ -13,13 +13,12 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, [PapersWeLove.org](http://paperswelove.org), or via remote presentations, please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the [**paperswelove** Discord](https://discord.gg/Tu2VynkRWV), [PapersWeLove.org](http://paperswelove.org), or via remote presentations, please contact:
 
 - **Zeeshan Lakhani** [zeeshan@paperswelove.org](mailto:zeeshan@paperswelove.org)
-- **Ines Sombra** [ines@paperswelove.org](mailto:ines@paperswelove.org)
-- **Elaine Greenberg** [elaine@paperswelove.org](mailto:elaine@paperswelove.org)
 - **Jeremy Heiler** (Github) [jeremy@paperswelove.org](mailto:jeremy@paperswelove.org)
 - **Darren Newton** (paperswelove.org) [darren@paperswelove.org](mailto:darren@paperswelove.org)
+- **David Ashby** (paperswelove.org) [david@paperswelove.org](mailto:david@paperswelove.org)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live and/or live-streaming events. If they are unavailable for some reason, please send a message to our contact email address or to one of our core organizers listed above.
