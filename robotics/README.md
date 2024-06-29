@@ -5,7 +5,7 @@ Robotics
 
 [DP-SLAM: Fast, Robust Simultaneous Localization and Mapping Without Predetermined Landmarks](http://people.ee.duke.edu/~lcarin/Lihan4.21.06a.pdf)
 
-[The Dynamic Window Approach to Collision Avoidance](https://www.csie.ntu.edu.tw/~b92025/paper/Dyanmic_Window.pdf)
+[The Dynamic Window Approach to Collision Avoidance](https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf)
 
 [Online Trajectory Generation: Basic Concepts for Instantaneous Reactions to Unforeseen Events](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5350749)
 
