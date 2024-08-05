@@ -18,3 +18,5 @@ Fast and Flexible Seam Processing](http://www.sci.utah.edu/~bsumma/projects/weav
 * [3D Thermal Imaging: Fusion of Thermography and Depth Cameras](https://www.ndt.net/article/qirt2014/papers/QIRT-2014-035.pdf)
 
 * [Realtime depth map estimation from infrared stereo images of RGB-D cameras](https://isprs-annals.copernicus.org/articles/V-2-2021/107/2021/isprs-annals-V-2-2021-107-2021.pdf)
+  
+* [Generating 3D Models for Prototyping of Virtual Environments using NeRF](https://ieeexplore.ieee.org/document/10493505)
