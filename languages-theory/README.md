@@ -12,6 +12,8 @@
 
 * :scroll: [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
+* :scroll: [Liquid Types](https://goto.ucsd.edu/~rjhala/liquid/liquid_types.pdf)
+
 * :scroll: [Fundamental Concepts in Programming Languages](https://github.com/papers-we-love/papers-we-love/blob/master/languages-theory/fundamental-concepts-in-programming-languages.pdf)
 
 * :scroll: [On Understanding Types,
