@@ -6,7 +6,7 @@
 
 * [Hadoop (HDFS)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
 
-* [Ceph](https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf)
+* [Ceph](https://ceph.io/assets/pdfs/weil-ceph-osdi06.pdf)
 
 * [Coda](http://www.coda.cs.cmu.edu/ljpaper/lj.html)
 
