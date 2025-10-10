@@ -1,3 +1,3 @@
 # Systems modeling
 
-- [Statecharts: A Visual Formalism for Complex Systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
+- [Statecharts: A Visual Formalism for Complex Systems](https://www.weizmann.ac.il/math/harel/sites/math.harel/files/users/user56/Statecharts.pdf)
