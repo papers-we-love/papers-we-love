@@ -20,14 +20,14 @@ Check out our [YouTube](https://www.youtube.com/user/PapersWeLove) channel for v
 
 ## Info
 
-We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
+We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to. Contributions from all experience levels are welcome!
 
 ### Other Good Places to Find Papers
 
-* [2 Minute Papers](https://www.youtube.com/user/keeroyz)
-* [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
-* [arXiv Paper Repository](http://arxiv.org/)
-* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
+* [2 Minute Papers](https://www.youtube.com/user/keeroyz) - Concise summaries of academic papers
+* [alphaXiv](https://www.alphaxiv.org/) - Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL
+* [arXiv Paper Repository](http://arxiv.org/) - Preprint repository for papers in various fields
+* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/) - Historical technical papers
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [cat-v.org](http://doc.cat-v.org/)
 * [eugeneyan/applied-ml GitHub repository](https://github.com/eugeneyan/applied-ml)
