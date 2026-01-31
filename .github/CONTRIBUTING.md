@@ -22,6 +22,63 @@ We want to help bring academic research closer to practitioners and we strive to
 * After raising [this issue](https://github.com/papers-we-love/papers-we-love/issues/290), it would beneficial to also include the *year* along with the title, link, and description/importance when adding paper(s) to a README.
 * Please rebase all multi-commit branches/PRs into 1 single commit.
 
+## Step-by-Step PR Guide
+
+If you are new to contributing, here is a recommended workflow to add papers or update READMEs:
+
+1. **Fork the repository**  
+   Click the "Fork" button on the top-right of the repo page to create your own copy.
+
+2. **Clone your fork locally**  
+```bash
+git clone https://github.com/YOUR_USERNAME/papers-we-love.git
+cd papers-we-love
+```
+Create a new branch
+```bash
+git checkout -b add-new-paper
+```
+Add your paper
+
+Place the PDF (if allowed) in the appropriate subject folder.
+
+Update the folder's README.md with:
+
+Paper title (undercased, dashes), 
+Year, 
+Source URL, 
+Short description / why you love it
+
+Stage and commit your changes
+```bash
+git add .
+git commit -m "Add: out-of-the-tar-pit (2006) 📜"
+```
+Use one commit per PR.
+
+Push your branch
+```bash
+git push origin add-new-paper
+```
+Create a Pull Request (PR).
+
+Navigate to your fork on GitHub.
+
+Click "Compare & pull request".
+
+Ensure your PR description explains what you added and why.
+
+Wait for at least two thumbs up from PWL organizers/collaborators for merge.
+
+Rebase if necessary.
+If your branch has multiple commits or conflicts, rebase into a single commit before PR submission.
+```bash
+git fetch origin
+git rebase origin/main
+git push -f
+```
+Following these steps will make your first PR smooth and merge-ready!
+
 ### Copyright
 
 The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
