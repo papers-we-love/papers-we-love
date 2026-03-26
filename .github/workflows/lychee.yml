@@ -13,14 +13,14 @@ jobs:
     - uses: actions/checkout@v2.3.4
 
     - name: Link Checker
-      uses: lycheeverse/lychee-action@master
+      uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # master
       #env:
       #  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
         args: --verbose --max-retries 4 --no-progress '**/*.md'
 
     - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v4
+      uses: peter-evans/create-issue-from-file@433e51abf769039ee20ba1293a088ca19d573b7f # v4
       with:
         title: Link Checker Report
         content-filepath: ./lychee/out.md
