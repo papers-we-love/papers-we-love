@@ -47,6 +47,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 * [The Morning Paper](http://blog.acolyer.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for research paper workflow orchestration, automated development coordination, and multi-agent management. MIT licensed.
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
