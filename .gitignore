@@ -1,1 +1,7 @@
 .DS_Store
+# SQLite database files - should not be committed to version control
+# as they are file-based with no built-in authentication and expose
+# all stored data to anyone with repository access.
+*.db
+*.sqlite
+*.sqlite3
