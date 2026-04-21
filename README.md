@@ -64,6 +64,7 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 ### Applications/Ideas built around Papers We Love
 
 * Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Download papers
 
