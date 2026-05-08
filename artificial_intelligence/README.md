@@ -15,3 +15,8 @@
     > This paper proposes a method for translating music across musical instruments, genres, and styles. It is based on a multi-domain wavenet autoencoder, with a shared encoder and a disentangled latent space that is trained end-to-end on waveforms. Employing a diverse training dataset and large net capacity, the domain-independent encoder enables translation even from musical domains that were not seen during training. The method is unsupervised and does not rely on supervision in the form of matched samples between domains or musical transcriptions. This method is evaluated on NSynth, as well as on a dataset collected from professional musicians, and achieve convincing translations, even when translating from whistling, potentially enabling the creation of instrumental music by untrained humans.
 
 * [Attention is all you need](http://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf) by Ashish Vaswani et al.
+ 
+* https://medium.com/@mohnishchaudhari/ai-agents-are-changing-everything-and-we-have-to-catch-up-a2d5a2178dc8 by Mohnish Chaudhari
+* https://github.com/incrediblemohnish5/Agentic_AI by Mohnish Chaudhari
+* https://github.com/incrediblemohnish5/Almost_PerfectPromptEngineering by Mohnish Chaudhari
+* https://github.com/incrediblemohnish5/AVOID_AI_ERRORS_v3 by Mohnish Chaudhari
