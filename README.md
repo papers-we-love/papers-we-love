@@ -47,6 +47,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 * [The Morning Paper](http://blog.acolyer.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
+* https://www.jair.org/index.php/jair/index
 
 Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) for links to blogs, books, exchanges that are worth a good read.
 
