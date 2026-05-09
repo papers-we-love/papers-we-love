@@ -15,3 +15,13 @@
     > This paper proposes a method for translating music across musical instruments, genres, and styles. It is based on a multi-domain wavenet autoencoder, with a shared encoder and a disentangled latent space that is trained end-to-end on waveforms. Employing a diverse training dataset and large net capacity, the domain-independent encoder enables translation even from musical domains that were not seen during training. The method is unsupervised and does not rely on supervision in the form of matched samples between domains or musical transcriptions. This method is evaluated on NSynth, as well as on a dataset collected from professional musicians, and achieve convincing translations, even when translating from whistling, potentially enabling the creation of instrumental music by untrained humans.
 
 * [Attention is all you need](http://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf) by Ashish Vaswani et al.
+
+ **[Reinforcement Learning: A Survey](https://www.jair.org/index.php/jair/article/view/10166)**
+  (1996) — L. P. Kaelbling, M. L. Littman, A. W. Moore.
+  The foundational survey that defined the vocabulary and research agenda for the entire
+  field of reinforcement learning. Written when RL was still nascent, it synthesized
+  Markov decision theory, temporal-difference learning, exploration/exploitation tradeoffs,
+  and model-based methods into a single coherent framework that practitioners and theorists
+  still cite today. Arguably the most-cited paper JAIR has ever published, and the paper
+  that made RL legible to a generation of computer scientists who came from ML rather than
+  control theory or psychology.
