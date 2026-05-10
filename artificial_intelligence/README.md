@@ -16,8 +16,7 @@
 
 * [Attention is all you need](http://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf) by Ashish Vaswani et al.
 
- **[Reinforcement Learning: A Survey](https://www.jair.org/index.php/jair/article/view/10166)**
-  (1996) — L. P. Kaelbling, M. L. Littman, A. W. Moore.
+* [Reinforcement Learning: A Survey](https://www.jair.org/index.php/jair/article/view/10166) by L. P. Kaelbling, M. L. Littman, and A. W. Moore (1996).
   The foundational survey that defined the vocabulary and research agenda for the entire
   field of reinforcement learning. Written when RL was still nascent, it synthesized
   Markov decision theory, temporal-difference learning, exploration/exploitation tradeoffs,
