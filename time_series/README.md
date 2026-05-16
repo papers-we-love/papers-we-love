@@ -6,7 +6,7 @@ one-pass processing.
 
 The included documents are:
 
-* [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/master/time_series/operators-on-inhomogeneous-time-series.pdf) [Operators on Inhomogeneous Time Series](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=208278)  - Gilles O. Zumbach and Ulrich A. Müller
+* [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/main/time_series/operators-on-inhomogeneous-time-series.pdf) [Operators on Inhomogeneous Time Series](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=208278)  - Gilles O. Zumbach and Ulrich A. Müller
 
   We present a toolbox to compute and extract information from
   inhomogeneous (i.e. unequally spaced) time series. The toolbox
@@ -19,7 +19,7 @@ The included documents are:
   basic set of operators, we easily construct more powerful combined
   operators which cover a wide set of typical applications.
 
-* [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/master/time_series/ts-asap.pdf)
+* [:scroll:](https://github.com/papers-we-love/papers-we-love/blob/main/time_series/ts-asap.pdf)
   [ASAP: Automatic Smoothing for Attention Prioritization in Streaming Time Series Visualization](https://arxiv.org/abs/1703.00983)  - Kexin Rong, Peter Bailis
 
   Time Series smoothing method to better prioritize attention in time series
