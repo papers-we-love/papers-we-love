@@ -1,4 +1,4 @@
-﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
  [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
 
@@ -27,7 +27,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 * [arXiv Paper Repository](http://arxiv.org/)
-* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
+* [Bell System Technical Journal, 1922-1983](https://archive.org/details/bstj-archives)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [cat-v.org](http://doc.cat-v.org/)
 * [eugeneyan/applied-ml GitHub repository](https://github.com/eugeneyan/applied-ml)
