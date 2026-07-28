@@ -1,4 +1,7 @@
-## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+##Papers We Love 
+
+
+![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
  [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
 
