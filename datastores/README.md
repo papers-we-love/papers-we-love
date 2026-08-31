@@ -42,6 +42,14 @@
 
 * [Towards a Next Generation Data Center Architecture: Scalability and Commoditization](http://research.microsoft.com/pubs/79348/presto27-greenberg.pdf)
 
+* [GenDB: The Next Generation of Query Processing -- Synthesized, Not Engineered (2026)](https://arxiv.org/abs/2603.02081) by Jiale Lao and Immanuel Trummer
+
+  GenDB uses an LLM-powered agent to synthesize query execution code tailored to particular data, workloads, and hardware, making the case for query processing that is generated rather than maintained as a general-purpose engine.
+
+* [Bespoke OLAP: Synthesizing Workload-Specific One-size-fits-one Database Engines (2026)](https://arxiv.org/abs/2603.02001) by Johannes Wehrstein, Timo Eckmann, Matthias Jasny, and Carsten Binnig
+
+  This paper presents an autonomous pipeline that synthesizes a database engine for a fixed OLAP workload, using iterative performance evaluation and validation to turn LLM code generation into a high-performance system-building process.
+
 ## Hosted Papers
 
 * :scroll: [A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster](network-challenges-of-data-recovery-in-erasure-coded-distributed-storage-systems.pdf)
