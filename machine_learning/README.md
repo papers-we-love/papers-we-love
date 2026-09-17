@@ -42,6 +42,10 @@
 
   This paper introduces AlexNet, a neural network architecture which dramatically improved over the state-of-the-art in image classification algorithms and is widely regarded as a breakthrough moment for deep learning.
 
+* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/pdf/2312.00752.pdf) by Albert Gu and Tri Dao
+
+  This paper introduces Mamba, a state-space model with linear-time sequence processing that rivals Transformer performance while enabling extremely long context windows with lower compute — challenging the dominance of attention-based architectures for sequence modeling.
+
 * [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/pdf/1901.04592.pdf)
 
   This paper introduces the foundations of the rapidly emerging field of interpretable machine learning.
