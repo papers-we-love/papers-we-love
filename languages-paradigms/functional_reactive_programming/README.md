@@ -19,7 +19,7 @@
 
 * :scroll: [A Survey of Functional Reactive Programming](a-survey-of-functional-reactive-programming.pdf)
 
-* :scroll: [Deprecating the Observer Pattern](deprecating-the observer-pattern.pdf)
+* :scroll: [Deprecating the Observer Pattern](deprecating-the-observer-pattern.pdf)
 
 * :scroll: [FrTime: Functional Reactive Programming in PLT Scheme](frp-in-plt-scheme.pdf)
 

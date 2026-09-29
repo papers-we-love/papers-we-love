@@ -14,7 +14,7 @@
 
   The *graph isomorphism problem* shows how to construct graphs using a simple building-block ("basis"). The same method applies to finding different building blocks to construct the same things. This technique can be applied to file systems, greplin, trees, virtual DOM, etc.
 
-  A short paper, it also shows how to use `𝔰𝔩₂(ℂ)` as a simple mathematical object that leads into the area of real mathematics—represention theory.
+  A short paper, it also shows how to use `𝔰𝔩₂(ℂ)` as a simple mathematical object that leads into the area of real mathematics—representation theory.
 
 * [Conway's ZIP proof](https://www.maths.ed.ac.uk/~v1ranick/papers/francisweeks.pdf) by George Francis and Jeffrey Weeks
 

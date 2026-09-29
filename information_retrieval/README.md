@@ -27,7 +27,7 @@ The included documents are
   Engine) in the [Anatomy of a Large-Scale Hypertextual Web Search Engine]
   http://infolab.stanford.edu/~backrub/google.html which assigned page ranks to
   every webpage in the world wide web. Google is currently the most commercially
-  sucessful generic search engine in the world.
+  successful generic search engine in the world.
 
 * [:scroll:](okapi-at-trec3.pdf) [Okapi at TREC3](http://trec.nist.gov/pubs/trec3/papers/city.ps.gz) - Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford
 
@@ -40,7 +40,7 @@ The included documents are
   of picking a doc randomly and it containing that term :p(q) = n(q) / D,
   where D is the number of documents. The information content based on
   shannon's noisy channel model is = -log(p(q)) = log (D / n(q)). Smoothing
-  by adding a constant to both numberator and demoninator leads to IDF term
+  by adding a constant to both numerator and denominator leads to IDF term
   used in BM25. BM25 has been shown to be one of the best probabilistic
   weighting schemes. While the paper was in postscript form, the committer has
   changed the format to pdf as per guidelines of papers we love via ps2pdf.
@@ -49,7 +49,7 @@ The included documents are
 
   This paper introduces the **HITS algorithm**, a link analysis algorithm that rates webpages.
   Unlike the more famous page rank algorithm, the hits algorithm makes a distinction between 
-  webpage behavior classifies them as hubs and authorities. A page is authoratitative 
+  webpage behavior classifies them as hubs and authorities. A page is authoritative 
   (in the sense the page has a large number of  incoming links) or acts as a hub 
   (a directory of sort, which can be measured by the number of outgoing link).
   The hits algorithm computes two scores for a page (authority and hub score) where 

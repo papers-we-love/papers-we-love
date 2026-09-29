@@ -9,7 +9,7 @@ Robotics
 
 [Online Trajectory Generation: Basic Concepts for Instantaneous Reactions to Unforeseen Events](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5350749)
 
-[Probablistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces](https://www.cs.cmu.edu/~./motionplanning/papers/sbp_papers/PRM/prmbasic_01.pdf)
+[Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces](https://www.cs.cmu.edu/~./motionplanning/papers/sbp_papers/PRM/prmbasic_01.pdf)
 
 [Rapidly-Exploring Random Trees: A New Tool for Path Planning](http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)
 

@@ -17,4 +17,4 @@
 
 * :scroll: [The Least Common Ancestor Problem revisited](lca-revisited.pdf)
 
-* :scroll: [The Level Ancestor Problem simplifed](level-ancestor-simplified.pdf)
+* :scroll: [The Level Ancestor Problem simplified](level-ancestor-simplified.pdf)
