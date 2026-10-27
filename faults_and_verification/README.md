@@ -10,7 +10,7 @@
 
 ## Fault Protection
 
-* [GN&C Fault Protection Fundamentals](https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf)
+* [GN&C Fault Protection Fundamentals](https://dataverse.jpl.nasa.gov/api/access/datafile/3492)
 > As software becomes more and more integrated in our daily lives, we
 > need, more than ever, for the software we write to work reliably in a
 > wide range of conditions--even, and especially, in unexpected
