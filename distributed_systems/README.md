@@ -15,6 +15,8 @@
 
 * [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 
+* [Anatomy of a Payment: Clearing, Settlement & Ledger Architecture (2026)](https://doi.org/10.5281/zenodo.24444210) - Jay Thorne, Digbijoy Labs (CC-BY-4.0 working paper with [Apache-2.0 interactive workbench](https://digbijoylabs.github.io/anatomy-of-a-payment/)).
+
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 
 * [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
